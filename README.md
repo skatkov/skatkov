@@ -10,9 +10,9 @@ You can find more about me at:
 - https://skatkov.com
 - https://twitter.com/5katkov
 
-Previously I was a Rails freelancer, hands-on project lead, I tried to bootstrap my own startup and now I'm employeed as a Senior Back-end Developer.
+Previously I was a Rails freelancer, hands-on project lead, bootstraped a SaaS and now I'm employeed as a Senior Back-end Developer.
 
-Mainly working on improving my #golang skills and contributing to open source in free time.
+Now I'm mainly working on improving #golang skills and contributing to open source.
 
 I'm open to interesting collaborations and other offers, reach out to **github(at)skatkov(dot)com** if you would like to talk. 
 
