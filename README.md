@@ -16,4 +16,7 @@ Mainly working on improving my #golang skills and contributing to open source in
 
 I'm open to interesting collaborations and other offers, reach out to **github(at)skatkov(dot)com** if you would like to talk. 
 
-⚡ Fun fact: I started out as QA engineer in IT, so I take testing very seriously :)
+⚡ Fun fact: I started out as QA engineer in IT, so I take testing seriously :)
+
+
+Stay awesome, people!
