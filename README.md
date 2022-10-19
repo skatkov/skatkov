@@ -19,12 +19,12 @@
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to markdown generator 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) -  
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files 
-- [skatkov/liht](https://github.com/skatkov/liht) -  
-- [skatkov/rsshub-rb](https://github.com/skatkov/rsshub-rb) - ruby client for rsshub 
 - [skatkov/briefcake-webextension](https://github.com/skatkov/briefcake-webextension) -  
 - [skatkov/clojure-bank](https://github.com/skatkov/clojure-bank) -  
 - [skatkov/danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint yaml files and fixtures. 
-- [skatkov/danger-rubyc](https://github.com/skatkov/danger-rubyc) - Danger plugin to validate syntax for ruby files
+- [skatkov/danger-rubyc](https://github.com/skatkov/danger-rubyc) - Danger plugin to validate syntax for ruby files 
+- [skatkov/rssmailer.app](https://github.com/skatkov/rssmailer.app) -  
+- [skatkov/monkey-runner](https://github.com/skatkov/monkey-runner) - 
 
 #### 🔭 Latest releases I've contributed to
  
