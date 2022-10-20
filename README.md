@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to markdown generator (today) 
-- [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (today) 
+- [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (1 day ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (3 weeks ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (3 weeks ago) 
 - [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (1 month ago) 
@@ -28,21 +28,21 @@
 
 #### 🔭 Latest releases I've contributed to
  
-- [bensheldon/good_job](https://github.com/bensheldon/good_job) ([v3.5.0](https://github.com/bensheldon/good_job/releases/tag/v3.5.0), 1 day ago) - Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails. 
+- [bensheldon/good_job](https://github.com/bensheldon/good_job) ([v3.5.0](https://github.com/bensheldon/good_job/releases/tag/v3.5.0), 2 days ago) - Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails. 
 - [skatkov/stoic](https://github.com/skatkov/stoic) ([0.5](https://github.com/skatkov/stoic/releases/tag/0.5), 1 month ago) - Command line app for daily journaling with plain-text files
 
 #### 🔨 My recent Pull Requests
  
-- [Adding sqlite index database](https://github.com/skatkov/rdoc-markdown/pull/16) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [Refactoring](https://github.com/skatkov/rdoc-markdown/pull/13) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [make template more readable](https://github.com/skatkov/rdoc-markdown/pull/10) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [convert description into markdown with reverse_markdown](https://github.com/skatkov/rdoc-markdown/pull/7) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Handle ruby](https://github.com/skatkov/rdoc-markdown/pull/6) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Extend sqlite support](https://github.com/skatkov/rdoc-markdown/pull/17) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Adding sqlite index database](https://github.com/skatkov/rdoc-markdown/pull/16) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [Refactoring](https://github.com/skatkov/rdoc-markdown/pull/13) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [make template more readable](https://github.com/skatkov/rdoc-markdown/pull/10) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [convert description into markdown with reverse_markdown](https://github.com/skatkov/rdoc-markdown/pull/7) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Handle ruby](https://github.com/skatkov/rdoc-markdown/pull/6) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [Create LICENSE](https://github.com/skatkov/rdoc-markdown/pull/5) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [adding file_dir attribute to generator](https://github.com/skatkov/rdoc-markdown/pull/4) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Generate markdown](https://github.com/skatkov/rdoc-markdown/pull/3) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [this template has been tested on ruby/ruby repo and survived](https://github.com/skatkov/rdoc-markdown/pull/2) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Adding classes generator in markdown](https://github.com/skatkov/rdoc-markdown/pull/1) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
+- [this template has been tested on ruby/ruby repo and survived](https://github.com/skatkov/rdoc-markdown/pull/2) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
