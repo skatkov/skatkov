@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Extend sqlite support](https://github.com/skatkov/rdoc-markdown/pull/17) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Adding sqlite index database](https://github.com/skatkov/rdoc-markdown/pull/16) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [Refactoring](https://github.com/skatkov/rdoc-markdown/pull/13) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
@@ -41,8 +42,7 @@
 - [Handle ruby](https://github.com/skatkov/rdoc-markdown/pull/6) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [Create LICENSE](https://github.com/skatkov/rdoc-markdown/pull/5) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [adding file_dir attribute to generator](https://github.com/skatkov/rdoc-markdown/pull/4) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Generate markdown](https://github.com/skatkov/rdoc-markdown/pull/3) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [this template has been tested on ruby/ruby repo and survived](https://github.com/skatkov/rdoc-markdown/pull/2) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
+- [Generate markdown](https://github.com/skatkov/rdoc-markdown/pull/3) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
