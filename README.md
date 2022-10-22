@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
  
-- [bensheldon/good_job](https://github.com/bensheldon/good_job) ([v3.5.1](https://github.com/bensheldon/good_job/releases/tag/v3.5.1), 2 days ago) - Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails. 
+- [bensheldon/good_job](https://github.com/bensheldon/good_job) ([v3.6.0](https://github.com/bensheldon/good_job/releases/tag/v3.6.0), today) - Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails. 
 - [skatkov/stoic](https://github.com/skatkov/stoic) ([0.5](https://github.com/skatkov/stoic/releases/tag/0.5), 2 months ago) - Command line app for daily journaling with plain-text files
 
 #### 🔨 My recent Pull Requests
