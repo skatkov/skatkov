@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to markdown generator (2 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (today) 
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (3 days ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (3 weeks ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (3 weeks ago) 
@@ -16,7 +16,7 @@
 #### 🌱 My latest projects
  
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to markdown generator 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) -  
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files 
 - [skatkov/briefcake-webextension](https://github.com/skatkov/briefcake-webextension) -  
@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [0.2: Anchors, Better Unintent, Improved comment around code](https://github.com/skatkov/rdoc-markdown/pull/22) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [Extend sqlite support](https://github.com/skatkov/rdoc-markdown/pull/17) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
 - [Adding sqlite index database](https://github.com/skatkov/rdoc-markdown/pull/16) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
@@ -41,8 +42,7 @@
 - [convert description into markdown with reverse_markdown](https://github.com/skatkov/rdoc-markdown/pull/7) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Handle ruby](https://github.com/skatkov/rdoc-markdown/pull/6) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Create LICENSE](https://github.com/skatkov/rdoc-markdown/pull/5) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [adding file_dir attribute to generator](https://github.com/skatkov/rdoc-markdown/pull/4) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Generate markdown](https://github.com/skatkov/rdoc-markdown/pull/3) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
+- [adding file_dir attribute to generator](https://github.com/skatkov/rdoc-markdown/pull/4) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
