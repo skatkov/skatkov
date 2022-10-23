@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [minimize markdown.rb, improve description of gem](https://github.com/skatkov/rdoc-markdown/pull/24) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [0.2: Anchors, Better Unintent, Improved comment around code](https://github.com/skatkov/rdoc-markdown/pull/22) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
 - [Extend sqlite support](https://github.com/skatkov/rdoc-markdown/pull/17) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
@@ -41,8 +42,7 @@
 - [make template more readable](https://github.com/skatkov/rdoc-markdown/pull/10) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [convert description into markdown with reverse_markdown](https://github.com/skatkov/rdoc-markdown/pull/7) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Handle ruby](https://github.com/skatkov/rdoc-markdown/pull/6) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Create LICENSE](https://github.com/skatkov/rdoc-markdown/pull/5) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [adding file_dir attribute to generator](https://github.com/skatkov/rdoc-markdown/pull/4) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
+- [Create LICENSE](https://github.com/skatkov/rdoc-markdown/pull/5) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
