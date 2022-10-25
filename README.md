@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 day ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (today) 
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (6 days ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (1 month ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 month ago) 
