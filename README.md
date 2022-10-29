@@ -10,20 +10,20 @@
 - [docmeta/rubydoc.info](https://github.com/docmeta/rubydoc.info) - Next generation rdoc.info site (1 month ago) 
 - [damog/feedbag](https://github.com/damog/feedbag) - Ruby&#39;s favorite feed auto-discovery library/tool (1 month ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) -  (2 months ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 months ago) 
 - [mailpace/mailpace-rails](https://github.com/mailpace/mailpace-rails) - A plugin for ActionMailer to send emails via MailPace.com (2 months ago)
 
 #### 🌱 My latest projects
  
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) -  
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files 
 - [skatkov/briefcake-webextension](https://github.com/skatkov/briefcake-webextension) -  
-- [skatkov/clojure-bank](https://github.com/skatkov/clojure-bank) -  
+- [skatkov/clojure-bank](https://github.com/skatkov/clojure-bank) - Playing around with Clojure. 
 - [skatkov/danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint yaml files and fixtures. 
 - [skatkov/danger-rubyc](https://github.com/skatkov/danger-rubyc) - Danger plugin to validate syntax for ruby files 
-- [skatkov/rssmailer.app](https://github.com/skatkov/rssmailer.app) -  
+- [skatkov/rssmailer.app](https://github.com/skatkov/rssmailer.app) - Using netlify redirect to redirect from rssmailer.app to briefcake.com 
 - [skatkov/monkey-runner](https://github.com/skatkov/monkey-runner) - 
 
 #### 🔭 Latest releases I've contributed to
