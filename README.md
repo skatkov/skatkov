@@ -6,12 +6,7 @@
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (1 week ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (1 month ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 month ago) 
-- [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (1 month ago) 
-- [docmeta/rubydoc.info](https://github.com/docmeta/rubydoc.info) - Next generation rdoc.info site (1 month ago) 
-- [damog/feedbag](https://github.com/damog/feedbag) - Ruby&#39;s favorite feed auto-discovery library/tool (1 month ago) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 months ago) 
-- [mailpace/mailpace-rails](https://github.com/mailpace/mailpace-rails) - A plugin for ActionMailer to send emails via MailPace.com (2 months ago)
+- [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (1 month ago)
 
 #### 🌱 My latest projects
  
@@ -19,17 +14,8 @@
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files 
-- [skatkov/briefcake-webextension](https://github.com/skatkov/briefcake-webextension) -  
-- [skatkov/clojure-bank](https://github.com/skatkov/clojure-bank) - Playing around with Clojure. 
-- [skatkov/danger-yamlint](https://github.com/skatkov/danger-yamlint) - A no-dependency Danger plugin to lint yaml files and fixtures. 
-- [skatkov/danger-rubyc](https://github.com/skatkov/danger-rubyc) - Danger plugin to validate syntax for ruby files 
-- [skatkov/rssmailer.app](https://github.com/skatkov/rssmailer.app) - Using netlify redirect to redirect from rssmailer.app to briefcake.com 
-- [skatkov/monkey-runner](https://github.com/skatkov/monkey-runner) - 
+- [skatkov/briefcake-webextension](https://github.com/skatkov/briefcake-webextension) - Browser extension for briefcake.com
 
-#### 🔭 Latest releases I've contributed to
- 
-- [bensheldon/good_job](https://github.com/bensheldon/good_job) ([v3.6.0](https://github.com/bensheldon/good_job/releases/tag/v3.6.0), 1 week ago) - Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails. 
-- [skatkov/stoic](https://github.com/skatkov/stoic) ([0.5](https://github.com/skatkov/stoic/releases/tag/0.5), 2 months ago) - Command line app for daily journaling with plain-text files
 
 #### 🔨 My recent Pull Requests
  
