@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (4 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (5 days ago) 
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (1 week ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (1 month ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 month ago) 
@@ -19,8 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [CI: validate syntax with StandardRb](https://github.com/skatkov/rdoc-markdown/pull/27) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [V03](https://github.com/skatkov/rdoc-markdown/pull/25) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
+- [CI: validate syntax with StandardRb](https://github.com/skatkov/rdoc-markdown/pull/27) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [V03](https://github.com/skatkov/rdoc-markdown/pull/25) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [minimize markdown.rb, improve description of gem](https://github.com/skatkov/rdoc-markdown/pull/24) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [0.2: Anchors, Better Unintent, Improved comment around code](https://github.com/skatkov/rdoc-markdown/pull/22) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
