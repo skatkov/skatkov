@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 day ago) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (2 days ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 week ago) 
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (2 weeks ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (1 month ago) 
@@ -23,7 +23,7 @@
 - [V03](https://github.com/skatkov/rdoc-markdown/pull/25) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [minimize markdown.rb, improve description of gem](https://github.com/skatkov/rdoc-markdown/pull/24) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [0.2: Anchors, Better Unintent, Improved comment around code](https://github.com/skatkov/rdoc-markdown/pull/22) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
+- [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Extend sqlite support](https://github.com/skatkov/rdoc-markdown/pull/17) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Adding sqlite index database](https://github.com/skatkov/rdoc-markdown/pull/16) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Refactoring](https://github.com/skatkov/rdoc-markdown/pull/13) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
@@ -34,7 +34,7 @@
  
 - [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (2 months ago) 
 - [Benchmarking content-type and http_headers/content_type gems](https://gist.github.com/eb18ae1f9f75e822812b64a0ae44915d) (3 months ago) 
-- [](https://gist.github.com/601258666185b0e7af6339ac2c19f642) (8 months ago) 
+- [](https://gist.github.com/601258666185b0e7af6339ac2c19f642) (9 months ago) 
 - [extract Ruby dependencies](https://gist.github.com/e32f3f491665d2d4d570f9576abd1f0e) (2 years ago) 
 - [Benchmark to compare hash, OpenStruct, struct, and classes in Ruby](https://gist.github.com/c32ffff81dc22e2e955533e4591b335c) (2 years ago)
 
