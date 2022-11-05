@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (today) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (4 days ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 week ago) 
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (2 weeks ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (1 month ago) 
 - [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (1 month ago)
