@@ -4,7 +4,7 @@
  
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 week ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (2 weeks ago) 
-- [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (3 weeks ago) 
+- [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (4 weeks ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (1 month ago) 
 - [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (2 months ago)
 
@@ -20,12 +20,12 @@
 #### 🔨 My recent Pull Requests
  
 - [Fix attribute names](https://github.com/skatkov/rdoc-markdown/pull/28) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [CI: validate syntax with StandardRb](https://github.com/skatkov/rdoc-markdown/pull/27) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
+- [CI: validate syntax with StandardRb](https://github.com/skatkov/rdoc-markdown/pull/27) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [V03](https://github.com/skatkov/rdoc-markdown/pull/25) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [minimize markdown.rb, improve description of gem](https://github.com/skatkov/rdoc-markdown/pull/24) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [0.2: Anchors, Better Unintent, Improved comment around code](https://github.com/skatkov/rdoc-markdown/pull/22) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [Extend sqlite support](https://github.com/skatkov/rdoc-markdown/pull/17) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
+- [Extend sqlite support](https://github.com/skatkov/rdoc-markdown/pull/17) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago) 
 - [Adding sqlite index database](https://github.com/skatkov/rdoc-markdown/pull/16) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago) 
 - [Refactoring](https://github.com/skatkov/rdoc-markdown/pull/13) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
 - [make template more readable](https://github.com/skatkov/rdoc-markdown/pull/10) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago)
