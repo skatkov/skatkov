@@ -24,9 +24,9 @@
 - [V03](https://github.com/skatkov/rdoc-markdown/pull/25) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [minimize markdown.rb, improve description of gem](https://github.com/skatkov/rdoc-markdown/pull/24) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [0.2: Anchors, Better Unintent, Improved comment around code](https://github.com/skatkov/rdoc-markdown/pull/22) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
+- [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago) 
 - [Extend sqlite support](https://github.com/skatkov/rdoc-markdown/pull/17) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago) 
-- [Adding sqlite index database](https://github.com/skatkov/rdoc-markdown/pull/16) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago) 
+- [Adding sqlite index database](https://github.com/skatkov/rdoc-markdown/pull/16) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
 - [Refactoring](https://github.com/skatkov/rdoc-markdown/pull/13) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
 - [make template more readable](https://github.com/skatkov/rdoc-markdown/pull/10) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago)
 
