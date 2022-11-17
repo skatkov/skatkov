@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 week ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (today) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (2 weeks ago) 
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts (4 weeks ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (1 month ago) 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [ading examples/ folder and generate.sh script](https://github.com/skatkov/rdoc-markdown/pull/29) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Fix attribute names](https://github.com/skatkov/rdoc-markdown/pull/28) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [CI: validate syntax with StandardRb](https://github.com/skatkov/rdoc-markdown/pull/27) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [V03](https://github.com/skatkov/rdoc-markdown/pull/25) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
@@ -27,8 +28,7 @@
 - [fix github action for ruby](https://github.com/skatkov/rdoc-markdown/pull/18) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago) 
 - [Extend sqlite support](https://github.com/skatkov/rdoc-markdown/pull/17) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago) 
 - [Adding sqlite index database](https://github.com/skatkov/rdoc-markdown/pull/16) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
-- [Refactoring](https://github.com/skatkov/rdoc-markdown/pull/13) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
-- [make template more readable](https://github.com/skatkov/rdoc-markdown/pull/10) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago)
+- [Refactoring](https://github.com/skatkov/rdoc-markdown/pull/13) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago)
 
 #### 📓 Gists I wrote
  
