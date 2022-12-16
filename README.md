@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (today) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (3 days ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (2 months ago) 
 - [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (3 months ago) 
-- [docmeta/rubydoc.info](https://github.com/docmeta/rubydoc.info) - Next generation rdoc.info site (3 months ago) 
-- [damog/feedbag](https://github.com/damog/feedbag) - Ruby&#39;s favorite feed auto-discovery library/tool (3 months ago)
+- [docmeta/rubydoc.info](https://github.com/docmeta/rubydoc.info) - Next generation rdoc.info site (3 months ago)
 
 #### 🌱 My latest projects
  
