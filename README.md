@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (2 weeks ago) 
+- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (3 weeks ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (3 weeks ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (3 months ago) 
 - [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (3 months ago) 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Make sure that we&#39;re testing against all rails versions.](https://github.com/cheddar-me/pbbuilder/pull/25) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
+- [Make sure that we&#39;re testing against all rails versions.](https://github.com/cheddar-me/pbbuilder/pull/25) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
 - [update actions/github package to v5](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action/pull/1) on [cheddar-me/fork-simplecov-resultset-diff-action](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action) (2 weeks ago) 
 - [Update GitHub action](https://github.com/DFE-Digital/simplecov-resultset-diff-action/pull/2) on [DFE-Digital/simplecov-resultset-diff-action](https://github.com/DFE-Digital/simplecov-resultset-diff-action) (2 weeks ago) 
 - [prepare for 0.13.0 release](https://github.com/cheddar-me/pbbuilder/pull/19) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 weeks ago) 
