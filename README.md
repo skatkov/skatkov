@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [introduce ActionController::Caching and #controller_name method to a gem](https://github.com/cheddar-me/rails-twirp/pull/31) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (today) 
+- [Add ActionController::Caching and #controller_name](https://github.com/cheddar-me/rails-twirp/pull/31) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (today) 
 - [prepare for 0.13.0 release](https://github.com/cheddar-me/pbbuilder/pull/28) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago) 
 - [lossen google-protobuf dependency](https://github.com/cheddar-me/pbbuilder/pull/27) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago) 
 - [Introduce Fragment Caching](https://github.com/cheddar-me/pbbuilder/pull/26) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
