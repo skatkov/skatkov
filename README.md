@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (today) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (6 days ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (1 month ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (4 months ago) 
-- [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (4 months ago) 
-- [docmeta/rubydoc.info](https://github.com/docmeta/rubydoc.info) - Next generation rdoc.info site (4 months ago)
+- [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (4 months ago)
 
 #### 🌱 My latest projects
  
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Add ActionController::Caching and #controller_name](https://github.com/cheddar-me/rails-twirp/pull/31) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 day ago) 
+- [v.0.13.0: Add ActionController::Caching and #controller_name](https://github.com/cheddar-me/rails-twirp/pull/31) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 day ago) 
 - [prepare for 0.13.0 release](https://github.com/cheddar-me/pbbuilder/pull/28) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (6 days ago) 
 - [lossen google-protobuf dependency](https://github.com/cheddar-me/pbbuilder/pull/27) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (6 days ago) 
 - [Introduce Fragment Caching](https://github.com/cheddar-me/pbbuilder/pull/26) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
