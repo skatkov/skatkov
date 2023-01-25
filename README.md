@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (1 day ago) 
+- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (today) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 day ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (1 month ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (4 months ago) 
@@ -19,7 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [fix a formatting issues in dummy app](https://github.com/cheddar-me/rails-twirp/pull/32) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 day ago) 
+- [Can&#39;t remove test folder out of gem](https://github.com/cheddar-me/rails-twirp/pull/33) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (today) 
+- [fix formatting issues in dummy app](https://github.com/cheddar-me/rails-twirp/pull/32) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 day ago) 
 - [merge! method to support boolean values](https://github.com/cheddar-me/pbbuilder/pull/29) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
 - [v.0.13.0: Add ActionController::Caching and #controller_name](https://github.com/cheddar-me/rails-twirp/pull/31) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 days ago) 
 - [prepare for 0.13.0 release](https://github.com/cheddar-me/pbbuilder/pull/28) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Introduce Fragment Caching](https://github.com/cheddar-me/pbbuilder/pull/26) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [remove branch coverage metric:](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action/pull/2) on [cheddar-me/fork-simplecov-resultset-diff-action](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action) (1 week ago) 
 - [Remove branch coverage](https://github.com/DFE-Digital/simplecov-resultset-diff-action/pull/3) on [DFE-Digital/simplecov-resultset-diff-action](https://github.com/DFE-Digital/simplecov-resultset-diff-action) (1 week ago) 
-- [Make sure that we&#39;re testing against all rails versions.](https://github.com/cheddar-me/pbbuilder/pull/25) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
-- [update actions/github package to v5](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action/pull/1) on [cheddar-me/fork-simplecov-resultset-diff-action](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action) (1 month ago)
+- [Make sure that we&#39;re testing against all rails versions.](https://github.com/cheddar-me/pbbuilder/pull/25) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago)
 
 #### 📓 Gists I wrote
  
