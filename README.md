@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [remove JBUILDER from tests](https://github.com/cheddar-me/pbbuilder/pull/30) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [Can&#39;t remove test folder out of gem](https://github.com/cheddar-me/rails-twirp/pull/33) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (today) 
 - [fix formatting issues in dummy app](https://github.com/cheddar-me/rails-twirp/pull/32) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 day ago) 
 - [merge! method to support boolean values](https://github.com/cheddar-me/pbbuilder/pull/29) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
@@ -27,8 +28,7 @@
 - [lossen google-protobuf dependency](https://github.com/cheddar-me/pbbuilder/pull/27) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [Introduce Fragment Caching](https://github.com/cheddar-me/pbbuilder/pull/26) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [remove branch coverage metric:](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action/pull/2) on [cheddar-me/fork-simplecov-resultset-diff-action](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action) (1 week ago) 
-- [Remove branch coverage](https://github.com/DFE-Digital/simplecov-resultset-diff-action/pull/3) on [DFE-Digital/simplecov-resultset-diff-action](https://github.com/DFE-Digital/simplecov-resultset-diff-action) (1 week ago) 
-- [Make sure that we&#39;re testing against all rails versions.](https://github.com/cheddar-me/pbbuilder/pull/25) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago)
+- [Remove branch coverage](https://github.com/DFE-Digital/simplecov-resultset-diff-action/pull/3) on [DFE-Digital/simplecov-resultset-diff-action](https://github.com/DFE-Digital/simplecov-resultset-diff-action) (1 week ago)
 
 #### 📓 Gists I wrote
  
