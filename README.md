@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/32) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
+- [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/31) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [remove JBUILDER from tests](https://github.com/cheddar-me/pbbuilder/pull/30) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago) 
 - [Can&#39;t remove test folder out of gem](https://github.com/cheddar-me/rails-twirp/pull/33) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (5 days ago) 
 - [fix formatting issues in dummy app](https://github.com/cheddar-me/rails-twirp/pull/32) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (6 days ago) 
@@ -26,9 +28,7 @@
 - [v.0.13.0: Add ActionController::Caching and #controller_name](https://github.com/cheddar-me/rails-twirp/pull/31) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 week ago) 
 - [prepare for 0.13.0 release](https://github.com/cheddar-me/pbbuilder/pull/28) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [lossen google-protobuf dependency](https://github.com/cheddar-me/pbbuilder/pull/27) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
-- [Introduce Fragment Caching](https://github.com/cheddar-me/pbbuilder/pull/26) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
-- [remove branch coverage metric:](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action/pull/2) on [cheddar-me/fork-simplecov-resultset-diff-action](https://github.com/cheddar-me/fork-simplecov-resultset-diff-action) (2 weeks ago) 
-- [Remove branch coverage](https://github.com/DFE-Digital/simplecov-resultset-diff-action/pull/3) on [DFE-Digital/simplecov-resultset-diff-action](https://github.com/DFE-Digital/simplecov-resultset-diff-action) (2 weeks ago)
+- [Introduce Fragment Caching](https://github.com/cheddar-me/pbbuilder/pull/26) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
