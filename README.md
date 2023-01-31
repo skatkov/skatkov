@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (4 days ago) 
-- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (5 days ago) 
+- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (5 days ago) 
+- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (6 days ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (1 month ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (4 months ago) 
 - [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (4 months ago)
@@ -19,12 +19,12 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/32) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
-- [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/31) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
-- [remove JBUILDER from tests](https://github.com/cheddar-me/pbbuilder/pull/30) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago) 
-- [Can&#39;t remove test folder out of gem](https://github.com/cheddar-me/rails-twirp/pull/33) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (5 days ago) 
-- [fix formatting issues in dummy app](https://github.com/cheddar-me/rails-twirp/pull/32) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (6 days ago) 
-- [merge! method to support boolean values](https://github.com/cheddar-me/pbbuilder/pull/29) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (6 days ago) 
+- [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/32) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
+- [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/31) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
+- [remove JBUILDER from tests](https://github.com/cheddar-me/pbbuilder/pull/30) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (6 days ago) 
+- [Can&#39;t remove test folder out of gem](https://github.com/cheddar-me/rails-twirp/pull/33) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (6 days ago) 
+- [fix formatting issues in dummy app](https://github.com/cheddar-me/rails-twirp/pull/32) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 week ago) 
+- [merge! method to support boolean values](https://github.com/cheddar-me/pbbuilder/pull/29) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [v.0.13.0: Add ActionController::Caching and #controller_name](https://github.com/cheddar-me/rails-twirp/pull/31) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 week ago) 
 - [prepare for 0.13.0 release](https://github.com/cheddar-me/pbbuilder/pull/28) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [lossen google-protobuf dependency](https://github.com/cheddar-me/pbbuilder/pull/27) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
