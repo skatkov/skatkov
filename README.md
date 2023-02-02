@@ -14,7 +14,7 @@
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files 
-- [skatkov/briefcake-webextension](https://github.com/skatkov/briefcake-webextension) - Browser extension for briefcake.com
+- [skatkov/clojure-bank](https://github.com/skatkov/clojure-bank) - Playing around with Clojure.
 
 
 #### 🔨 My recent Pull Requests
