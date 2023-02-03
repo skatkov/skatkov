@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Recover from a possible race condition in FileCache](https://github.com/cheddar-me/pbbuilder/pull/33) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
+- [Recover from race condition in ActiveSupport::Cache::FileStore](https://github.com/cheddar-me/pbbuilder/pull/33) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/32) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 days ago) 
 - [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/31) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 days ago) 
 - [remove JBUILDER from tests](https://github.com/cheddar-me/pbbuilder/pull/30) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
