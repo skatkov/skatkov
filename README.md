@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 week ago) 
+- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (today) 
 - [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (1 week ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (1 month ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (4 months ago) 
