@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [cache: handle repeated-field](https://github.com/cheddar-me/pbbuilder/pull/35) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
+- [cache: handle partials as well](https://github.com/cheddar-me/pbbuilder/pull/35) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
 - [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 days ago) 
 - [cache write: fix rescued error def](https://github.com/cheddar-me/pbbuilder/pull/34) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
 - [Provide a custom directory for standard](https://github.com/amoeba/standardrb-action/pull/4) on [amoeba/standardrb-action](https://github.com/amoeba/standardrb-action) (2 weeks ago) 
