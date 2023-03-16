@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [add frozen_string_literal: to all files](https://github.com/cheddar-me/pbbuilder/pull/36) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
+- [adding # frozen_string_literal: true in all files](https://github.com/cheddar-me/rails-twirp/pull/34) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (today) 
 - [Draft: migration generator &amp; unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/20) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
 - [cache: handle partials as well](https://github.com/cheddar-me/pbbuilder/pull/35) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 weeks ago) 
 - [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
@@ -26,9 +28,7 @@
 - [Provide a custom directory for standard](https://github.com/amoeba/standardrb-action/pull/4) on [amoeba/standardrb-action](https://github.com/amoeba/standardrb-action) (1 month ago) 
 - [Recover from race condition in ActiveSupport::Cache::FileStore](https://github.com/cheddar-me/pbbuilder/pull/33) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/32) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
-- [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/31) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
-- [remove JBUILDER from tests](https://github.com/cheddar-me/pbbuilder/pull/30) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
-- [Can&#39;t remove test folder out of gem](https://github.com/cheddar-me/rails-twirp/pull/33) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago)
+- [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/31) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago)
 
 #### 📓 Gists I wrote
  
