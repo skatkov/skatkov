@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Fetches the latest unread entries from Miniflux instance and sends them as an email using Gmail&#39;s SMTP. (today) 
+- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Fetches updates from Miniflux and sends them as an email using Gmail&#39;s SMTP. (today) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (4 days ago) 
 - [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (4 days ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (3 months ago) 
@@ -10,7 +10,7 @@
 
 #### 🌱 My latest projects
  
-- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Fetches the latest unread entries from Miniflux instance and sends them as an email using Gmail&#39;s SMTP. 
+- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Fetches updates from Miniflux and sends them as an email using Gmail&#39;s SMTP. 
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. 
