@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Fetches the latest unread entries from Miniflux instance and sends them as an email using Gmail&#39;s SMTP. (today) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (4 days ago) 
 - [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (4 days ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (3 months ago) 
-- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (5 months ago) 
-- [yohasebe/fastmail-plus](https://github.com/yohasebe/fastmail-plus) - A Chrome extension to make Fastmail web UI more usable and productive (6 months ago)
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (5 months ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Fetches the latest unread entries from Miniflux instance and sends them as an email using Gmail&#39;s SMTP. 
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files 
-- [skatkov/clojure-bank](https://github.com/skatkov/clojure-bank) - Playing around with Clojure.
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files
 
 
 #### 🔨 My recent Pull Requests
