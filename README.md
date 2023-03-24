@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Fetches updates from Miniflux and sends them as an email using Gmail&#39;s SMTP. (3 days ago) 
+- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Fetches updates from Miniflux and sends them as an email using Gmail&#39;s SMTP. (4 days ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 week ago) 
 - [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (1 week ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (3 months ago) 
-- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (5 months ago)
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (6 months ago)
 
 #### 🌱 My latest projects
  
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (4 weeks ago) 
+- [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (1 month ago) 
 - [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (6 months ago) 
 - [Benchmarking content-type and http_headers/content_type gems](https://gist.github.com/eb18ae1f9f75e822812b64a0ae44915d) (8 months ago) 
 - [](https://gist.github.com/601258666185b0e7af6339ac2c19f642) (1 year ago) 
