@@ -23,7 +23,7 @@
 - [adding # frozen_string_literal: true in all files](https://github.com/cheddar-me/rails-twirp/pull/34) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago) 
 - [Draft: migration generator &amp; unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/20) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago) 
 - [cache: handle partials as well](https://github.com/cheddar-me/pbbuilder/pull/35) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
-- [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago) 
+- [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 months ago) 
 - [cache write: fix rescued error def](https://github.com/cheddar-me/pbbuilder/pull/34) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
 - [Provide a custom directory for standard](https://github.com/amoeba/standardrb-action/pull/4) on [amoeba/standardrb-action](https://github.com/amoeba/standardrb-action) (2 months ago) 
 - [Recover from race condition in ActiveSupport::Cache::FileStore](https://github.com/cheddar-me/pbbuilder/pull/33) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
