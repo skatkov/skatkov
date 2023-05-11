@@ -32,11 +32,11 @@
 
 #### 📓 Gists I wrote
  
+- [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (today) 
 - [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (2 months ago) 
 - [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (8 months ago) 
 - [Benchmarking content-type and http_headers/content_type gems](https://gist.github.com/eb18ae1f9f75e822812b64a0ae44915d) (10 months ago) 
-- [](https://gist.github.com/601258666185b0e7af6339ac2c19f642) (1 year ago) 
-- [extract Ruby dependencies](https://gist.github.com/e32f3f491665d2d4d570f9576abd1f0e) (2 years ago)
+- [](https://gist.github.com/601258666185b0e7af6339ac2c19f642) (1 year ago)
 
 #### 💬 Feedback
 I'm always happy to hear feedback about any of my projects. Feel free to reach out...
