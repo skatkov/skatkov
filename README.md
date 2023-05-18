@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (6 days ago) 
+- [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (1 week ago) 
 - [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (2 months ago) 
 - [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (8 months ago) 
 - [Benchmarking content-type and http_headers/content_type gems](https://gist.github.com/eb18ae1f9f75e822812b64a0ae44915d) (10 months ago) 
