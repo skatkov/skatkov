@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Cache map](https://github.com/cheddar-me/pbbuilder/pull/38) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [Cache repeated objects](https://github.com/cheddar-me/pbbuilder/pull/37) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [add frozen_string_literal: to all files](https://github.com/cheddar-me/pbbuilder/pull/36) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
 - [adding # frozen_string_literal: true in all files](https://github.com/cheddar-me/rails-twirp/pull/34) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 months ago) 
@@ -27,8 +28,7 @@
 - [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 months ago) 
 - [cache write: fix rescued error def](https://github.com/cheddar-me/pbbuilder/pull/34) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago) 
 - [Provide a custom directory for standard](https://github.com/amoeba/standardrb-action/pull/4) on [amoeba/standardrb-action](https://github.com/amoeba/standardrb-action) (3 months ago) 
-- [Recover from race condition in ActiveSupport::Cache::FileStore](https://github.com/cheddar-me/pbbuilder/pull/33) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago) 
-- [Update README.md](https://github.com/cheddar-me/pbbuilder/pull/32) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago)
+- [Recover from race condition in ActiveSupport::Cache::FileStore](https://github.com/cheddar-me/pbbuilder/pull/33) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago)
 
 #### 📓 Gists I wrote
  
