@@ -32,11 +32,11 @@
 
 #### 📓 Gists I wrote
  
+- [Spell Checking with codespell and misspell](https://gist.github.com/abf49d80e98ac42b3cac397c9efc383f) (today) 
 - [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (2 weeks ago) 
 - [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (3 months ago) 
 - [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (8 months ago) 
-- [Benchmarking content-type and http_headers/content_type gems](https://gist.github.com/eb18ae1f9f75e822812b64a0ae44915d) (10 months ago) 
-- [](https://gist.github.com/601258666185b0e7af6339ac2c19f642) (1 year ago)
+- [Benchmarking content-type and http_headers/content_type gems](https://gist.github.com/eb18ae1f9f75e822812b64a0ae44915d) (10 months ago)
 
 #### 💬 Feedback
 I'm always happy to hear feedback about any of my projects. Feel free to reach out...
