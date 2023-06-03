@@ -28,7 +28,7 @@
 - [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 months ago) 
 - [cache write: fix rescued error def](https://github.com/cheddar-me/pbbuilder/pull/34) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago) 
 - [Provide a custom directory for standard](https://github.com/amoeba/standardrb-action/pull/4) on [amoeba/standardrb-action](https://github.com/amoeba/standardrb-action) (3 months ago) 
-- [Recover from race condition in ActiveSupport::Cache::FileStore](https://github.com/cheddar-me/pbbuilder/pull/33) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago)
+- [Recover from race condition in ActiveSupport::Cache::FileStore](https://github.com/cheddar-me/pbbuilder/pull/33) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago)
 
 #### 📓 Gists I wrote
  
