@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Miniflux client that deliveres updates to email. (today) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (today) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (6 days ago) 
 - [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (2 months ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (5 months ago) 
@@ -11,7 +11,7 @@
 #### 🌱 My latest projects
  
 - [skatkov/kanban-cli](https://github.com/skatkov/kanban-cli) -  
-- [skatkov/miniflux-email-updates](https://github.com/skatkov/miniflux-email-updates) - Miniflux client that deliveres updates to email. 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. 
 - [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps.
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [adding miniflux-email-client](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/5) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (today) 
 - [bug: handle repeatable uninitialized proto message](https://github.com/cheddar-me/pbbuilder/pull/39) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [Expand caching! support to all possible data types](https://github.com/cheddar-me/pbbuilder/pull/38) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 weeks ago) 
 - [Cache repeated objects](https://github.com/cheddar-me/pbbuilder/pull/37) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
@@ -27,8 +28,7 @@
 - [Draft: migration generator &amp; unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/20) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 months ago) 
 - [cache: handle partials as well](https://github.com/cheddar-me/pbbuilder/pull/35) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago) 
 - [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 months ago) 
-- [cache write: fix rescued error def](https://github.com/cheddar-me/pbbuilder/pull/34) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago) 
-- [Provide a custom directory for standard](https://github.com/amoeba/standardrb-action/pull/4) on [amoeba/standardrb-action](https://github.com/amoeba/standardrb-action) (4 months ago)
+- [cache write: fix rescued error def](https://github.com/cheddar-me/pbbuilder/pull/34) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago)
 
 #### 📓 Gists I wrote
  
