@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (today) 
-- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (6 days ago) 
-- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (2 months ago) 
-- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (5 months ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 day ago) 
+- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 week ago) 
+- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (3 months ago) 
+- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (6 months ago) 
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (8 months ago)
 
 #### 🌱 My latest projects
@@ -19,12 +19,12 @@
 
 #### 🔨 My recent Pull Requests
  
-- [adding miniflux-email-client](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/5) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (today) 
+- [adding miniflux-email-client](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/5) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (1 day ago) 
 - [bug: handle repeatable uninitialized proto message](https://github.com/cheddar-me/pbbuilder/pull/39) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [Expand caching! support to all possible data types](https://github.com/cheddar-me/pbbuilder/pull/38) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 weeks ago) 
 - [Cache repeated objects](https://github.com/cheddar-me/pbbuilder/pull/37) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
-- [add frozen_string_literal: to all files](https://github.com/cheddar-me/pbbuilder/pull/36) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
-- [adding # frozen_string_literal: true in all files](https://github.com/cheddar-me/rails-twirp/pull/34) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 months ago) 
+- [add frozen_string_literal: to all files](https://github.com/cheddar-me/pbbuilder/pull/36) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago) 
+- [adding # frozen_string_literal: true in all files](https://github.com/cheddar-me/rails-twirp/pull/34) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (3 months ago) 
 - [Draft: migration generator &amp; unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/20) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 months ago) 
 - [cache: handle partials as well](https://github.com/cheddar-me/pbbuilder/pull/35) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago) 
 - [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 months ago) 
