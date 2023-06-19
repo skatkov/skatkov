@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [modify cleanup method, to clean up cache without expire_at date](https://github.com/bsm/activesupport-cache-database/pull/24) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (today) 
 - [adding miniflux-email-client](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/5) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (6 days ago) 
 - [bug: handle repeatable uninitialized proto message](https://github.com/cheddar-me/pbbuilder/pull/39) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [Expand caching! support to all possible data types](https://github.com/cheddar-me/pbbuilder/pull/38) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
@@ -27,8 +28,7 @@
 - [adding # frozen_string_literal: true in all files](https://github.com/cheddar-me/rails-twirp/pull/34) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (3 months ago) 
 - [Draft: migration generator &amp; unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/20) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 months ago) 
 - [cache: handle partials as well](https://github.com/cheddar-me/pbbuilder/pull/35) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago) 
-- [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 months ago) 
-- [cache write: fix rescued error def](https://github.com/cheddar-me/pbbuilder/pull/34) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago)
+- [Create unlogged table for PG cache](https://github.com/bsm/activesupport-cache-database/pull/19) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 months ago)
 
 #### 📓 Gists I wrote
  
