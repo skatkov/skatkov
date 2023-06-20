@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (today) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 day ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 week ago) 
 - [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (3 months ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (6 months ago) 
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [modify cleanup method, to clean up cache without expire_at date](https://github.com/bsm/activesupport-cache-database/pull/24) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (today) 
-- [adding miniflux-email-client](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/5) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (6 days ago) 
-- [bug: handle repeatable uninitialized proto message](https://github.com/cheddar-me/pbbuilder/pull/39) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
+- [modify cleanup method, to clean up cache without expire_at date](https://github.com/bsm/activesupport-cache-database/pull/24) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 day ago) 
+- [adding miniflux-email-client](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/5) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (1 week ago) 
+- [bug: handle repeatable uninitialized proto message](https://github.com/cheddar-me/pbbuilder/pull/39) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
 - [Expand caching! support to all possible data types](https://github.com/cheddar-me/pbbuilder/pull/38) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Cache repeated objects](https://github.com/cheddar-me/pbbuilder/pull/37) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [add frozen_string_literal: to all files](https://github.com/cheddar-me/pbbuilder/pull/36) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago) 
