@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (today) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (4 weeks ago) 
+- [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (1 day ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 month ago) 
 - [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (4 months ago) 
 - [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (7 months ago)
@@ -19,10 +19,10 @@
 
 #### 🔨 My recent Pull Requests
  
-- [loosen up Faraday dependency](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/10) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (today) 
-- [Don&#39;t run Rubocop multiple times on Github Actions CI](https://github.com/bsm/activesupport-cache-database/pull/25) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (today) 
+- [loosen up Faraday dependency](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/10) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 day ago) 
+- [Don&#39;t run Rubocop multiple times on Github Actions CI](https://github.com/bsm/activesupport-cache-database/pull/25) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 day ago) 
 - [bump faraday to v 2](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/9) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 week ago) 
-- [modify cleanup method, to clean up cache without expire_at date](https://github.com/bsm/activesupport-cache-database/pull/24) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (4 weeks ago) 
+- [modify cleanup method, to clean up cache without expire_at date](https://github.com/bsm/activesupport-cache-database/pull/24) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago) 
 - [adding miniflux-email-client](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/5) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (1 month ago) 
 - [bug: handle repeatable uninitialized proto message](https://github.com/cheddar-me/pbbuilder/pull/39) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Expand caching! support to all possible data types](https://github.com/cheddar-me/pbbuilder/pull/38) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
