@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (today) 
 - [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (2 days ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 month ago) 
-- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (4 months ago) 
-- [rails/propshaft](https://github.com/rails/propshaft) - Deliver assets for Rails (7 months ago)
+- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (4 months ago)
 
 #### 🌱 My latest projects
  
