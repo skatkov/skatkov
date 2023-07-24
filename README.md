@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Use partial index for expires_at column](https://github.com/bsm/activesupport-cache-database/pull/28) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (today) 
 - [initial code for Faraday V2](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/11) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (4 days ago) 
 - [loosen up Faraday dependency](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/10) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (6 days ago) 
 - [Don&#39;t run Rubocop multiple times on Github Actions CI](https://github.com/bsm/activesupport-cache-database/pull/25) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (6 days ago) 
@@ -27,8 +28,7 @@
 - [adding miniflux-email-client](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/5) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (1 month ago) 
 - [bug: handle repeatable uninitialized proto message](https://github.com/cheddar-me/pbbuilder/pull/39) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Expand caching! support to all possible data types](https://github.com/cheddar-me/pbbuilder/pull/38) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
-- [Cache repeated objects](https://github.com/cheddar-me/pbbuilder/pull/37) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
-- [add frozen_string_literal: to all files](https://github.com/cheddar-me/pbbuilder/pull/36) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago)
+- [Cache repeated objects](https://github.com/cheddar-me/pbbuilder/pull/37) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago)
 
 #### 📓 Gists I wrote
  
