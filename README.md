@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (today) 
-- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (1 day ago) 
+- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (2 days ago) 
 - [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 month ago)
@@ -19,10 +19,10 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Update README.md](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/13) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 day ago) 
-- [Faraday v2 1](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/12) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 day ago) 
-- [Use partial index for expires_at column](https://github.com/bsm/activesupport-cache-database/pull/28) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 days ago) 
-- [Rewrite to use Faraday V2](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/11) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (6 days ago) 
+- [Update README.md](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/13) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (2 days ago) 
+- [Faraday v2 1](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/12) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (2 days ago) 
+- [Use partial index for expires_at column](https://github.com/bsm/activesupport-cache-database/pull/28) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 days ago) 
+- [Rewrite to use Faraday V2](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/11) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 week ago) 
 - [loosen up Faraday dependency](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/10) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 week ago) 
 - [Don&#39;t run Rubocop multiple times on Github Actions CI](https://github.com/bsm/activesupport-cache-database/pull/25) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
 - [bump faraday to v 2](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/9) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (2 weeks ago) 
