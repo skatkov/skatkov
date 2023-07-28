@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (today) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 day ago) 
 - [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (1 day ago) 
-- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (3 days ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 month ago)
 
