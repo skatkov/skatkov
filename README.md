@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [cheddar-me/eyaml](https://github.com/cheddar-me/eyaml) - Ejson-compatible encrypted secrets (1 day ago) 
-- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (6 days ago) 
+- [cheddar-me/eyaml](https://github.com/cheddar-me/eyaml) - Ejson-compatible encrypted secrets (2 days ago) 
+- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (1 week ago) 
 - [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (1 week ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago)
