@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (today) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 day ago) 
 - [cheddar-me/eyaml](https://github.com/cheddar-me/eyaml) - Ejson-compatible encrypted secrets (1 week ago) 
 - [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (2 weeks ago) 
 - [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (2 weeks ago) 
@@ -19,7 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Emailer extraction](https://github.com/skatkov/miniflux-email-client/pull/1) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 day ago) 
+- [client_test and emailer_test](https://github.com/skatkov/miniflux-email-client/pull/2) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 day ago) 
+- [Emailer extraction](https://github.com/skatkov/miniflux-email-client/pull/1) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (2 days ago) 
 - [Update README.md](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/13) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (2 weeks ago) 
 - [Faraday v2 1](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/12) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (2 weeks ago) 
 - [Use partial index for expires_at column](https://github.com/bsm/activesupport-cache-database/pull/28) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
@@ -27,8 +28,7 @@
 - [loosen up Faraday dependency](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/10) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (3 weeks ago) 
 - [Don&#39;t run Rubocop multiple times on Github Actions CI](https://github.com/bsm/activesupport-cache-database/pull/25) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
 - [bump faraday to v 2](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/9) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago) 
-- [modify cleanup method, to clean up cache without expire_at date](https://github.com/bsm/activesupport-cache-database/pull/24) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago) 
-- [adding miniflux-email-client](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/5) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (2 months ago)
+- [modify cleanup method, to clean up cache without expire_at date](https://github.com/bsm/activesupport-cache-database/pull/24) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago)
 
 #### 📓 Gists I wrote
  
