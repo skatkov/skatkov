@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Use migration generator](https://github.com/bsm/activesupport-cache-database/pull/31) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (today) 
 - [client_test and emailer_test](https://github.com/skatkov/miniflux-email-client/pull/2) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 week ago) 
 - [Emailer extraction](https://github.com/skatkov/miniflux-email-client/pull/1) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (2 weeks ago) 
 - [Update README.md](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/13) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago) 
@@ -27,8 +28,7 @@
 - [Rewrite to use Faraday V2](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/11) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago) 
 - [loosen up Faraday dependency](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/10) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago) 
 - [Don&#39;t run Rubocop multiple times on Github Actions CI](https://github.com/bsm/activesupport-cache-database/pull/25) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago) 
-- [bump faraday to v 2](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/9) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago) 
-- [modify cleanup method, to clean up cache without expire_at date](https://github.com/bsm/activesupport-cache-database/pull/24) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 months ago)
+- [bump faraday to v 2](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/9) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago)
 
 #### 📓 Gists I wrote
  
