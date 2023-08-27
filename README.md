@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (today) 
-- [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (1 day ago) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (6 days ago) 
+- [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (2 days ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
 - [cheddar-me/eyaml](https://github.com/cheddar-me/eyaml) - Ejson-compatible encrypted secrets (3 weeks ago) 
-- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (4 weeks ago)
+- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (1 month ago)
 
 #### 🌱 My latest projects
  
@@ -19,8 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [adding syntax-tree](https://github.com/skatkov/rdoc-markdown/pull/40) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [Use migration generator &amp; add a note about unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/31) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 day ago) 
+- [adding syntax-tree](https://github.com/skatkov/rdoc-markdown/pull/40) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Use migration generator &amp; add a note about unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/31) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 days ago) 
 - [client_test and emailer_test](https://github.com/skatkov/miniflux-email-client/pull/2) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (2 weeks ago) 
 - [Emailer extraction](https://github.com/skatkov/miniflux-email-client/pull/1) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (2 weeks ago) 
 - [Update README.md](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/13) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago) 
