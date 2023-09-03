@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) -  (1 day ago) 
+- [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) -  (today) 
 - [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (5 days ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 weeks ago) 
