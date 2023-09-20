@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Releasing app with brew](https://github.com/skatkov/stoic/pull/27) on [skatkov/stoic](https://github.com/skatkov/stoic) (today) 
 - [Add a note about Obsidian](https://github.com/skatkov/stoic/pull/26) on [skatkov/stoic](https://github.com/skatkov/stoic) (today) 
 - [Pluggable compression for cache values.](https://github.com/bsm/activesupport-cache-database/pull/42) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 day ago) 
 - [Write_multi to use upsert_all](https://github.com/bsm/activesupport-cache-database/pull/41) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 day ago) 
@@ -27,8 +28,7 @@
 - [adding syntax-tree](https://github.com/skatkov/rdoc-markdown/pull/40) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [Use migration generator &amp; add a note about unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/31) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
 - [client_test and emailer_test](https://github.com/skatkov/miniflux-email-client/pull/2) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 month ago) 
-- [Emailer extraction](https://github.com/skatkov/miniflux-email-client/pull/1) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 month ago) 
-- [Update README.md](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/13) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago)
+- [Emailer extraction](https://github.com/skatkov/miniflux-email-client/pull/1) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 month ago)
 
 #### 📓 Gists I wrote
  
