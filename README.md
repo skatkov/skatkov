@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 weeks ago) 
 - [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) -  (2 weeks ago) 
 - [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (3 weeks ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (3 weeks ago) 
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Pluggable compression for cache values.](https://github.com/bsm/activesupport-cache-database/pull/42) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (today) 
-- [Write_multi to use upsert_all](https://github.com/bsm/activesupport-cache-database/pull/41) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (today) 
-- [convert primary index to hash index](https://github.com/bsm/activesupport-cache-database/pull/39) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (6 days ago) 
+- [Pluggable compression for cache values.](https://github.com/bsm/activesupport-cache-database/pull/42) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 day ago) 
+- [Write_multi to use upsert_all](https://github.com/bsm/activesupport-cache-database/pull/41) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 day ago) 
+- [convert primary index to hash index](https://github.com/bsm/activesupport-cache-database/pull/39) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
 - [improve readme: add maintenance , warning and installation sections](https://github.com/bsm/activesupport-cache-database/pull/36) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
 - [adding syntax-tree](https://github.com/skatkov/rdoc-markdown/pull/40) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [Use migration generator &amp; add a note about unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/31) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
@@ -34,7 +34,7 @@
  
 - [Spell Checking with codespell and misspell](https://gist.github.com/abf49d80e98ac42b3cac397c9efc383f) (3 months ago) 
 - [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (4 months ago) 
-- [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (6 months ago) 
+- [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (7 months ago) 
 - [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (1 year ago) 
 - [Benchmarking content-type and http_headers/content_type gems](https://gist.github.com/eb18ae1f9f75e822812b64a0ae44915d) (1 year ago)
 
