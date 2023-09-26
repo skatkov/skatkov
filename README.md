@@ -20,7 +20,7 @@
 #### 🔨 My recent Pull Requests
  
 - [Compression](https://github.com/cheddar-me/fork-activesupport-cache-database/pull/1) on [cheddar-me/fork-activesupport-cache-database](https://github.com/cheddar-me/fork-activesupport-cache-database) (4 days ago) 
-- [Releasing app with brew](https://github.com/skatkov/stoic/pull/27) on [skatkov/stoic](https://github.com/skatkov/stoic) (6 days ago) 
+- [Releasing app with goreleaser](https://github.com/skatkov/stoic/pull/27) on [skatkov/stoic](https://github.com/skatkov/stoic) (6 days ago) 
 - [Add a note about Obsidian](https://github.com/skatkov/stoic/pull/26) on [skatkov/stoic](https://github.com/skatkov/stoic) (6 days ago) 
 - [Pluggable compression for cache values.](https://github.com/bsm/activesupport-cache-database/pull/42) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
 - [Write_multi to use upsert_all](https://github.com/bsm/activesupport-cache-database/pull/41) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
