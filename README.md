@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [add yard annotation for compression option](https://github.com/bsm/activesupport-cache-database/pull/43) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (today) 
 - [Compression](https://github.com/cheddar-me/fork-activesupport-cache-database/pull/1) on [cheddar-me/fork-activesupport-cache-database](https://github.com/cheddar-me/fork-activesupport-cache-database) (6 days ago) 
 - [Releasing app with goreleaser](https://github.com/skatkov/stoic/pull/27) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 week ago) 
 - [Add a note about Obsidian](https://github.com/skatkov/stoic/pull/26) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 week ago) 
@@ -27,8 +28,7 @@
 - [convert primary index to hash index](https://github.com/bsm/activesupport-cache-database/pull/39) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
 - [improve readme: add maintenance , warning and installation sections](https://github.com/bsm/activesupport-cache-database/pull/36) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago) 
 - [adding syntax-tree](https://github.com/skatkov/rdoc-markdown/pull/40) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
-- [Use migration generator &amp; add a note about unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/31) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago) 
-- [client_test and emailer_test](https://github.com/skatkov/miniflux-email-client/pull/2) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 month ago)
+- [Use migration generator &amp; add a note about unlogged tables for PG](https://github.com/bsm/activesupport-cache-database/pull/31) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago)
 
 #### 📓 Gists I wrote
  
