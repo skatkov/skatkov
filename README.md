@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 day ago) 
-- [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (4 days ago) 
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (6 days ago) 
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 days ago) 
+- [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (5 days ago) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 week ago)
 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (5 days ago) 
+- [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (6 days ago) 
 - [add yard annotation for compression option](https://github.com/bsm/activesupport-cache-database/pull/43) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
 - [Compression](https://github.com/cheddar-me/fork-activesupport-cache-database/pull/1) on [cheddar-me/fork-activesupport-cache-database](https://github.com/cheddar-me/fork-activesupport-cache-database) (2 weeks ago) 
 - [Releasing app with goreleaser](https://github.com/skatkov/stoic/pull/27) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 weeks ago) 
@@ -33,7 +33,7 @@
 #### 📓 Gists I wrote
  
 - [Spell Checking with codespell and misspell](https://gist.github.com/abf49d80e98ac42b3cac397c9efc383f) (4 months ago) 
-- [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (4 months ago) 
+- [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (5 months ago) 
 - [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (7 months ago) 
 - [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (1 year ago) 
 - [Benchmarking content-type and http_headers/content_type gems](https://gist.github.com/eb18ae1f9f75e822812b64a0ae44915d) (1 year ago)
