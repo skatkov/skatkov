@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [CI: run checks for PR&#39;s](https://github.com/rails/solid_cache/pull/95) on [rails/solid_cache](https://github.com/rails/solid_cache) (today) 
 - [Suggest to use hash index, instead of btree index in migration.](https://github.com/rails/solid_cache/pull/94) on [rails/solid_cache](https://github.com/rails/solid_cache) (today) 
 - [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
 - [add yard annotation for compression option](https://github.com/bsm/activesupport-cache-database/pull/43) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Add a note about Obsidian](https://github.com/skatkov/stoic/pull/26) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 weeks ago) 
 - [Pluggable compression for cache values.](https://github.com/bsm/activesupport-cache-database/pull/42) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
 - [Write_multi to use upsert_all](https://github.com/bsm/activesupport-cache-database/pull/41) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
-- [convert primary index to hash index](https://github.com/bsm/activesupport-cache-database/pull/39) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
-- [improve readme: add maintenance , warning and installation sections](https://github.com/bsm/activesupport-cache-database/pull/36) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago)
+- [convert primary index to hash index](https://github.com/bsm/activesupport-cache-database/pull/39) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
