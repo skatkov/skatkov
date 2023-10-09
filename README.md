@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Suggest to use hash index, instead of btree index in migration.](https://github.com/rails/solid_cache/pull/94) on [rails/solid_cache](https://github.com/rails/solid_cache) (today) 
 - [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
 - [add yard annotation for compression option](https://github.com/bsm/activesupport-cache-database/pull/43) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
 - [Compression](https://github.com/cheddar-me/fork-activesupport-cache-database/pull/1) on [cheddar-me/fork-activesupport-cache-database](https://github.com/cheddar-me/fork-activesupport-cache-database) (2 weeks ago) 
@@ -27,8 +28,7 @@
 - [Pluggable compression for cache values.](https://github.com/bsm/activesupport-cache-database/pull/42) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
 - [Write_multi to use upsert_all](https://github.com/bsm/activesupport-cache-database/pull/41) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
 - [convert primary index to hash index](https://github.com/bsm/activesupport-cache-database/pull/39) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
-- [improve readme: add maintenance , warning and installation sections](https://github.com/bsm/activesupport-cache-database/pull/36) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago) 
-- [adding syntax-tree](https://github.com/skatkov/rdoc-markdown/pull/40) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago)
+- [improve readme: add maintenance , warning and installation sections](https://github.com/bsm/activesupport-cache-database/pull/36) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago)
 
 #### 📓 Gists I wrote
  
