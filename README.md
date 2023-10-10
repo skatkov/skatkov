@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [CI: don&#39;t fail fast](https://github.com/rails/solid_cache/pull/97) on [rails/solid_cache](https://github.com/rails/solid_cache) (today) 
 - [CI: run checks for PR&#39;s](https://github.com/rails/solid_cache/pull/95) on [rails/solid_cache](https://github.com/rails/solid_cache) (1 day ago) 
 - [Suggest to use hash index, instead of btree index in migration.](https://github.com/rails/solid_cache/pull/94) on [rails/solid_cache](https://github.com/rails/solid_cache) (1 day ago) 
 - [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Releasing app with goreleaser](https://github.com/skatkov/stoic/pull/27) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 weeks ago) 
 - [Add a note about Obsidian](https://github.com/skatkov/stoic/pull/26) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 weeks ago) 
 - [Pluggable compression for cache values.](https://github.com/bsm/activesupport-cache-database/pull/42) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
-- [Write_multi to use upsert_all](https://github.com/bsm/activesupport-cache-database/pull/41) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
-- [convert primary index to hash index](https://github.com/bsm/activesupport-cache-database/pull/39) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago)
+- [Write_multi to use upsert_all](https://github.com/bsm/activesupport-cache-database/pull/41) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
