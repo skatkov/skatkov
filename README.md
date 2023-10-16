@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (today) 
-- [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store (5 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 day ago) 
+- [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store (6 days ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 week ago) 
 - [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (1 week ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (2 weeks ago)
@@ -19,10 +19,10 @@
 
 #### 🔨 My recent Pull Requests
  
-- [CI: don&#39;t fail fast](https://github.com/rails/solid_cache/pull/97) on [rails/solid_cache](https://github.com/rails/solid_cache) (5 days ago) 
-- [CI: run checks for PR&#39;s](https://github.com/rails/solid_cache/pull/95) on [rails/solid_cache](https://github.com/rails/solid_cache) (6 days ago) 
-- [Suggest to use hash index, instead of btree index in migration.](https://github.com/rails/solid_cache/pull/94) on [rails/solid_cache](https://github.com/rails/solid_cache) (6 days ago) 
-- [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 week ago) 
+- [CI: don&#39;t fail fast](https://github.com/rails/solid_cache/pull/97) on [rails/solid_cache](https://github.com/rails/solid_cache) (6 days ago) 
+- [CI: run checks for PR&#39;s](https://github.com/rails/solid_cache/pull/95) on [rails/solid_cache](https://github.com/rails/solid_cache) (1 week ago) 
+- [Suggest to use hash index, instead of btree index in migration.](https://github.com/rails/solid_cache/pull/94) on [rails/solid_cache](https://github.com/rails/solid_cache) (1 week ago) 
+- [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
 - [add yard annotation for compression option](https://github.com/bsm/activesupport-cache-database/pull/43) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
 - [Compression](https://github.com/cheddar-me/fork-activesupport-cache-database/pull/1) on [cheddar-me/fork-activesupport-cache-database](https://github.com/cheddar-me/fork-activesupport-cache-database) (3 weeks ago) 
 - [Releasing app with goreleaser](https://github.com/skatkov/stoic/pull/27) on [skatkov/stoic](https://github.com/skatkov/stoic) (3 weeks ago) 
