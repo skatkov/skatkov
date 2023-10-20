@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Create brakeman.yml](https://github.com/cheddar-me/rails-twirp/pull/38) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (today) 
 - [Integrating collection renderer from ActionView](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [failing test for cached:true parameter in collections](https://github.com/cheddar-me/pbbuilder/pull/42) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 days ago) 
 - [update appraisal to resolve missing gems issue](https://github.com/cheddar-me/pbbuilder/pull/41) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 days ago) 
@@ -27,8 +28,7 @@
 - [Suggest to use hash index, instead of btree index in migration.](https://github.com/rails/solid_cache/pull/94) on [rails/solid_cache](https://github.com/rails/solid_cache) (1 week ago) 
 - [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (2 weeks ago) 
 - [add yard annotation for compression option](https://github.com/bsm/activesupport-cache-database/pull/43) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (3 weeks ago) 
-- [Compression](https://github.com/cheddar-me/fork-activesupport-cache-database/pull/1) on [cheddar-me/fork-activesupport-cache-database](https://github.com/cheddar-me/fork-activesupport-cache-database) (4 weeks ago) 
-- [Releasing app with goreleaser](https://github.com/skatkov/stoic/pull/27) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 month ago)
+- [Compression](https://github.com/cheddar-me/fork-activesupport-cache-database/pull/1) on [cheddar-me/fork-activesupport-cache-database](https://github.com/cheddar-me/fork-activesupport-cache-database) (4 weeks ago)
 
 #### 📓 Gists I wrote
  
