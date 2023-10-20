@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Integrating collection renderer](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
+- [Integrating collection renderer from ActionView](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [failing test for cached:true parameter in collections](https://github.com/cheddar-me/pbbuilder/pull/42) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 days ago) 
 - [update appraisal to resolve missing gems issue](https://github.com/cheddar-me/pbbuilder/pull/41) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 days ago) 
 - [CI: don&#39;t fail fast](https://github.com/rails/solid_cache/pull/97) on [rails/solid_cache](https://github.com/rails/solid_cache) (1 week ago) 
