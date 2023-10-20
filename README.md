@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [cheddar-me/rails-twirp-example](https://github.com/cheddar-me/rails-twirp-example) - Demo project that uses rails-twirp (today) 
 - [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (1 day ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (5 days ago) 
 - [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store (1 week ago) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 weeks ago) 
-- [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) - ActiveSupport::Cache::Store implementation backed by a database via ActiveRecord (2 weeks ago)
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 weeks ago)
 
 #### 🌱 My latest projects
  
