@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) -  (today) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 week ago) 
 - [cheddar-me/rails-twirp-example](https://github.com/cheddar-me/rails-twirp-example) - Demo project that uses rails-twirp (1 week ago) 
 - [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (1 week ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (2 weeks ago) 
-- [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store (2 weeks ago)
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (2 weeks ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) -  
 - [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) -  
 - [skatkov/kanban-cli](https://github.com/skatkov/kanban-cli) -  
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. 
-- [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator
+- [skatkov/gum](https://github.com/skatkov/gum) - Repository with my personal convenience scripts
 
 
 #### 🔨 My recent Pull Requests
