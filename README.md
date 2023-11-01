@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [increment version to 0.16](https://github.com/cheddar-me/pbbuilder/pull/47) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [Create brakeman.yml](https://github.com/cheddar-me/rails-twirp/pull/38) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 week ago) 
 - [Integrating collection renderer from ActionView](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
@@ -27,8 +28,7 @@
 - [CI: don&#39;t fail fast](https://github.com/rails/solid_cache/pull/97) on [rails/solid_cache](https://github.com/rails/solid_cache) (3 weeks ago) 
 - [CI: run checks for PR&#39;s](https://github.com/rails/solid_cache/pull/95) on [rails/solid_cache](https://github.com/rails/solid_cache) (3 weeks ago) 
 - [Suggest to use hash index, instead of btree index in migration.](https://github.com/rails/solid_cache/pull/94) on [rails/solid_cache](https://github.com/rails/solid_cache) (3 weeks ago) 
-- [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago) 
-- [add yard annotation for compression option](https://github.com/bsm/activesupport-cache-database/pull/43) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago)
+- [Fix for YARD documentation](https://github.com/bsm/activesupport-cache-database/pull/44) on [bsm/activesupport-cache-database](https://github.com/bsm/activesupport-cache-database) (1 month ago)
 
 #### 📓 Gists I wrote
  
