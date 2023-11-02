@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) -  (2 days ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) -  (3 days ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 week ago) 
 - [cheddar-me/rails-twirp-example](https://github.com/cheddar-me/rails-twirp-example) - Demo project that uses rails-twirp (1 week ago) 
-- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (1 week ago) 
+- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (2 weeks ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
+- [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
 - [increment version to 0.16](https://github.com/cheddar-me/pbbuilder/pull/47) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [Create brakeman.yml](https://github.com/cheddar-me/rails-twirp/pull/38) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 week ago) 
 - [Integrating collection renderer from ActionView](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
