@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (today) 
-- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (today) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) -  (3 days ago) 
-- [cheddar-me/rails-twirp-example](https://github.com/cheddar-me/rails-twirp-example) - Demo project that uses rails-twirp (1 week ago) 
+- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 day ago) 
+- [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) -  (4 days ago) 
+- [cheddar-me/rails-twirp-example](https://github.com/cheddar-me/rails-twirp-example) - Demo project that uses rails-twirp (2 weeks ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -19,13 +19,13 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Enable collection renderer for all collection-like objects](https://github.com/cheddar-me/pbbuilder/pull/50) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
-- [fragment caching implementation](https://github.com/cheddar-me/pbbuilder/pull/49) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
-- [Increment version to 0.3.1](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/17) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (today) 
-- [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
+- [Enable collection renderer for all collection-like objects](https://github.com/cheddar-me/pbbuilder/pull/50) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
+- [fragment caching implementation](https://github.com/cheddar-me/pbbuilder/pull/49) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
+- [Increment version to 0.3.1](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/17) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 day ago) 
+- [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 days ago) 
 - [increment version to 0.16](https://github.com/cheddar-me/pbbuilder/pull/47) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
-- [Create brakeman.yml](https://github.com/cheddar-me/rails-twirp/pull/38) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 week ago) 
-- [Integrating collection renderer from ActionView](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
+- [Create brakeman.yml](https://github.com/cheddar-me/rails-twirp/pull/38) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 weeks ago) 
+- [Integrating collection renderer from ActionView](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
 - [failing test for cached:true parameter in collections](https://github.com/cheddar-me/pbbuilder/pull/42) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
 - [update appraisal to resolve missing gems issue](https://github.com/cheddar-me/pbbuilder/pull/41) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
 - [CI: don&#39;t fail fast](https://github.com/rails/solid_cache/pull/97) on [rails/solid_cache](https://github.com/rails/solid_cache) (3 weeks ago)
