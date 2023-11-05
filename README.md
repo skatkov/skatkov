@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) -  (today) 
-- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (3 days ago) 
 - [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (3 days ago) 
+- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (3 days ago) 
 - [cheddar-me/rails-twirp-example](https://github.com/cheddar-me/rails-twirp-example) - Demo project that uses rails-twirp (2 weeks ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (3 weeks ago)
 
