@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [fragment caching, partial as first argument](https://github.com/cheddar-me/pbbuilder/pull/52) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [Introduce FragmentCaching with cached:true parameter](https://github.com/cheddar-me/pbbuilder/pull/51) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 days ago) 
 - [Enable collection renderer for all collection-like objects](https://github.com/cheddar-me/pbbuilder/pull/50) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 days ago) 
 - [fragment caching implementation](https://github.com/cheddar-me/pbbuilder/pull/49) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 days ago) 
@@ -27,8 +28,7 @@
 - [increment version to 0.16](https://github.com/cheddar-me/pbbuilder/pull/47) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
 - [Create brakeman.yml](https://github.com/cheddar-me/rails-twirp/pull/38) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 weeks ago) 
 - [Integrating collection renderer from ActionView](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
-- [failing test for cached:true parameter in collections](https://github.com/cheddar-me/pbbuilder/pull/42) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
-- [update appraisal to resolve missing gems issue](https://github.com/cheddar-me/pbbuilder/pull/41) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago)
+- [failing test for cached:true parameter in collections](https://github.com/cheddar-me/pbbuilder/pull/42) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
