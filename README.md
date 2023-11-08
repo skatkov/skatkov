@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Benchmark](https://github.com/cheddar-me/pbbuilder/pull/53) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [fragment caching, partial as first argument](https://github.com/cheddar-me/pbbuilder/pull/52) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 days ago) 
 - [Introduce FragmentCaching with cached:true parameter](https://github.com/cheddar-me/pbbuilder/pull/51) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago) 
 - [Enable collection renderer for all collection-like objects](https://github.com/cheddar-me/pbbuilder/pull/50) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (6 days ago) 
@@ -27,8 +28,7 @@
 - [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 week ago) 
 - [increment version to 0.16](https://github.com/cheddar-me/pbbuilder/pull/47) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
 - [Create brakeman.yml](https://github.com/cheddar-me/rails-twirp/pull/38) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 weeks ago) 
-- [Integrating collection renderer from ActionView](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
-- [failing test for cached:true parameter in collections](https://github.com/cheddar-me/pbbuilder/pull/42) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 weeks ago)
+- [Integrating collection renderer from ActionView](https://github.com/cheddar-me/pbbuilder/pull/43) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
