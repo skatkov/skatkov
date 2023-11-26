@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) -  (today) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard theme plugin that generates markdown documentation for gems (today) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (5 days ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 week ago) 
 - [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (3 weeks ago) 
@@ -10,7 +10,7 @@
 
 #### 🌱 My latest projects
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) -  
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard theme plugin that generates markdown documentation for gems 
 - [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) -  
 - [skatkov/kanban-cli](https://github.com/skatkov/kanban-cli) -  
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. 
