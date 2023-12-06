@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard theme plugin that generates markdown documentation for gems (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 days ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (2 weeks ago) 
 - [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (1 month ago) 
@@ -10,7 +10,7 @@
 
 #### 🌱 My latest projects
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard theme plugin that generates markdown documentation for gems 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation 
 - [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) -  
 - [skatkov/kanban-cli](https://github.com/skatkov/kanban-cli) -  
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [replace standard, use-syntax-tree](https://github.com/skatkov/yard-markdown/pull/8) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [adding csv index file](https://github.com/skatkov/yard-markdown/pull/4) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
 - [Benchmark](https://github.com/cheddar-me/pbbuilder/pull/53) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 weeks ago) 
 - [fragment caching, partial as first argument](https://github.com/cheddar-me/pbbuilder/pull/52) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
@@ -27,8 +28,7 @@
 - [fragment caching implementation](https://github.com/cheddar-me/pbbuilder/pull/49) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Increment version to 0.3.1](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/17) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago) 
 - [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
-- [increment version to 0.16](https://github.com/cheddar-me/pbbuilder/pull/47) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
-- [Create brakeman.yml](https://github.com/cheddar-me/rails-twirp/pull/38) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago)
+- [increment version to 0.16](https://github.com/cheddar-me/pbbuilder/pull/47) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago)
 
 #### 📓 Gists I wrote
  
