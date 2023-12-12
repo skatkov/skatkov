@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (today) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (6 days ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (3 weeks ago) 
 - [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) - Firebase Admin SDK for Ruby (1 month ago) 
 - [cheddar-me/rails-twirp-example](https://github.com/cheddar-me/rails-twirp-example) - Demo project that uses rails-twirp (1 month ago)
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [replace standard, use-syntax-tree](https://github.com/skatkov/yard-markdown/pull/8) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
+- [replace standard, use-syntax-tree](https://github.com/skatkov/yard-markdown/pull/8) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
 - [adding csv index file](https://github.com/skatkov/yard-markdown/pull/4) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Benchmark](https://github.com/cheddar-me/pbbuilder/pull/53) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [fragment caching, partial as first argument](https://github.com/cheddar-me/pbbuilder/pull/52) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [run tests forever (until they fail)](https://gist.github.com/12617ad1fe45a1fc76bcac05e922868c) (1 week ago) 
+- [run tests forever (until they fail)](https://gist.github.com/12617ad1fe45a1fc76bcac05e922868c) (2 weeks ago) 
 - [Spell Checking with codespell and misspell](https://gist.github.com/abf49d80e98ac42b3cac397c9efc383f) (6 months ago) 
 - [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (7 months ago) 
 - [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (9 months ago) 
