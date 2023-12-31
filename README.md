@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (6 days ago) 
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 weeks ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 month ago) 
@@ -27,7 +27,7 @@
 - [Enable collection renderer for all collection-like objects](https://github.com/cheddar-me/pbbuilder/pull/50) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [fragment caching implementation](https://github.com/cheddar-me/pbbuilder/pull/49) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Increment version to 0.3.1](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/17) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (1 month ago) 
-- [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
+- [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
 - [increment version to 0.16](https://github.com/cheddar-me/pbbuilder/pull/47) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago)
 
 #### 📓 Gists I wrote
