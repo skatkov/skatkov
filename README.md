@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Rubocop](https://github.com/rails/solid_cache/pull/121) on [rails/solid_cache](https://github.com/rails/solid_cache) (today) 
 - [replace standard, use-syntax-tree](https://github.com/skatkov/yard-markdown/pull/8) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 weeks ago) 
 - [adding csv index file](https://github.com/skatkov/yard-markdown/pull/4) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago) 
 - [Benchmark](https://github.com/cheddar-me/pbbuilder/pull/53) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
@@ -27,8 +28,7 @@
 - [Enable collection renderer for all collection-like objects](https://github.com/cheddar-me/pbbuilder/pull/50) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
 - [fragment caching implementation](https://github.com/cheddar-me/pbbuilder/pull/49) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
 - [Increment version to 0.3.1](https://github.com/cheddar-me/firebase-admin-sdk-ruby/pull/17) on [cheddar-me/firebase-admin-sdk-ruby](https://github.com/cheddar-me/firebase-admin-sdk-ruby) (2 months ago) 
-- [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
-- [increment version to 0.16](https://github.com/cheddar-me/pbbuilder/pull/47) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago)
+- [handle recursive protobuf messages](https://github.com/cheddar-me/pbbuilder/pull/48) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago)
 
 #### 📓 Gists I wrote
  
