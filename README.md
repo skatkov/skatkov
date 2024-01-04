@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Rubocop](https://github.com/rails/solid_cache/pull/121) on [rails/solid_cache](https://github.com/rails/solid_cache) (today) 
+- [Switch to Rails RuboCop config.](https://github.com/rails/solid_cache/pull/121) on [rails/solid_cache](https://github.com/rails/solid_cache) (1 day ago) 
 - [replace standard, use-syntax-tree](https://github.com/skatkov/yard-markdown/pull/8) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 weeks ago) 
 - [adding csv index file](https://github.com/skatkov/yard-markdown/pull/4) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago) 
 - [Benchmark](https://github.com/cheddar-me/pbbuilder/pull/53) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
