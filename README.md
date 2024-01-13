@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 days ago) 
 - [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store (1 week ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 weeks ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago) 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Don&#39;t print constant values in markdown docs](https://github.com/skatkov/yard-markdown/pull/10) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
+- [Don&#39;t print constant values in markdown docs](https://github.com/skatkov/yard-markdown/pull/10) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
 - [Switch to Rails RuboCop config.](https://github.com/rails/solid_cache/pull/121) on [rails/solid_cache](https://github.com/rails/solid_cache) (1 week ago) 
 - [replace standard, use-syntax-tree](https://github.com/skatkov/yard-markdown/pull/8) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago) 
 - [adding csv index file](https://github.com/skatkov/yard-markdown/pull/4) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago) 
