@@ -36,7 +36,7 @@
 - [Spell Checking with codespell and misspell](https://gist.github.com/abf49d80e98ac42b3cac397c9efc383f) (9 months ago) 
 - [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (9 months ago) 
 - [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (1 year ago) 
-- [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (1 year ago)
+- [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (2 years ago)
 
 #### 💬 Feedback
 I'm always happy to hear feedback about any of my projects. Feel free to reach out...
