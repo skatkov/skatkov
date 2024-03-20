@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Replace enum messages, don&#39;t append them](https://github.com/cheddar-me/pbbuilder/pull/55) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [Exclude incompatible Rails versions](https://github.com/cheddar-me/pbbuilder/pull/54) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Exclude incompatible rails versions](https://github.com/cheddar-me/rails-twirp/pull/41) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago) 
 - [Don&#39;t print constant values in markdown docs](https://github.com/skatkov/yard-markdown/pull/10) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 months ago) 
@@ -27,8 +28,7 @@
 - [adding csv index file](https://github.com/skatkov/yard-markdown/pull/4) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago) 
 - [Benchmark](https://github.com/cheddar-me/pbbuilder/pull/53) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago) 
 - [fragment caching, partial as first argument](https://github.com/cheddar-me/pbbuilder/pull/52) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago) 
-- [Introduce FragmentCaching with cached:true parameter](https://github.com/cheddar-me/pbbuilder/pull/51) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago) 
-- [Enable collection renderer for all collection-like objects](https://github.com/cheddar-me/pbbuilder/pull/50) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago)
+- [Introduce FragmentCaching with cached:true parameter](https://github.com/cheddar-me/pbbuilder/pull/51) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago)
 
 #### 📓 Gists I wrote
  
