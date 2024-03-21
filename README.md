@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Fixing CI: lock google-protobuf to ~&gt; 3 version](https://github.com/cheddar-me/pbbuilder/pull/56) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [Replace enum messages, don&#39;t append them](https://github.com/cheddar-me/pbbuilder/pull/55) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
 - [Exclude incompatible Rails versions](https://github.com/cheddar-me/pbbuilder/pull/54) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Exclude incompatible rails versions](https://github.com/cheddar-me/rails-twirp/pull/41) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago) 
@@ -27,8 +28,7 @@
 - [replace standard, use-syntax-tree](https://github.com/skatkov/yard-markdown/pull/8) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago) 
 - [adding csv index file](https://github.com/skatkov/yard-markdown/pull/4) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago) 
 - [Benchmark](https://github.com/cheddar-me/pbbuilder/pull/53) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago) 
-- [fragment caching, partial as first argument](https://github.com/cheddar-me/pbbuilder/pull/52) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago) 
-- [Introduce FragmentCaching with cached:true parameter](https://github.com/cheddar-me/pbbuilder/pull/51) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago)
+- [fragment caching, partial as first argument](https://github.com/cheddar-me/pbbuilder/pull/52) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 months ago)
 
 #### 📓 Gists I wrote
  
