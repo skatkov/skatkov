@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Allow rails-twirp to use 7-1-stable rails branch.](https://github.com/cheddar-me/rails-twirp/pull/44) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 days ago) 
-- [loose rails dependency, so it would be possible to use &gt;7.1.4](https://github.com/cheddar-me/rails-twirp/pull/43) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 days ago) 
-- [Fixing CI: lock google-protobuf to ~&gt; 3 version](https://github.com/cheddar-me/pbbuilder/pull/56) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 weeks ago) 
+- [Allow rails-twirp to use 7-1-stable rails branch.](https://github.com/cheddar-me/rails-twirp/pull/44) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (3 days ago) 
+- [loose rails dependency, so it would be possible to use &gt;7.1.4](https://github.com/cheddar-me/rails-twirp/pull/43) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (3 days ago) 
+- [Fixing CI: lock google-protobuf to ~&gt; 3 version](https://github.com/cheddar-me/pbbuilder/pull/56) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 weeks ago) 
 - [Replace repeated messages instead of appending more](https://github.com/cheddar-me/pbbuilder/pull/55) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 weeks ago) 
 - [Exclude incompatible Rails versions](https://github.com/cheddar-me/pbbuilder/pull/54) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Exclude incompatible rails versions](https://github.com/cheddar-me/rails-twirp/pull/41) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago) 
