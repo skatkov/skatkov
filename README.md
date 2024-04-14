@@ -19,11 +19,11 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Allow rails-twirp to use 7-1-stable rails branch.](https://github.com/cheddar-me/rails-twirp/pull/44) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (5 days ago) 
-- [loose rails dependency, so it would be possible to use &gt;7.1.4](https://github.com/cheddar-me/rails-twirp/pull/43) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (5 days ago) 
+- [Allow rails-twirp to use 7-1-stable rails branch.](https://github.com/cheddar-me/rails-twirp/pull/44) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (6 days ago) 
+- [loose rails dependency, so it would be possible to use &gt;7.1.4](https://github.com/cheddar-me/rails-twirp/pull/43) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (6 days ago) 
 - [Fixing CI: lock google-protobuf to ~&gt; 3 version](https://github.com/cheddar-me/pbbuilder/pull/56) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 weeks ago) 
 - [Replace repeated messages instead of appending more](https://github.com/cheddar-me/pbbuilder/pull/55) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 weeks ago) 
-- [Exclude incompatible Rails versions](https://github.com/cheddar-me/pbbuilder/pull/54) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
+- [Exclude incompatible Rails versions](https://github.com/cheddar-me/pbbuilder/pull/54) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
 - [Exclude incompatible rails versions](https://github.com/cheddar-me/rails-twirp/pull/41) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 months ago) 
 - [Don&#39;t print constant values in markdown docs](https://github.com/skatkov/yard-markdown/pull/10) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago) 
 - [Switch to Rails RuboCop config.](https://github.com/rails/solid_cache/pull/121) on [rails/solid_cache](https://github.com/rails/solid_cache) (3 months ago) 
