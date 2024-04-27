@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
  
+- [skatkov/protoc-gen-twirp-ruby](https://github.com/skatkov/protoc-gen-twirp-ruby) - Compiling a twirp plugin from protoc 
 - [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem 
 - [skatkov/irb-theme-nord](https://github.com/skatkov/irb-theme-nord) - Nord theme for Reline/IRB 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation 
-- [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) -  
-- [skatkov/kanban-cli](https://github.com/skatkov/kanban-cli) - 
+- [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) - 
 
 
 #### 🔨 My recent Pull Requests
