@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
  
+- [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem 
 - [skatkov/irb-theme-nord](https://github.com/skatkov/irb-theme-nord) - Nord theme for Reline/IRB 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation 
 - [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) -  
-- [skatkov/kanban-cli](https://github.com/skatkov/kanban-cli) -  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email.
+- [skatkov/kanban-cli](https://github.com/skatkov/kanban-cli) - 
 
 
 #### 🔨 My recent Pull Requests
