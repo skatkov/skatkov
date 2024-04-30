@@ -4,9 +4,9 @@
  
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (today) 
 - [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem (2 days ago) 
+- [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) -  (2 days ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 month ago) 
-- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (2 months ago) 
-- [skatkov/irb-theme-nord](https://github.com/skatkov/irb-theme-nord) - Nord theme for Reline/IRB (3 months ago)
+- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (2 months ago)
 
 #### 🌱 My latest projects
  
