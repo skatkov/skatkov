@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (4 days ago) 
-- [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem (6 days ago) 
-- [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) -  (6 days ago) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (5 days ago) 
+- [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem (1 week ago) 
+- [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) -  (1 week ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 month ago) 
 - [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (2 months ago)
 
@@ -34,7 +34,7 @@
  
 - [run tests forever (until they fail)](https://gist.github.com/12617ad1fe45a1fc76bcac05e922868c) (5 months ago) 
 - [Spell Checking with codespell and misspell](https://gist.github.com/abf49d80e98ac42b3cac397c9efc383f) (11 months ago) 
-- [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (11 months ago) 
+- [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (1 year ago) 
 - [speed up testsuit by using unlogged tables in PG](https://gist.github.com/e482617b2a1f9635738a0b66ec0cb327) (1 year ago) 
 - [contact book](https://gist.github.com/18f317a0affb0fa7ee0e74511c340422) (2 years ago)
 
