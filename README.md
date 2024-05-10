@@ -26,7 +26,7 @@
 - [Replace repeated messages instead of appending more](https://github.com/cheddar-me/pbbuilder/pull/55) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
 - [Exclude incompatible Rails versions](https://github.com/cheddar-me/pbbuilder/pull/54) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
 - [Exclude incompatible rails versions](https://github.com/cheddar-me/rails-twirp/pull/41) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (2 months ago) 
-- [Don&#39;t print constant values in markdown docs](https://github.com/skatkov/yard-markdown/pull/10) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago) 
+- [Don&#39;t print constant values in markdown docs](https://github.com/skatkov/yard-markdown/pull/10) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 months ago) 
 - [Switch to Rails RuboCop config.](https://github.com/rails/solid_cache/pull/121) on [rails/solid_cache](https://github.com/rails/solid_cache) (4 months ago) 
 - [replace standard, use-syntax-tree](https://github.com/skatkov/yard-markdown/pull/8) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 months ago)
 
