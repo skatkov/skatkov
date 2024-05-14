@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (today) 
+- [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Rate limiter for Rails based on leaky buckets (today) 
 - [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) -  (2 weeks ago) 
 - [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem (2 weeks ago) 
-- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 month ago) 
-- [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) - Full Rails integration for Twirp (3 months ago)
+- [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 month ago)
 
 #### 🌱 My latest projects
  
