@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (3 days ago) 
-- [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Rate limiter for Rails based on leaky buckets (3 days ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (4 days ago) 
+- [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Rate limiter for Rails based on leaky buckets (4 days ago) 
 - [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) -  (2 weeks ago) 
 - [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem (2 weeks ago)
 
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Show full class path in index](https://github.com/skatkov/yard-markdown/pull/15) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
-- [Remove mention of GoodJob](https://github.com/cheddar-me/pecorino/pull/21) on [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) (4 days ago) 
-- [Remove a typo from upstream.rb](https://github.com/fractaledmind/litestream-ruby/pull/21) on [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) (2 weeks ago) 
+- [Show full class path in index](https://github.com/skatkov/yard-markdown/pull/15) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
+- [Remove mention of GoodJob](https://github.com/cheddar-me/pecorino/pull/21) on [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) (5 days ago) 
+- [Remove a typo from upstream.rb](https://github.com/fractaledmind/litestream-ruby/pull/21) on [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) (3 weeks ago) 
 - [Allow rails-twirp to use 7-1-stable rails branch.](https://github.com/cheddar-me/rails-twirp/pull/44) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago) 
 - [loose rails dependency, so it would be possible to use &gt;7.1.4](https://github.com/cheddar-me/rails-twirp/pull/43) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago) 
 - [Fixing CI: lock google-protobuf to ~&gt; 3 version](https://github.com/cheddar-me/pbbuilder/pull/56) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 month ago) 
