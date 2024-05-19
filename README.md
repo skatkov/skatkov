@@ -5,8 +5,8 @@
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 days ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (5 days ago) 
 - [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Rate limiter for Rails based on leaky buckets (5 days ago) 
-- [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) -  (3 weeks ago) 
-- [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem (3 weeks ago)
+- [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem (3 weeks ago) 
+- [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) -  (3 weeks ago)
 
 #### 🌱 My latest projects
  
