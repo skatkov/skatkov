@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (today) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (3 days ago) 
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (6 days ago) 
-- [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Rate limiter for Rails based on leaky buckets (6 days ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (4 days ago) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 week ago) 
+- [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Rate limiter for Rails based on leaky buckets (1 week ago) 
 - [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Show full class path in index](https://github.com/skatkov/yard-markdown/pull/15) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 days ago) 
+- [Show full class path in index](https://github.com/skatkov/yard-markdown/pull/15) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
 - [Remove mention of GoodJob](https://github.com/cheddar-me/pecorino/pull/21) on [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) (1 week ago) 
 - [Remove a typo from upstream.rb](https://github.com/fractaledmind/litestream-ruby/pull/21) on [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) (3 weeks ago) 
 - [Allow rails-twirp to use 7-1-stable rails branch.](https://github.com/cheddar-me/rails-twirp/pull/44) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago) 
