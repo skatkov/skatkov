@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [fix: MultiSelect.Filterable(false) to disable filtering.](https://github.com/charmbracelet/huh/pull/255) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (today) 
 - [Show full class path in index](https://github.com/skatkov/yard-markdown/pull/15) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Remove mention of GoodJob](https://github.com/cheddar-me/pecorino/pull/21) on [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) (2 weeks ago) 
 - [Remove a typo from upstream.rb](https://github.com/fractaledmind/litestream-ruby/pull/21) on [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) (1 month ago) 
@@ -27,8 +28,7 @@
 - [Fixing CI: lock google-protobuf to ~&gt; 3 version](https://github.com/cheddar-me/pbbuilder/pull/56) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
 - [Replace repeated messages instead of appending more](https://github.com/cheddar-me/pbbuilder/pull/55) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago) 
 - [Exclude incompatible Rails versions](https://github.com/cheddar-me/pbbuilder/pull/54) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (3 months ago) 
-- [Exclude incompatible rails versions](https://github.com/cheddar-me/rails-twirp/pull/41) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (3 months ago) 
-- [Don&#39;t print constant values in markdown docs](https://github.com/skatkov/yard-markdown/pull/10) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 months ago)
+- [Exclude incompatible rails versions](https://github.com/cheddar-me/rails-twirp/pull/41) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (3 months ago)
 
 #### 📓 Gists I wrote
  
