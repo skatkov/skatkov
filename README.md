@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (today) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 days ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago) 
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (2 weeks ago) 
 - [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Rate limiter for Rails based on leaky buckets (2 weeks ago) 
 - [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem (1 month ago)
 
