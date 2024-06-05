@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks framework for rails applications (2 days ago) 
+- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks framework for rails applications (today) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (5 days ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago) 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (today) 
 - [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 days ago) 
 - [Fetch entries for all categories](https://github.com/skatkov/miniflux-email-client/pull/6) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 week ago) 
 - [fix: MultiSelect.Filterable(false) to disable filtering.](https://github.com/charmbracelet/huh/pull/255) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Remove mention of GoodJob](https://github.com/cheddar-me/pecorino/pull/21) on [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) (3 weeks ago) 
 - [Remove a typo from upstream.rb](https://github.com/fractaledmind/litestream-ruby/pull/21) on [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) (1 month ago) 
 - [Allow rails-twirp to use 7-1-stable rails branch.](https://github.com/cheddar-me/rails-twirp/pull/44) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago) 
-- [loose rails dependency, so it would be possible to use &gt;7.1.4](https://github.com/cheddar-me/rails-twirp/pull/43) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago) 
-- [Fixing CI: lock google-protobuf to ~&gt; 3 version](https://github.com/cheddar-me/pbbuilder/pull/56) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 months ago)
+- [loose rails dependency, so it would be possible to use &gt;7.1.4](https://github.com/cheddar-me/rails-twirp/pull/43) on [cheddar-me/rails-twirp](https://github.com/cheddar-me/rails-twirp) (1 month ago)
 
 #### 📓 Gists I wrote
  
