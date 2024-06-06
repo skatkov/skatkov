@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks framework for rails applications (today) 
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (5 days ago) 
+- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks framework for rails applications (1 day ago) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (6 days ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago) 
 - [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) - Rate limiter for Rails based on leaky buckets (3 weeks ago)
@@ -19,12 +19,12 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Introduce Rails common error handler](https://github.com/cheddar-me/munster/pull/7) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (today) 
-- [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (today) 
-- [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 days ago) 
+- [Introduce Rails common error reporter](https://github.com/cheddar-me/munster/pull/7) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 day ago) 
+- [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 day ago) 
+- [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 days ago) 
 - [Fetch entries for all categories](https://github.com/skatkov/miniflux-email-client/pull/6) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 week ago) 
 - [fix: MultiSelect.Filterable(false) to disable filtering.](https://github.com/charmbracelet/huh/pull/255) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 week ago) 
-- [Rack app](https://github.com/cheddar-me/munster/pull/1) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 week ago) 
+- [Rack app](https://github.com/cheddar-me/munster/pull/1) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
 - [Show full class path in index](https://github.com/skatkov/yard-markdown/pull/15) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago) 
 - [Remove mention of GoodJob](https://github.com/cheddar-me/pecorino/pull/21) on [cheddar-me/pecorino](https://github.com/cheddar-me/pecorino) (3 weeks ago) 
 - [Remove a typo from upstream.rb](https://github.com/fractaledmind/litestream-ruby/pull/21) on [fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby) (1 month ago) 
