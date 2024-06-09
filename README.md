@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks framework for rails applications (1 day ago) 
+- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks framework for rails applications (2 days ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (3 weeks ago) 
@@ -19,11 +19,11 @@
 
 #### 🔨 My recent Pull Requests
  
-- [fix incorrect links in README.md](https://github.com/cheddar-me/tou/pull/1) on [cheddar-me/tou](https://github.com/cheddar-me/tou) (1 day ago) 
-- [Provide handled: true attribute for Rails.error.report method, because it is  required in Rails 7.0.](https://github.com/cheddar-me/munster/pull/8) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 days ago) 
-- [Introduce Rails common error reporter](https://github.com/cheddar-me/munster/pull/7) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 days ago) 
-- [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 days ago) 
-- [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (5 days ago) 
+- [fix incorrect links in README.md](https://github.com/cheddar-me/tou/pull/1) on [cheddar-me/tou](https://github.com/cheddar-me/tou) (2 days ago) 
+- [Provide handled: true attribute for Rails.error.report method, because it is  required in Rails 7.0.](https://github.com/cheddar-me/munster/pull/8) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 days ago) 
+- [Introduce Rails common error reporter](https://github.com/cheddar-me/munster/pull/7) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (4 days ago) 
+- [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (4 days ago) 
+- [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (6 days ago) 
 - [Fetch entries for all categories](https://github.com/skatkov/miniflux-email-client/pull/6) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 week ago) 
 - [fix: MultiSelect.Filterable(false) to disable filtering.](https://github.com/charmbracelet/huh/pull/255) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 week ago) 
 - [Rack app](https://github.com/cheddar-me/munster/pull/1) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
