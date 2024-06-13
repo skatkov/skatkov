@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (today) 
 - [cheddar-me/tou](https://github.com/cheddar-me/tou) - Time-ordered UUIDv4 (3 days ago) 
 - [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks framework for rails applications (6 days ago) 
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 weeks ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (3 weeks ago)
 
