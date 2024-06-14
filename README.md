@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks framework for rails applications (today) 
+- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (today) 
 - [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (today) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 day ago) 
 - [cheddar-me/tou](https://github.com/cheddar-me/tou) - Time-ordered UUIDv4 (4 days ago) 
