@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (today) 
 - [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (today) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (today) 
 - [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (today) 
 - [cheddar-me/tou](https://github.com/cheddar-me/tou) - Time-ordered UUIDv4 (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 weeks ago)
