@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (today) 
-- [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (2 days ago) 
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (2 days ago) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 day ago) 
+- [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (3 days ago) 
+- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (3 days ago) 
 - [cheddar-me/tou](https://github.com/cheddar-me/tou) - Time-ordered UUIDv4 (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 weeks ago)
 
@@ -19,8 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Adding basic tests](https://github.com/cheddar-me/state_machine_enum/pull/3) on [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) (6 days ago) 
-- [Fix incorrect links in README.md](https://github.com/cheddar-me/tou/pull/1) on [cheddar-me/tou](https://github.com/cheddar-me/tou) (1 week ago) 
+- [Adding basic tests](https://github.com/cheddar-me/state_machine_enum/pull/3) on [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) (1 week ago) 
+- [Fix incorrect links in README.md](https://github.com/cheddar-me/tou/pull/1) on [cheddar-me/tou](https://github.com/cheddar-me/tou) (2 weeks ago) 
 - [Provide handled: true attribute for Rails.error.report method, because it is  required in Rails 7.0.](https://github.com/cheddar-me/munster/pull/8) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
 - [Introduce Rails common error reporter](https://github.com/cheddar-me/munster/pull/7) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
 - [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
