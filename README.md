@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (2 days ago) 
-- [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (4 days ago) 
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (4 days ago) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (3 days ago) 
+- [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (5 days ago) 
+- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (5 days ago) 
 - [cheddar-me/tou](https://github.com/cheddar-me/tou) - Time-ordered UUIDv4 (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 weeks ago)
 
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (today) 
+- [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (1 day ago) 
 - [run tests forever (until they fail)](https://gist.github.com/12617ad1fe45a1fc76bcac05e922868c) (6 months ago) 
 - [Spell Checking with codespell and misspell](https://gist.github.com/abf49d80e98ac42b3cac397c9efc383f) (1 year ago) 
 - [Store sample of sql when ActiveRecord::QueryCanceled occured](https://gist.github.com/17d1f53d38ea90c4a4c678197e682173) (1 year ago) 
