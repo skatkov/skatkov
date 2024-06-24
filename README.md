@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (today) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (4 days ago) 
 - [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (6 days ago) 
 - [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (6 days ago) 
-- [cheddar-me/tou](https://github.com/cheddar-me/tou) - Time-ordered UUIDv4 (2 weeks ago) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 weeks ago)
+- [cheddar-me/tou](https://github.com/cheddar-me/tou) - Time-ordered UUIDv4 (2 weeks ago)
 
 #### 🌱 My latest projects
  
@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [docs: Simplify installation with brew](https://github.com/charmbracelet/soft-serve/pull/534) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today) 
+- [Simplify installation with brew](https://github.com/skatkov/soft-serve/pull/1) on [skatkov/soft-serve](https://github.com/skatkov/soft-serve) (today) 
 - [Adding basic tests](https://github.com/cheddar-me/state_machine_enum/pull/3) on [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) (1 week ago) 
 - [Fix incorrect links in README.md](https://github.com/cheddar-me/tou/pull/1) on [cheddar-me/tou](https://github.com/cheddar-me/tou) (2 weeks ago) 
 - [Provide handled: true attribute for Rails.error.report method, because it is  required in Rails 7.0.](https://github.com/cheddar-me/munster/pull/8) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
@@ -26,9 +28,7 @@
 - [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
 - [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
 - [Fetch entries for all categories](https://github.com/skatkov/miniflux-email-client/pull/6) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (3 weeks ago) 
-- [fix: MultiSelect.Filterable(false) to disable filtering.](https://github.com/charmbracelet/huh/pull/255) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 weeks ago) 
-- [Rack app](https://github.com/cheddar-me/munster/pull/1) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 month ago) 
-- [Show full class path in index](https://github.com/skatkov/yard-markdown/pull/15) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago)
+- [fix: MultiSelect.Filterable(false) to disable filtering.](https://github.com/charmbracelet/huh/pull/255) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (4 weeks ago)
 
 #### 📓 Gists I wrote
  
