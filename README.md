@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (today) 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 days ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (6 days ago) 
 - [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (1 week ago) 
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (1 week ago) 
-- [cheddar-me/tou](https://github.com/cheddar-me/tou) - Time-ordered UUIDv4 (2 weeks ago)
+- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (1 week ago)
 
 #### 🌱 My latest projects
  
