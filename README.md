@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Handle ActionDispatch::Response::RackBody as body](https://github.com/julik/idempo/pull/22) on [julik/idempo](https://github.com/julik/idempo) (today) 
 - [docs: Simplify installation with brew](https://github.com/charmbracelet/soft-serve/pull/534) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago) 
 - [Simplify installation with brew](https://github.com/skatkov/soft-serve/pull/1) on [skatkov/soft-serve](https://github.com/skatkov/soft-serve) (2 days ago) 
 - [Adding basic tests](https://github.com/cheddar-me/state_machine_enum/pull/3) on [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Introduce Rails common error reporter](https://github.com/cheddar-me/munster/pull/7) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
 - [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
 - [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
-- [Fetch entries for all categories](https://github.com/skatkov/miniflux-email-client/pull/6) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (4 weeks ago) 
-- [fix: MultiSelect.Filterable(false) to disable filtering.](https://github.com/charmbracelet/huh/pull/255) on [charmbracelet/huh](https://github.com/charmbracelet/huh) (1 month ago)
+- [Fetch entries for all categories](https://github.com/skatkov/miniflux-email-client/pull/6) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (4 weeks ago)
 
 #### 📓 Gists I wrote
  
