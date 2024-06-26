@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [remove braces from CHANGELOG.md](https://github.com/julik/idempo/pull/23) on [julik/idempo](https://github.com/julik/idempo) (today) 
+- [Remove braces from CHANGELOG.md](https://github.com/julik/idempo/pull/23) on [julik/idempo](https://github.com/julik/idempo) (today) 
 - [Handle ActionDispatch::Response::RackBody as body](https://github.com/julik/idempo/pull/22) on [julik/idempo](https://github.com/julik/idempo) (today) 
 - [docs: Simplify installation with brew](https://github.com/charmbracelet/soft-serve/pull/534) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago) 
 - [Simplify installation with brew](https://github.com/skatkov/soft-serve/pull/1) on [skatkov/soft-serve](https://github.com/skatkov/soft-serve) (2 days ago) 
