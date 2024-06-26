@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [remove braces from CHANGELOG.md](https://github.com/julik/idempo/pull/23) on [julik/idempo](https://github.com/julik/idempo) (today) 
 - [Handle ActionDispatch::Response::RackBody as body](https://github.com/julik/idempo/pull/22) on [julik/idempo](https://github.com/julik/idempo) (today) 
 - [docs: Simplify installation with brew](https://github.com/charmbracelet/soft-serve/pull/534) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago) 
 - [Simplify installation with brew](https://github.com/skatkov/soft-serve/pull/1) on [skatkov/soft-serve](https://github.com/skatkov/soft-serve) (2 days ago) 
@@ -27,8 +28,7 @@
 - [Provide handled: true attribute for Rails.error.report method, because it is  required in Rails 7.0.](https://github.com/cheddar-me/munster/pull/8) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
 - [Introduce Rails common error reporter](https://github.com/cheddar-me/munster/pull/7) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
 - [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
-- [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
-- [Fetch entries for all categories](https://github.com/skatkov/miniflux-email-client/pull/6) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (4 weeks ago)
+- [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
