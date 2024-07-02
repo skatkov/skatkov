@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [standardrb/standard-rails](https://github.com/standardrb/standard-rails) - A Standard Ruby plugin that configures rubocop-rails (today) 
 - [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (6 days ago) 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (1 week ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 week ago) 
-- [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (2 weeks ago) 
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (2 weeks ago)
+- [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (2 weeks ago)
 
 #### 🌱 My latest projects
  
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Add a note about ignore migrations.](https://github.com/standardrb/standard-rails/pull/48) on [standardrb/standard-rails](https://github.com/standardrb/standard-rails) (today) 
+- [Add a note about ignoring existing migrations.](https://github.com/standardrb/standard-rails/pull/48) on [standardrb/standard-rails](https://github.com/standardrb/standard-rails) (today) 
 - [Remove braces from CHANGELOG.md](https://github.com/julik/idempo/pull/23) on [julik/idempo](https://github.com/julik/idempo) (6 days ago) 
 - [Handle ActionDispatch::Response::RackBody as body](https://github.com/julik/idempo/pull/22) on [julik/idempo](https://github.com/julik/idempo) (6 days ago) 
 - [docs: Simplify installation with brew](https://github.com/charmbracelet/soft-serve/pull/534) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago) 
