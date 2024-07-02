@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Add a note about ignore migrations.](https://github.com/standardrb/standard-rails/pull/48) on [standardrb/standard-rails](https://github.com/standardrb/standard-rails) (today) 
 - [Remove braces from CHANGELOG.md](https://github.com/julik/idempo/pull/23) on [julik/idempo](https://github.com/julik/idempo) (6 days ago) 
 - [Handle ActionDispatch::Response::RackBody as body](https://github.com/julik/idempo/pull/22) on [julik/idempo](https://github.com/julik/idempo) (6 days ago) 
 - [docs: Simplify installation with brew](https://github.com/charmbracelet/soft-serve/pull/534) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Fix incorrect links in README.md](https://github.com/cheddar-me/tou/pull/1) on [cheddar-me/tou](https://github.com/cheddar-me/tou) (3 weeks ago) 
 - [Provide handled: true attribute for Rails.error.report method, because it is  required in Rails 7.0.](https://github.com/cheddar-me/munster/pull/8) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
 - [Introduce Rails common error reporter](https://github.com/cheddar-me/munster/pull/7) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
-- [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
-- [WIP: adding tests](https://github.com/cheddar-me/munster/pull/5) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (4 weeks ago)
+- [Define acitve_handlers with service_id](https://github.com/cheddar-me/munster/pull/6) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
