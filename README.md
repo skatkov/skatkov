@@ -6,7 +6,7 @@
 - [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (1 week ago) 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 weeks ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (2 weeks ago) 
-- [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) -  (2 weeks ago)
+- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (2 weeks ago)
 
 #### 🌱 My latest projects
  
