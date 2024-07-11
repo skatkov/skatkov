@@ -5,7 +5,7 @@
 - [standardrb/standard-rails](https://github.com/standardrb/standard-rails) - A Standard Ruby plugin that configures rubocop-rails (1 week ago) 
 - [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (2 weeks ago) 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (2 weeks ago) 
-- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (2 weeks ago) 
+- [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (3 weeks ago) 
 - [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (3 weeks ago)
 
 #### 🌱 My latest projects
