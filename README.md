@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (today) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (2 days ago) 
 - [standardrb/standard-rails](https://github.com/standardrb/standard-rails) - A Standard Ruby plugin that configures rubocop-rails (2 weeks ago) 
 - [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (3 weeks ago) 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 weeks ago) 
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (4 weeks ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (3 weeks ago)
 
 #### 🌱 My latest projects
  
