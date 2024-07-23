@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (5 days ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (6 days ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 week ago) 
-- [standardrb/standard-rails](https://github.com/standardrb/standard-rails) - A Standard Ruby plugin that configures rubocop-rails (2 weeks ago) 
+- [standardrb/standard-rails](https://github.com/standardrb/standard-rails) - A Standard Ruby plugin that configures rubocop-rails (3 weeks ago) 
 - [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (3 weeks ago) 
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦 (4 weeks ago)
 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Add a note about ignoring existing migrations.](https://github.com/standardrb/standard-rails/pull/48) on [standardrb/standard-rails](https://github.com/standardrb/standard-rails) (2 weeks ago) 
+- [Add a note about ignoring existing migrations.](https://github.com/standardrb/standard-rails/pull/48) on [standardrb/standard-rails](https://github.com/standardrb/standard-rails) (3 weeks ago) 
 - [Remove braces from CHANGELOG.md](https://github.com/julik/idempo/pull/23) on [julik/idempo](https://github.com/julik/idempo) (3 weeks ago) 
 - [Handle ActionDispatch::Response::RackBody as body](https://github.com/julik/idempo/pull/22) on [julik/idempo](https://github.com/julik/idempo) (3 weeks ago) 
 - [docs: Simplify installation with brew](https://github.com/charmbracelet/soft-serve/pull/534) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 weeks ago) 
