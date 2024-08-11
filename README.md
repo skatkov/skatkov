@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [move to v1 of mergo library](https://github.com/fumeapp/taskin/pull/9) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (1 day ago) 
+- [move to v1 of mergo library](https://github.com/fumeapp/taskin/pull/9) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (2 days ago) 
 - [Fixes: active_job/railtie, re-enqueue webhook that errored out](https://github.com/cheddar-me/munster/pull/18) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 week ago) 
 - [Add a note about ignoring existing migrations.](https://github.com/standardrb/standard-rails/pull/48) on [standardrb/standard-rails](https://github.com/standardrb/standard-rails) (1 month ago) 
 - [Remove braces from CHANGELOG.md](https://github.com/julik/idempo/pull/23) on [julik/idempo](https://github.com/julik/idempo) (1 month ago) 
