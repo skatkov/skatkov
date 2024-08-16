@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
  
 - [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (2 weeks ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (4 weeks ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (3 weeks ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 month ago) 
 - [standardrb/standard-rails](https://github.com/standardrb/standard-rails) - A Standard Ruby plugin that configures rubocop-rails (1 month ago)
 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [move to v1 of mergo library](https://github.com/fumeapp/taskin/pull/9) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (6 days ago) 
+- [move to v1 of mergo library](https://github.com/fumeapp/taskin/pull/9) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (1 week ago) 
 - [Fixes: active_job/railtie, re-enqueue webhook that errored out](https://github.com/cheddar-me/munster/pull/18) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
 - [Add a note about ignoring existing migrations.](https://github.com/standardrb/standard-rails/pull/48) on [standardrb/standard-rails](https://github.com/standardrb/standard-rails) (1 month ago) 
 - [Remove braces from CHANGELOG.md](https://github.com/julik/idempo/pull/23) on [julik/idempo](https://github.com/julik/idempo) (1 month ago) 
