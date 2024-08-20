@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 days ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 days ago) 
 - [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (3 weeks ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (3 weeks ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (1 month ago) 
