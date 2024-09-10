@@ -2,23 +2,24 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) -  (today) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
 - [skatkov/skatkov.com](https://github.com/skatkov/skatkov.com) - personal website (6 days ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 weeks ago) 
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (1 month ago) 
-- [standardrb/standard-rails](https://github.com/standardrb/standard-rails) - A Standard Ruby plugin that configures rubocop-rails (2 months ago)
+- [cheddar-me/munster](https://github.com/cheddar-me/munster) - webhooks processing engine for rails applications (1 month ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) -  
 - [skatkov/protoc-gen-twirp-ruby](https://github.com/skatkov/protoc-gen-twirp-ruby) - Compiling a twirp plugin from protoc 
 - [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem 
 - [skatkov/irb-theme-nord](https://github.com/skatkov/irb-theme-nord) - Nord theme for Reline/IRB 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation 
-- [skatkov/vscode-posh-docsets](https://github.com/skatkov/vscode-posh-docsets) - 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation
 
 
 #### 🔨 My recent Pull Requests
  
+- [Provide all steps to get gem working with jekyll](https://github.com/crbelaus/jekyll-tailwind/pull/6) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (today) 
 - [index: include full name for methods](https://github.com/skatkov/yard-markdown/pull/18) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
 - [move to v1 of mergo library](https://github.com/fumeapp/taskin/pull/9) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (1 month ago) 
 - [Fixes: active_job/railtie, re-enqueue webhook that errored out](https://github.com/cheddar-me/munster/pull/18) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 month ago) 
@@ -27,8 +28,7 @@
 - [Handle ActionDispatch::Response::RackBody as body](https://github.com/julik/idempo/pull/22) on [julik/idempo](https://github.com/julik/idempo) (2 months ago) 
 - [docs: Simplify installation with brew](https://github.com/charmbracelet/soft-serve/pull/534) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 months ago) 
 - [Simplify installation with brew](https://github.com/skatkov/soft-serve/pull/1) on [skatkov/soft-serve](https://github.com/skatkov/soft-serve) (2 months ago) 
-- [Adding basic tests](https://github.com/cheddar-me/state_machine_enum/pull/3) on [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) (2 months ago) 
-- [Fix incorrect links in README.md](https://github.com/cheddar-me/tou/pull/1) on [cheddar-me/tou](https://github.com/cheddar-me/tou) (3 months ago)
+- [Adding basic tests](https://github.com/cheddar-me/state_machine_enum/pull/3) on [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) (2 months ago)
 
 #### 📓 Gists I wrote
  
