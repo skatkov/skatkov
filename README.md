@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Support older MacOS processor](https://github.com/crbelaus/jekyll-tailwind/pull/7) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (today) 
 - [Provide all steps to get gem working with jekyll](https://github.com/crbelaus/jekyll-tailwind/pull/6) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (6 days ago) 
 - [index: include full name for methods](https://github.com/skatkov/yard-markdown/pull/18) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [move to v1 of mergo library](https://github.com/fumeapp/taskin/pull/9) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (1 month ago) 
@@ -27,8 +28,7 @@
 - [Remove braces from CHANGELOG.md](https://github.com/julik/idempo/pull/23) on [julik/idempo](https://github.com/julik/idempo) (2 months ago) 
 - [Handle ActionDispatch::Response::RackBody as body](https://github.com/julik/idempo/pull/22) on [julik/idempo](https://github.com/julik/idempo) (2 months ago) 
 - [docs: Simplify installation with brew](https://github.com/charmbracelet/soft-serve/pull/534) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 months ago) 
-- [Simplify installation with brew](https://github.com/skatkov/soft-serve/pull/1) on [skatkov/soft-serve](https://github.com/skatkov/soft-serve) (2 months ago) 
-- [Adding basic tests](https://github.com/cheddar-me/state_machine_enum/pull/3) on [cheddar-me/state_machine_enum](https://github.com/cheddar-me/state_machine_enum) (3 months ago)
+- [Simplify installation with brew](https://github.com/skatkov/soft-serve/pull/1) on [skatkov/soft-serve](https://github.com/skatkov/soft-serve) (2 months ago)
 
 #### 📓 Gists I wrote
  
