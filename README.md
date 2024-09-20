@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Introduce rack-lint for testsuit](https://github.com/julik/idempo/pull/24) on [julik/idempo](https://github.com/julik/idempo) (today) 
+- [Introduce rack-lint for test suite](https://github.com/julik/idempo/pull/24) on [julik/idempo](https://github.com/julik/idempo) (today) 
 - [modify readme](https://github.com/skatkov/jekyll-tailwind-cli/pull/1) on [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) (today) 
 - [Support older MacOS processor](https://github.com/crbelaus/jekyll-tailwind/pull/7) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (4 days ago) 
 - [Provide all steps to get gem working with jekyll](https://github.com/crbelaus/jekyll-tailwind/pull/6) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 week ago) 
