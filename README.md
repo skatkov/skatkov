@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Test for collection with variable](https://github.com/cheddar-me/pbbuilder/pull/61) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [Drop support for rails v6.* versions](https://github.com/cheddar-me/pbbuilder/pull/60) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (today) 
 - [Don&#39;t test against rack v2](https://github.com/julik/idempo/pull/25) on [julik/idempo](https://github.com/julik/idempo) (today) 
 - [Introduce rack-lint for test suite](https://github.com/julik/idempo/pull/24) on [julik/idempo](https://github.com/julik/idempo) (today) 
@@ -27,8 +28,7 @@
 - [Provide all steps to get gem working with jekyll](https://github.com/crbelaus/jekyll-tailwind/pull/6) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 week ago) 
 - [index: include full name for methods](https://github.com/skatkov/yard-markdown/pull/18) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [move to v1 of mergo library](https://github.com/fumeapp/taskin/pull/9) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (1 month ago) 
-- [Fixes: active_job/railtie, re-enqueue webhook that errored out](https://github.com/cheddar-me/munster/pull/18) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 month ago) 
-- [Add a note about ignoring existing migrations.](https://github.com/standardrb/standard-rails/pull/48) on [standardrb/standard-rails](https://github.com/standardrb/standard-rails) (2 months ago)
+- [Fixes: active_job/railtie, re-enqueue webhook that errored out](https://github.com/cheddar-me/munster/pull/18) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 month ago)
 
 #### 📓 Gists I wrote
  
