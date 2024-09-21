@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) -  (today) 
-- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (1 day ago) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (today) 
 - [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) -  (1 day ago) 
+- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (1 day ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago)
 
 #### 🌱 My latest projects
  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) -  
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. 
 - [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) -  
 - [skatkov/protoc-gen-twirp-ruby](https://github.com/skatkov/protoc-gen-twirp-ruby) - Compiling a twirp plugin from protoc 
 - [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem 
@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/3) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (today) 
+- [better improvement](https://github.com/skatkov/jekyll-heroicons/pull/2) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (today) 
 - [latest](https://github.com/skatkov/jekyll-heroicons/pull/1) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 day ago) 
 - [Test for collection with variable](https://github.com/cheddar-me/pbbuilder/pull/61) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
 - [Drop support for rails v6.* versions](https://github.com/cheddar-me/pbbuilder/pull/60) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (1 day ago) 
@@ -26,9 +28,7 @@
 - [Introduce Rack::Lint into our test suite](https://github.com/julik/idempo/pull/24) on [julik/idempo](https://github.com/julik/idempo) (1 day ago) 
 - [modify readme](https://github.com/skatkov/jekyll-tailwind-cli/pull/1) on [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) (1 day ago) 
 - [Support older MacOS processor](https://github.com/crbelaus/jekyll-tailwind/pull/7) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (5 days ago) 
-- [Provide all steps to get gem working with jekyll](https://github.com/crbelaus/jekyll-tailwind/pull/6) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 week ago) 
-- [index: include full name for methods](https://github.com/skatkov/yard-markdown/pull/18) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [move to v1 of mergo library](https://github.com/fumeapp/taskin/pull/9) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (1 month ago)
+- [Provide all steps to get gem working with jekyll](https://github.com/crbelaus/jekyll-tailwind/pull/6) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 week ago)
 
 #### 📓 Gists I wrote
  
