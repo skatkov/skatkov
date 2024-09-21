@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Return &#39;rack&#39; as a main dependency](https://github.com/julik/idempo/pull/26) on [julik/idempo](https://github.com/julik/idempo) (today) 
 - [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/3) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (today) 
 - [better improvement](https://github.com/skatkov/jekyll-heroicons/pull/2) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (today) 
 - [latest](https://github.com/skatkov/jekyll-heroicons/pull/1) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Don&#39;t test against rack v2](https://github.com/julik/idempo/pull/25) on [julik/idempo](https://github.com/julik/idempo) (1 day ago) 
 - [Introduce Rack::Lint into our test suite](https://github.com/julik/idempo/pull/24) on [julik/idempo](https://github.com/julik/idempo) (1 day ago) 
 - [modify readme](https://github.com/skatkov/jekyll-tailwind-cli/pull/1) on [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) (1 day ago) 
-- [Support older MacOS processor](https://github.com/crbelaus/jekyll-tailwind/pull/7) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (5 days ago) 
-- [Provide all steps to get gem working with jekyll](https://github.com/crbelaus/jekyll-tailwind/pull/6) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 week ago)
+- [Support older MacOS processor](https://github.com/crbelaus/jekyll-tailwind/pull/7) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (5 days ago)
 
 #### 📓 Gists I wrote
  
