@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (1 day ago) 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) -  (2 days ago) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (today) 
 - [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (2 days ago) 
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) -  (2 days ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago)
 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/4) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (today) 
 - [Return &#39;rack&#39; as a main dependency](https://github.com/julik/idempo/pull/26) on [julik/idempo](https://github.com/julik/idempo) (1 day ago) 
 - [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/3) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 day ago) 
 - [better improvement](https://github.com/skatkov/jekyll-heroicons/pull/2) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Drop support for rails v6.* versions](https://github.com/cheddar-me/pbbuilder/pull/60) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 days ago) 
 - [Don&#39;t test against rack v2](https://github.com/julik/idempo/pull/25) on [julik/idempo](https://github.com/julik/idempo) (2 days ago) 
 - [Introduce Rack::Lint into our test suite](https://github.com/julik/idempo/pull/24) on [julik/idempo](https://github.com/julik/idempo) (2 days ago) 
-- [modify readme](https://github.com/skatkov/jekyll-tailwind-cli/pull/1) on [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) (2 days ago) 
-- [Support older MacOS processor](https://github.com/crbelaus/jekyll-tailwind/pull/7) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (6 days ago)
+- [modify readme](https://github.com/skatkov/jekyll-tailwind-cli/pull/1) on [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) (2 days ago)
 
 #### 📓 Gists I wrote
  
