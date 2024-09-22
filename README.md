@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [icon class, with ability to tweak svg parameters](https://github.com/skatkov/jekyll-heroicons/pull/5) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (today) 
 - [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/4) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (today) 
 - [Return &#39;rack&#39; as a main dependency](https://github.com/julik/idempo/pull/26) on [julik/idempo](https://github.com/julik/idempo) (1 day ago) 
 - [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/3) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Test for collection with variable](https://github.com/cheddar-me/pbbuilder/pull/61) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 days ago) 
 - [Drop support for rails v6.* versions](https://github.com/cheddar-me/pbbuilder/pull/60) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (2 days ago) 
 - [Don&#39;t test against rack v2](https://github.com/julik/idempo/pull/25) on [julik/idempo](https://github.com/julik/idempo) (2 days ago) 
-- [Introduce Rack::Lint into our test suite](https://github.com/julik/idempo/pull/24) on [julik/idempo](https://github.com/julik/idempo) (2 days ago) 
-- [modify readme](https://github.com/skatkov/jekyll-tailwind-cli/pull/1) on [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) (2 days ago)
+- [Introduce Rack::Lint into our test suite](https://github.com/julik/idempo/pull/24) on [julik/idempo](https://github.com/julik/idempo) (2 days ago)
 
 #### 📓 Gists I wrote
  
