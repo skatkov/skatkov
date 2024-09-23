@@ -4,14 +4,14 @@
  
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (today) 
 - [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (3 days ago) 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) -  (3 days ago) 
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (3 days ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago)
 
 #### 🌱 My latest projects
  
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) -  
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. 
 - [skatkov/protoc-gen-twirp-ruby](https://github.com/skatkov/protoc-gen-twirp-ruby) - Compiling a twirp plugin from protoc 
 - [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem 
 - [skatkov/irb-theme-nord](https://github.com/skatkov/irb-theme-nord) - Nord theme for Reline/IRB
