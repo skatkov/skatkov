@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (today) 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (4 days ago) 
-- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (4 days ago) 
-- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 week ago) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (1 day ago) 
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (5 days ago) 
+- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (5 days ago) 
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (2 weeks ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [handle _config changes](https://github.com/skatkov/jekyll-heroicons/pull/6) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 day ago) 
-- [icon class, with ability to tweak svg parameters](https://github.com/skatkov/jekyll-heroicons/pull/5) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (2 days ago) 
-- [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/4) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (2 days ago) 
-- [Return &#39;rack&#39; as a main dependency](https://github.com/julik/idempo/pull/26) on [julik/idempo](https://github.com/julik/idempo) (3 days ago) 
-- [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/3) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 days ago) 
-- [better improvement](https://github.com/skatkov/jekyll-heroicons/pull/2) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 days ago) 
-- [latest](https://github.com/skatkov/jekyll-heroicons/pull/1) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (4 days ago) 
-- [Test for collection with variable](https://github.com/cheddar-me/pbbuilder/pull/61) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 days ago) 
-- [Drop support for rails v6.* versions](https://github.com/cheddar-me/pbbuilder/pull/60) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (4 days ago) 
-- [Don&#39;t test against rack v2](https://github.com/julik/idempo/pull/25) on [julik/idempo](https://github.com/julik/idempo) (4 days ago)
+- [handle _config changes](https://github.com/skatkov/jekyll-heroicons/pull/6) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (2 days ago) 
+- [icon class, with ability to tweak svg parameters](https://github.com/skatkov/jekyll-heroicons/pull/5) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 days ago) 
+- [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/4) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 days ago) 
+- [Return &#39;rack&#39; as a main dependency](https://github.com/julik/idempo/pull/26) on [julik/idempo](https://github.com/julik/idempo) (4 days ago) 
+- [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/3) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (4 days ago) 
+- [better improvement](https://github.com/skatkov/jekyll-heroicons/pull/2) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (4 days ago) 
+- [latest](https://github.com/skatkov/jekyll-heroicons/pull/1) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (5 days ago) 
+- [Test for collection with variable](https://github.com/cheddar-me/pbbuilder/pull/61) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago) 
+- [Drop support for rails v6.* versions](https://github.com/cheddar-me/pbbuilder/pull/60) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago) 
+- [Don&#39;t test against rack v2](https://github.com/julik/idempo/pull/25) on [julik/idempo](https://github.com/julik/idempo) (5 days ago)
 
 #### 📓 Gists I wrote
  
