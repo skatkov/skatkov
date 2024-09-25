@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (1 day ago) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (today) 
 - [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (5 days ago) 
 - [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (5 days ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (2 weeks ago) 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [setting default variant as solid and add disable_default_class attribute](https://github.com/skatkov/jekyll-heroicons/pull/8) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (today) 
 - [handle _config changes](https://github.com/skatkov/jekyll-heroicons/pull/6) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (2 days ago) 
 - [icon class, with ability to tweak svg parameters](https://github.com/skatkov/jekyll-heroicons/pull/5) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 days ago) 
 - [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/4) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 days ago) 
@@ -27,8 +28,7 @@
 - [better improvement](https://github.com/skatkov/jekyll-heroicons/pull/2) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (4 days ago) 
 - [latest](https://github.com/skatkov/jekyll-heroicons/pull/1) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (5 days ago) 
 - [Test for collection with variable](https://github.com/cheddar-me/pbbuilder/pull/61) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago) 
-- [Drop support for rails v6.* versions](https://github.com/cheddar-me/pbbuilder/pull/60) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago) 
-- [Don&#39;t test against rack v2](https://github.com/julik/idempo/pull/25) on [julik/idempo](https://github.com/julik/idempo) (5 days ago)
+- [Drop support for rails v6.* versions](https://github.com/cheddar-me/pbbuilder/pull/60) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (5 days ago)
 
 #### 📓 Gists I wrote
  
