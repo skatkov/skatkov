@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Use external executable wrapper for Tailwind CSS](https://github.com/skatkov/jekyll-tailwind-cli/pull/3) on [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) (today) 
 - [remove references for tailwindcss-rails](https://github.com/flavorjones/tailwindcss-ruby/pull/1) on [flavorjones/tailwindcss-ruby](https://github.com/flavorjones/tailwindcss-ruby) (1 day ago) 
 - [setting default variant as solid and add disable_default_class attribute](https://github.com/skatkov/jekyll-heroicons/pull/8) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 day ago) 
 - [handle _config changes](https://github.com/skatkov/jekyll-heroicons/pull/6) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 days ago) 
@@ -27,8 +28,7 @@
 - [Return &#39;rack&#39; as a main dependency](https://github.com/julik/idempo/pull/26) on [julik/idempo](https://github.com/julik/idempo) (5 days ago) 
 - [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/3) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (5 days ago) 
 - [better improvement](https://github.com/skatkov/jekyll-heroicons/pull/2) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (5 days ago) 
-- [latest](https://github.com/skatkov/jekyll-heroicons/pull/1) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (6 days ago) 
-- [Test for collection with variable](https://github.com/cheddar-me/pbbuilder/pull/61) on [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) (6 days ago)
+- [latest](https://github.com/skatkov/jekyll-heroicons/pull/1) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (6 days ago)
 
 #### 📓 Gists I wrote
  
