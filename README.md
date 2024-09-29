@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (today) 
 - [Use new jekyll-tailwind version](https://github.com/skatkov/jekyll-tailwind-cli-template/pull/2) on [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) (2 days ago) 
 - [Integrating tailwindcss-ruby](https://github.com/crbelaus/jekyll-tailwind/pull/10) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 days ago) 
 - [Use external executable wrapper for Tailwind CSS](https://github.com/skatkov/fork-jekyll-tailwind/pull/3) on [skatkov/fork-jekyll-tailwind](https://github.com/skatkov/fork-jekyll-tailwind) (3 days ago) 
@@ -27,8 +28,7 @@
 - [handle _config changes](https://github.com/skatkov/jekyll-heroicons/pull/6) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (6 days ago) 
 - [icon class, with ability to tweak svg parameters](https://github.com/skatkov/jekyll-heroicons/pull/5) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 week ago) 
 - [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/4) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 week ago) 
-- [Return &#39;rack&#39; as a main dependency](https://github.com/julik/idempo/pull/26) on [julik/idempo](https://github.com/julik/idempo) (1 week ago) 
-- [Coverage](https://github.com/skatkov/jekyll-heroicons/pull/3) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 week ago)
+- [Return &#39;rack&#39; as a main dependency](https://github.com/julik/idempo/pull/26) on [julik/idempo](https://github.com/julik/idempo) (1 week ago)
 
 #### 📓 Gists I wrote
  
