@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago) 
-- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (3 days ago) 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (3 days ago) 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago) 
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (4 days ago) 
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (4 days ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 week ago) 
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (1 week ago)
 
@@ -19,11 +19,11 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (3 days ago) 
-- [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (4 days ago) 
-- [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (4 days ago) 
-- [Use new jekyll-tailwind version](https://github.com/skatkov/jekyll-tailwind-cli-template/pull/2) on [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) (6 days ago) 
-- [Integrating tailwindcss-ruby](https://github.com/crbelaus/jekyll-tailwind/pull/10) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (6 days ago) 
+- [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (4 days ago) 
+- [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (5 days ago) 
+- [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (5 days ago) 
+- [Use new jekyll-tailwind version](https://github.com/skatkov/jekyll-tailwind-cli-template/pull/2) on [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) (1 week ago) 
+- [Integrating tailwindcss-ruby](https://github.com/crbelaus/jekyll-tailwind/pull/10) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 week ago) 
 - [Use external executable wrapper for Tailwind CSS](https://github.com/skatkov/fork-jekyll-tailwind/pull/3) on [skatkov/fork-jekyll-tailwind](https://github.com/skatkov/fork-jekyll-tailwind) (1 week ago) 
 - [remove references for tailwindcss-rails](https://github.com/flavorjones/tailwindcss-ruby/pull/1) on [flavorjones/tailwindcss-ruby](https://github.com/flavorjones/tailwindcss-ruby) (1 week ago) 
 - [setting default variant as solid and add disable_default_class attribute](https://github.com/skatkov/jekyll-heroicons/pull/8) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (1 week ago) 
