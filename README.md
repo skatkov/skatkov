@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago) 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago) 
 - [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (1 week ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 week ago) 
 - [cheddar-me/pbbuilder](https://github.com/cheddar-me/pbbuilder) - Generate Protobuf objects with a builder DSL (1 week ago) 
