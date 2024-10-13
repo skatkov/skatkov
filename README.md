@@ -20,15 +20,15 @@
 #### 🔨 My recent Pull Requests
  
 - [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 week ago) 
-- [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 week ago) 
-- [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 week ago) 
+- [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (2 weeks ago) 
+- [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 weeks ago) 
 - [Use new jekyll-tailwind version](https://github.com/skatkov/jekyll-tailwind-cli-template/pull/2) on [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) (2 weeks ago) 
 - [Integrating tailwindcss-ruby](https://github.com/crbelaus/jekyll-tailwind/pull/10) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 weeks ago) 
 - [Use external executable wrapper for Tailwind CSS](https://github.com/skatkov/fork-jekyll-tailwind/pull/3) on [skatkov/fork-jekyll-tailwind](https://github.com/skatkov/fork-jekyll-tailwind) (2 weeks ago) 
 - [remove references for tailwindcss-rails](https://github.com/flavorjones/tailwindcss-ruby/pull/1) on [flavorjones/tailwindcss-ruby](https://github.com/flavorjones/tailwindcss-ruby) (2 weeks ago) 
 - [setting default variant as solid and add disable_default_class attribute](https://github.com/skatkov/jekyll-heroicons/pull/8) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (2 weeks ago) 
 - [handle _config changes](https://github.com/skatkov/jekyll-heroicons/pull/6) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (2 weeks ago) 
-- [icon class, with ability to tweak svg parameters](https://github.com/skatkov/jekyll-heroicons/pull/5) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (2 weeks ago)
+- [icon class, with ability to tweak svg parameters](https://github.com/skatkov/jekyll-heroicons/pull/5) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
