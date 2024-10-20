@@ -20,21 +20,21 @@
 #### 🔨 My recent Pull Requests
  
 - [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 weeks ago) 
-- [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (2 weeks ago) 
-- [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 weeks ago) 
+- [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 weeks ago) 
+- [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (3 weeks ago) 
 - [Use new jekyll-tailwind version](https://github.com/skatkov/jekyll-tailwind-cli-template/pull/2) on [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) (3 weeks ago) 
 - [Integrating tailwindcss-ruby](https://github.com/crbelaus/jekyll-tailwind/pull/10) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (3 weeks ago) 
 - [Use external executable wrapper for Tailwind CSS](https://github.com/skatkov/fork-jekyll-tailwind/pull/3) on [skatkov/fork-jekyll-tailwind](https://github.com/skatkov/fork-jekyll-tailwind) (3 weeks ago) 
 - [remove references for tailwindcss-rails](https://github.com/flavorjones/tailwindcss-ruby/pull/1) on [flavorjones/tailwindcss-ruby](https://github.com/flavorjones/tailwindcss-ruby) (3 weeks ago) 
 - [setting default variant as solid and add disable_default_class attribute](https://github.com/skatkov/jekyll-heroicons/pull/8) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 weeks ago) 
 - [handle _config changes](https://github.com/skatkov/jekyll-heroicons/pull/6) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 weeks ago) 
-- [icon class, with ability to tweak svg parameters](https://github.com/skatkov/jekyll-heroicons/pull/5) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (3 weeks ago)
+- [icon class, with ability to tweak svg parameters](https://github.com/skatkov/jekyll-heroicons/pull/5) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (4 weeks ago)
 
 #### 📓 Gists I wrote
  
 - [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (1 month ago) 
 - [Create a (draft) pull request using GitHub CLI](https://gist.github.com/06c4f37ab4de050940f7e7d2f1504006) (1 month ago) 
-- [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (3 months ago) 
+- [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (4 months ago) 
 - [run tests forever (until they fail)](https://gist.github.com/12617ad1fe45a1fc76bcac05e922868c) (10 months ago) 
 - [Spell Checking with codespell and misspell](https://gist.github.com/abf49d80e98ac42b3cac397c9efc383f) (1 year ago)
 
