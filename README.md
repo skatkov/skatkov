@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (today) 
+- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (1 day ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 weeks ago) 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 month ago) 
