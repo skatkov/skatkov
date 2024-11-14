@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (2 days ago) 
+- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (3 days ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 weeks ago) 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 month ago) 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Fixing links to socials](https://github.com/mikker/nitro_kit/pull/3) on [mikker/nitro_kit](https://github.com/mikker/nitro_kit) (today) 
+- [Fixing links to socials](https://github.com/mikker/nitro_kit/pull/3) on [mikker/nitro_kit](https://github.com/mikker/nitro_kit) (1 day ago) 
 - [Patch 1](https://github.com/skatkov/miniflux-email-client/pull/7) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (3 weeks ago) 
 - [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
 - [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 month ago) 
