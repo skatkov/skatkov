@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [adding litesteam](https://github.com/fractaledmind/litestream_rails/pull/3) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (today) 
 - [Fixing links to socials](https://github.com/mikker/nitro_kit/pull/3) on [mikker/nitro_kit](https://github.com/mikker/nitro_kit) (1 week ago) 
 - [Patch 1](https://github.com/skatkov/miniflux-email-client/pull/7) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 month ago) 
 - [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
@@ -27,8 +28,7 @@
 - [Use new jekyll-tailwind version](https://github.com/skatkov/jekyll-tailwind-cli-template/pull/2) on [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) (1 month ago) 
 - [Integrating tailwindcss-ruby](https://github.com/crbelaus/jekyll-tailwind/pull/10) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
 - [Use external executable wrapper for Tailwind CSS](https://github.com/skatkov/fork-jekyll-tailwind/pull/3) on [skatkov/fork-jekyll-tailwind](https://github.com/skatkov/fork-jekyll-tailwind) (1 month ago) 
-- [remove references for tailwindcss-rails](https://github.com/flavorjones/tailwindcss-ruby/pull/1) on [flavorjones/tailwindcss-ruby](https://github.com/flavorjones/tailwindcss-ruby) (2 months ago) 
-- [setting default variant as solid and add disable_default_class attribute](https://github.com/skatkov/jekyll-heroicons/pull/8) on [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) (2 months ago)
+- [remove references for tailwindcss-rails](https://github.com/flavorjones/tailwindcss-ruby/pull/1) on [flavorjones/tailwindcss-ruby](https://github.com/flavorjones/tailwindcss-ruby) (2 months ago)
 
 #### 📓 Gists I wrote
  
