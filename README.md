@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (1 week ago) 
+- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (2 weeks ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago) 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago) 
-- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 month ago) 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (1 month ago)
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (1 month ago) 
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 month ago)
 
 #### 🌱 My latest projects
  
@@ -19,7 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [adding litesteam](https://github.com/fractaledmind/litestream_rails/pull/3) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (today) 
+- [Bump rails support up to 8.0](https://github.com/fractaledmind/litestream_rails/pull/4) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (1 day ago) 
+- [adding litesteam](https://github.com/fractaledmind/litestream_rails/pull/3) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (1 day ago) 
 - [Fixing links to socials](https://github.com/mikker/nitro_kit/pull/3) on [mikker/nitro_kit](https://github.com/mikker/nitro_kit) (1 week ago) 
 - [Patch 1](https://github.com/skatkov/miniflux-email-client/pull/7) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 month ago) 
 - [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
@@ -27,8 +28,7 @@
 - [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
 - [Use new jekyll-tailwind version](https://github.com/skatkov/jekyll-tailwind-cli-template/pull/2) on [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) (1 month ago) 
 - [Integrating tailwindcss-ruby](https://github.com/crbelaus/jekyll-tailwind/pull/10) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
-- [Use external executable wrapper for Tailwind CSS](https://github.com/skatkov/fork-jekyll-tailwind/pull/3) on [skatkov/fork-jekyll-tailwind](https://github.com/skatkov/fork-jekyll-tailwind) (1 month ago) 
-- [remove references for tailwindcss-rails](https://github.com/flavorjones/tailwindcss-ruby/pull/1) on [flavorjones/tailwindcss-ruby](https://github.com/flavorjones/tailwindcss-ruby) (2 months ago)
+- [Use external executable wrapper for Tailwind CSS](https://github.com/skatkov/fork-jekyll-tailwind/pull/3) on [skatkov/fork-jekyll-tailwind](https://github.com/skatkov/fork-jekyll-tailwind) (2 months ago)
 
 #### 📓 Gists I wrote
  
