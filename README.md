@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Update examples to use instance methods](https://github.com/cheddar-me/munster/pull/21) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (today) 
 - [Bump rails support up to 8.0](https://github.com/fractaledmind/litestream_rails/pull/4) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (1 day ago) 
 - [adding litesteam](https://github.com/fractaledmind/litestream_rails/pull/3) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (1 day ago) 
 - [Fixing links to socials](https://github.com/mikker/nitro_kit/pull/3) on [mikker/nitro_kit](https://github.com/mikker/nitro_kit) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 month ago) 
 - [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
 - [Use new jekyll-tailwind version](https://github.com/skatkov/jekyll-tailwind-cli-template/pull/2) on [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) (1 month ago) 
-- [Integrating tailwindcss-ruby](https://github.com/crbelaus/jekyll-tailwind/pull/10) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
-- [Use external executable wrapper for Tailwind CSS](https://github.com/skatkov/fork-jekyll-tailwind/pull/3) on [skatkov/fork-jekyll-tailwind](https://github.com/skatkov/fork-jekyll-tailwind) (2 months ago)
+- [Integrating tailwindcss-ruby](https://github.com/crbelaus/jekyll-tailwind/pull/10) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago)
 
 #### 📓 Gists I wrote
  
