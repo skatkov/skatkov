@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Too much to do example](https://github.com/fumeapp/taskin/pull/11) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (1 day ago) 
+- [Too much to do example](https://github.com/fumeapp/taskin/pull/11) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (2 days ago) 
 - [Update examples to use instance methods](https://github.com/cheddar-me/munster/pull/21) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 week ago) 
 - [Bump rails support up to 8.0](https://github.com/fractaledmind/litestream_rails/pull/4) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (1 week ago) 
 - [adding litesteam](https://github.com/fractaledmind/litestream_rails/pull/3) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (1 week ago) 
