@@ -6,7 +6,7 @@
 - [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (4 weeks ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago) 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 months ago) 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. (2 months ago)
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (2 months ago)
 
 #### 🌱 My latest projects
  
