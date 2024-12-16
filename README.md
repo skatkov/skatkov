@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [WIP: Yard Tags integration in templates](https://github.com/skatkov/yard-markdown/pull/20) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Too much to do example](https://github.com/fumeapp/taskin/pull/11) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (1 week ago) 
 - [Update examples to use instance methods](https://github.com/cheddar-me/munster/pull/21) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 weeks ago) 
 - [Bump rails support up to 8.0](https://github.com/fractaledmind/litestream_rails/pull/4) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (3 weeks ago) 
@@ -27,8 +28,7 @@
 - [Patch 1](https://github.com/skatkov/miniflux-email-client/pull/7) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 month ago) 
 - [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 months ago) 
 - [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (2 months ago) 
-- [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 months ago) 
-- [Use new jekyll-tailwind version](https://github.com/skatkov/jekyll-tailwind-cli-template/pull/2) on [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) (2 months ago)
+- [implement deprecation for configuration options](https://github.com/crbelaus/jekyll-tailwind/pull/12) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 months ago)
 
 #### 📓 Gists I wrote
  
