@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Add href attribute with a link to pg dump for each list element on /pages/dump](https://github.com/rubygems/rubygems.org/pull/5358) on [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (today) 
 - [Better list of Constants](https://github.com/skatkov/yard-markdown/pull/21) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Adding Yard Tags into a template](https://github.com/skatkov/yard-markdown/pull/20) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Too much to do example](https://github.com/fumeapp/taskin/pull/11) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (2 weeks ago) 
@@ -27,8 +28,7 @@
 - [adding litesteam](https://github.com/fractaledmind/litestream_rails/pull/3) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (4 weeks ago) 
 - [Fixing links to socials](https://github.com/mikker/nitro_kit/pull/3) on [mikker/nitro_kit](https://github.com/mikker/nitro_kit) (1 month ago) 
 - [Patch 1](https://github.com/skatkov/miniflux-email-client/pull/7) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (2 months ago) 
-- [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 months ago) 
-- [Make --all configurable globally](https://github.com/charmbracelet/glow/pull/651) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (2 months ago)
+- [Update CHANGELOG.md](https://github.com/crbelaus/jekyll-tailwind/pull/13) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 months ago)
 
 #### 📓 Gists I wrote
  
