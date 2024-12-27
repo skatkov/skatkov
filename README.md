@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/24) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Generate all examples with a single rake command](https://github.com/skatkov/yard-markdown/pull/23) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Remove defined-in and constants](https://github.com/skatkov/yard-markdown/pull/22) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [WIP: Writting test for links with code issue](https://github.com/ruby/rdoc/pull/1252) on [ruby/rdoc](https://github.com/ruby/rdoc) (4 days ago) 
@@ -27,8 +28,7 @@
 - [Adding Yard Tags into a template](https://github.com/skatkov/yard-markdown/pull/20) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Too much to do example](https://github.com/fumeapp/taskin/pull/11) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (3 weeks ago) 
 - [Update examples to use instance methods](https://github.com/cheddar-me/munster/pull/21) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 month ago) 
-- [Bump rails support up to 8.0](https://github.com/fractaledmind/litestream_rails/pull/4) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (1 month ago) 
-- [adding litesteam](https://github.com/fractaledmind/litestream_rails/pull/3) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (1 month ago)
+- [Bump rails support up to 8.0](https://github.com/fractaledmind/litestream_rails/pull/4) on [fractaledmind/litestream_rails](https://github.com/fractaledmind/litestream_rails) (1 month ago)
 
 #### 📓 Gists I wrote
  
