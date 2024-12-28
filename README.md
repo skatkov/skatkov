@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Remove sqlite](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/41) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/25) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
 - [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/24) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
@@ -27,8 +28,7 @@
 - [WIP: Writting test for links with code issue](https://github.com/ruby/rdoc/pull/1252) on [ruby/rdoc](https://github.com/ruby/rdoc) (5 days ago) 
 - [Add href attribute with a link to pg dump for each list element on /pages/dump](https://github.com/rubygems/rubygems.org/pull/5358) on [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (5 days ago) 
 - [Better list of Constants](https://github.com/skatkov/yard-markdown/pull/21) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [Adding Yard Tags into a template](https://github.com/skatkov/yard-markdown/pull/20) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [Too much to do example](https://github.com/fumeapp/taskin/pull/11) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (3 weeks ago)
+- [Adding Yard Tags into a template](https://github.com/skatkov/yard-markdown/pull/20) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
