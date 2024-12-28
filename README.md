@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (today) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
-- [cheddar-me/munster](https://github.com/cheddar-me/munster) - Webhook processing engine for Rails apps (1 month ago) 
-- [julik/idempo](https://github.com/julik/idempo) - Effortless idempotency keys for Rack/Rails (1 month ago) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 months ago)
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 months ago) 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 months ago) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (3 months ago) 
+- [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) -  (3 months ago)
 
 #### 🌱 My latest projects
  
