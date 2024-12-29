@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 days ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 months ago) 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 months ago) 
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (3 months ago) 
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Remove sqlite and use csv instead](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/41) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/25) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
-- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/24) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
-- [Generate all examples with a single rake command](https://github.com/skatkov/yard-markdown/pull/23) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
-- [Remove defined-in and constants](https://github.com/skatkov/yard-markdown/pull/22) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
-- [WIP: Writting test for links with code issue](https://github.com/ruby/rdoc/pull/1252) on [ruby/rdoc](https://github.com/ruby/rdoc) (5 days ago) 
-- [Add href attribute with a link to pg dump for each list element on /pages/dump](https://github.com/rubygems/rubygems.org/pull/5358) on [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (5 days ago) 
-- [Better list of Constants](https://github.com/skatkov/yard-markdown/pull/21) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [Adding Yard Tags into a template](https://github.com/skatkov/yard-markdown/pull/20) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago)
+- [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
+- [remove ruby source code, improve readme](https://github.com/skatkov/yard-markdown/pull/26) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
+- [Remove sqlite and use csv instead](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/41) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/25) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
+- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/24) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
+- [Generate all examples with a single rake command](https://github.com/skatkov/yard-markdown/pull/23) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
+- [Remove defined-in and constants](https://github.com/skatkov/yard-markdown/pull/22) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
+- [WIP: Writting test for links with code issue](https://github.com/ruby/rdoc/pull/1252) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
+- [Add href attribute with a link to pg dump for each list element on /pages/dump](https://github.com/rubygems/rubygems.org/pull/5358) on [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (6 days ago)
 
 #### 📓 Gists I wrote
  
