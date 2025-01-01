@@ -28,7 +28,7 @@
 - [Generate all examples with a single rake command](https://github.com/skatkov/yard-markdown/pull/23) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
 - [Remove defined-in and constants](https://github.com/skatkov/yard-markdown/pull/22) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
 - [WIP: Writting test for links with code issue](https://github.com/ruby/rdoc/pull/1252) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Add href attribute with a link to pg dump for each list element on /pages/dump](https://github.com/rubygems/rubygems.org/pull/5358) on [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (1 week ago)
+- [Fix links for archives on a /pages/dump page](https://github.com/rubygems/rubygems.org/pull/5358) on [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (1 week ago)
 
 #### 📓 Gists I wrote
  
