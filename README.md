@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [pass multiple input files to single --input parameter](https://github.com/crbelaus/jekyll-tailwind/pull/16) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (today) 
 - [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
 - [remove ruby source code, improve readme](https://github.com/skatkov/yard-markdown/pull/26) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
 - [Remove sqlite and use csv instead](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
@@ -27,8 +28,7 @@
 - [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/24) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Generate all examples with a single rake command](https://github.com/skatkov/yard-markdown/pull/23) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Remove defined-in and constants](https://github.com/skatkov/yard-markdown/pull/22) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [WIP: Writting test for links with code issue](https://github.com/ruby/rdoc/pull/1252) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Fix links for archives on a /pages/dump page](https://github.com/rubygems/rubygems.org/pull/5358) on [rubygems/rubygems.org](https://github.com/rubygems/rubygems.org) (1 week ago)
+- [WIP: Writting test for links with code issue](https://github.com/ruby/rdoc/pull/1252) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago)
 
 #### 📓 Gists I wrote
  
