@@ -32,11 +32,11 @@
 
 #### 📓 Gists I wrote
  
+- [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (today) 
 - [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (3 months ago) 
 - [Create a (draft) pull request using GitHub CLI](https://gist.github.com/06c4f37ab4de050940f7e7d2f1504006) (3 months ago) 
 - [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (6 months ago) 
-- [run tests forever (until they fail)](https://gist.github.com/12617ad1fe45a1fc76bcac05e922868c) (1 year ago) 
-- [Spell Checking with codespell and misspell](https://gist.github.com/abf49d80e98ac42b3cac397c9efc383f) (2 years ago)
+- [run tests forever (until they fail)](https://gist.github.com/12617ad1fe45a1fc76bcac05e922868c) (1 year ago)
 
 #### 💬 Feedback
 I'm always happy to hear feedback about any of my projects. Feel free to reach out...
