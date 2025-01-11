@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (today) 
 - [Adding Posh TUI](https://github.com/agarrharr/awesome-cli-apps/pull/652) on [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) (1 week ago) 
 - [pass multiple input files to single --input flag](https://github.com/crbelaus/jekyll-tailwind/pull/16) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 week ago) 
 - [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago) 
@@ -27,8 +28,7 @@
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/41) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/25) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago) 
 - [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/24) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago) 
-- [Generate all examples with a single rake command](https://github.com/skatkov/yard-markdown/pull/23) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago) 
-- [Remove defined-in and constants](https://github.com/skatkov/yard-markdown/pull/22) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago)
+- [Generate all examples with a single rake command](https://github.com/skatkov/yard-markdown/pull/23) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
