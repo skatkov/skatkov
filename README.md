@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
  
+- [skatkov/heckler](https://github.com/skatkov/heckler) -  
 - [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) -  
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. 
 - [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. 
-- [skatkov/protoc-gen-twirp-ruby](https://github.com/skatkov/protoc-gen-twirp-ruby) - Compiling a twirp plugin from protoc 
-- [skatkov/twirp-tools](https://github.com/skatkov/twirp-tools) - Twirp plugin for GRPC&#39;s protoc utility distributed as a gem
+- [skatkov/protoc-gen-twirp-ruby](https://github.com/skatkov/protoc-gen-twirp-ruby) - Compiling a twirp plugin from protoc
 
 
 #### 🔨 My recent Pull Requests
