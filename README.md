@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (4 weeks ago) 
+- [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (1 month ago) 
 - [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (4 months ago) 
 - [Create a (draft) pull request using GitHub CLI](https://gist.github.com/06c4f37ab4de050940f7e7d2f1504006) (4 months ago) 
 - [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (7 months ago) 
