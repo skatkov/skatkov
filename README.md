@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
  
+- [skatkov/bubbleteaTwoScreens](https://github.com/skatkov/bubbleteaTwoScreens) - Experimenting with multiple screen TUI application and how to better work with those. 
 - [skatkov/heckler](https://github.com/skatkov/heckler) -  
 - [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) -  
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers. 
-- [skatkov/protoc-gen-twirp-ruby](https://github.com/skatkov/protoc-gen-twirp-ruby) - Compiling a twirp plugin from protoc
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers.
 
 
 #### 🔨 My recent Pull Requests
