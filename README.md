@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 week ago) 
-- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (2 weeks ago) 
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (3 weeks ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 month ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 months ago) 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 months ago)
