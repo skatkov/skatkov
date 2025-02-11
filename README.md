@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (today) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 week ago) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (1 day ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 weeks ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (3 weeks ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 month ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 months ago)
@@ -33,8 +33,8 @@
 #### 📓 Gists I wrote
  
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (1 month ago) 
-- [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (4 months ago) 
-- [Create a (draft) pull request using GitHub CLI](https://gist.github.com/06c4f37ab4de050940f7e7d2f1504006) (4 months ago) 
+- [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (5 months ago) 
+- [Create a (draft) pull request using GitHub CLI](https://gist.github.com/06c4f37ab4de050940f7e7d2f1504006) (5 months ago) 
 - [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (7 months ago) 
 - [run tests forever (until they fail)](https://gist.github.com/12617ad1fe45a1fc76bcac05e922868c) (1 year ago)
 
