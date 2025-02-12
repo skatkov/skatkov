@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (1 day ago) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (2 days ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 weeks ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (3 weeks ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 month ago) 
