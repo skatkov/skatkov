@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (3 days ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 weeks ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (today) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (4 days ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (3 weeks ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 month ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 month ago)
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Add redcarpet gem to enable GFM syntax](https://github.com/stepper-motor/stepper_motor/pull/11) on [stepper-motor/stepper_motor](https://github.com/stepper-motor/stepper_motor) (2 weeks ago) 
+- [Add redcarpet gem to enable GFM syntax](https://github.com/stepper-motor/stepper_motor/pull/11) on [stepper-motor/stepper_motor](https://github.com/stepper-motor/stepper_motor) (3 weeks ago) 
 - [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
 - [Adding Posh TUI](https://github.com/agarrharr/awesome-cli-apps/pull/652) on [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) (1 month ago) 
 - [pass multiple input files to single --input flag](https://github.com/crbelaus/jekyll-tailwind/pull/16) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
