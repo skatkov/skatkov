@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [skip-go-installation option has been removed from golangci action](https://github.com/charmbracelet/bubbletea-app-template/pull/69) on [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) (today) 
 - [Add redcarpet gem to enable GFM syntax](https://github.com/stepper-motor/stepper_motor/pull/11) on [stepper-motor/stepper_motor](https://github.com/stepper-motor/stepper_motor) (3 weeks ago) 
 - [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (1 month ago) 
 - [Adding Posh TUI](https://github.com/agarrharr/awesome-cli-apps/pull/652) on [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) (1 month ago) 
@@ -27,8 +28,7 @@
 - [remove ruby source code, improve readme](https://github.com/skatkov/yard-markdown/pull/26) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago) 
 - [Remove sqlite and use csv instead](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/41) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
-- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/25) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago) 
-- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/24) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago)
+- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/25) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago)
 
 #### 📓 Gists I wrote
  
