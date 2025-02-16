@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 day ago) 
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (5 days ago) 
-- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (3 weeks ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 days ago) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (6 days ago) 
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (4 weeks ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 month ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 month ago)
 
