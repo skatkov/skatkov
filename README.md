@@ -27,8 +27,8 @@
 - [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago) 
 - [remove ruby source code, improve readme](https://github.com/skatkov/yard-markdown/pull/26) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago) 
 - [Remove sqlite and use csv instead](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
-- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/41) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
-- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/25) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago)
+- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/41) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 months ago) 
+- [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/25) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 months ago)
 
 #### 📓 Gists I wrote
  
