@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 weeks ago) 
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubbletea apps. (4 weeks ago) 
+- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubbletea apps. (1 month ago) 
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (1 month ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 month ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (2 months ago)
@@ -35,7 +35,7 @@
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (2 months ago) 
 - [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (6 months ago) 
 - [Create a (draft) pull request using GitHub CLI](https://gist.github.com/06c4f37ab4de050940f7e7d2f1504006) (6 months ago) 
-- [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (8 months ago) 
+- [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (9 months ago) 
 - [run tests forever (until they fail)](https://gist.github.com/12617ad1fe45a1fc76bcac05e922868c) (1 year ago)
 
 #### 💬 Feedback
