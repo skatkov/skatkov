@@ -6,7 +6,7 @@
 - [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubbletea apps. (1 month ago) 
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (1 month ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (2 months ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (2 months ago)
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (3 months ago)
 
 #### 🌱 My latest projects
  
@@ -24,9 +24,9 @@
 - [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 months ago) 
 - [Adding Posh TUI](https://github.com/agarrharr/awesome-cli-apps/pull/652) on [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) (2 months ago) 
 - [pass multiple input files to single --input flag](https://github.com/crbelaus/jekyll-tailwind/pull/16) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 months ago) 
-- [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 months ago) 
-- [remove ruby source code, improve readme](https://github.com/skatkov/yard-markdown/pull/26) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 months ago) 
-- [Remove sqlite and use csv instead](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 months ago) 
+- [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago) 
+- [remove ruby source code, improve readme](https://github.com/skatkov/yard-markdown/pull/26) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago) 
+- [Remove sqlite and use csv instead](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 months ago) 
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/41) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 months ago) 
 - [Add ruby generation as example](https://github.com/skatkov/yard-markdown/pull/25) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago)
 
