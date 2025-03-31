@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Simplify golang version definition in github actions.](https://github.com/skatkov/stoic/pull/40) on [skatkov/stoic](https://github.com/skatkov/stoic) (today) 
+- [Simplify golang version definition in github actions.](https://github.com/skatkov/stoic/pull/40) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 day ago) 
 - [ci: skip-go-installation option has been removed from golangci action](https://github.com/charmbracelet/bubbletea-app-template/pull/69) on [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) (1 month ago) 
 - [Add redcarpet gem to enable GFM syntax](https://github.com/stepper-motor/stepper_motor/pull/11) on [stepper-motor/stepper_motor](https://github.com/stepper-motor/stepper_motor) (2 months ago) 
 - [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 months ago) 
