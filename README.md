@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Update all dependencies](https://github.com/skatkov/stoic/pull/41) on [skatkov/stoic](https://github.com/skatkov/stoic) (today) 
 - [Simplify golang version definition in github actions.](https://github.com/skatkov/stoic/pull/40) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 day ago) 
 - [ci: skip-go-installation option has been removed from golangci action](https://github.com/charmbracelet/bubbletea-app-template/pull/69) on [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) (1 month ago) 
 - [Add redcarpet gem to enable GFM syntax](https://github.com/stepper-motor/stepper_motor/pull/11) on [stepper-motor/stepper_motor](https://github.com/stepper-motor/stepper_motor) (2 months ago) 
@@ -27,8 +28,7 @@
 - [pass multiple input files to single --input flag](https://github.com/crbelaus/jekyll-tailwind/pull/16) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (2 months ago) 
 - [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago) 
 - [remove ruby source code, improve readme](https://github.com/skatkov/yard-markdown/pull/26) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 months ago) 
-- [Remove sqlite and use csv instead](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 months ago) 
-- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/41) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 months ago)
+- [Remove sqlite and use csv instead](https://github.com/skatkov/rdoc-markdown/pull/42) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 months ago)
 
 #### 📓 Gists I wrote
  
