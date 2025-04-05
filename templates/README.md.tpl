@@ -20,11 +20,3 @@
 {{range gists 5}} 
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}}) 
 {{- end}}
-
-#### 💬 Feedback
-I'm always happy to hear feedback about any of my projects. Feel free to reach out...
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/5katkov 
-- Website: https://skatkov.com
