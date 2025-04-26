@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (3 weeks ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 month ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 months ago) 
 - [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (2 months ago) 
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (2 months ago) 
 - [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (3 months ago)
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (5 days ago) 
+- [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (6 days ago) 
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (3 months ago) 
 - [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (7 months ago) 
 - [Create a (draft) pull request using GitHub CLI](https://gist.github.com/06c4f37ab4de050940f7e7d2f1504006) (7 months ago) 
