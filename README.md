@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/docs](https://github.com/skatkov/docs) -  (1 day ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 months ago) 
 - [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (2 months ago) 
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (3 months ago) 
-- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (3 months ago)
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (3 months ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/docs](https://github.com/skatkov/docs) -  
 - [skatkov/bubbleteaTwoScreens](https://github.com/skatkov/bubbleteaTwoScreens) - Experimenting with multiple screen TUI application and how to better work with those. 
 - [skatkov/heckler](https://github.com/skatkov/heckler) -  
 - [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) -  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers.
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll.
 
 
 #### 🔨 My recent Pull Requests
