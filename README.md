@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/docs](https://github.com/skatkov/docs) -  (1 day ago) 
+- [skatkov/docs](https://github.com/skatkov/docs) -  (2 days ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 months ago) 
 - [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (2 months ago) 
