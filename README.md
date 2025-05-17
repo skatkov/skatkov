@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/docs](https://github.com/skatkov/docs) -  (4 days ago) 
+- [skatkov/docs](https://github.com/skatkov/docs) -  (5 days ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 months ago) 
 - [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (2 months ago) 
@@ -21,7 +21,7 @@
  
 - [Update all dependencies](https://github.com/skatkov/stoic/pull/41) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 month ago) 
 - [Simplify golang version definition in github actions.](https://github.com/skatkov/stoic/pull/40) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 month ago) 
-- [ci: skip-go-installation option has been removed from golangci action](https://github.com/charmbracelet/bubbletea-app-template/pull/69) on [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) (2 months ago) 
+- [ci: skip-go-installation option has been removed from golangci action](https://github.com/charmbracelet/bubbletea-app-template/pull/69) on [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) (3 months ago) 
 - [Add redcarpet gem to enable GFM syntax](https://github.com/stepper-motor/stepper_motor/pull/11) on [stepper-motor/stepper_motor](https://github.com/stepper-motor/stepper_motor) (3 months ago) 
 - [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (4 months ago) 
 - [Adding Posh TUI](https://github.com/agarrharr/awesome-cli-apps/pull/652) on [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) (4 months ago) 
