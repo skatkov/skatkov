@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/docs](https://github.com/skatkov/docs) -  (5 days ago) 
+- [skatkov/docs](https://github.com/skatkov/docs) -  (6 days ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 months ago) 
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (2 months ago) 
+- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (3 months ago) 
 - [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (3 months ago)
 
 #### 🌱 My latest projects
@@ -32,8 +32,8 @@
 
 #### 📓 Gists I wrote
  
-- [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (3 weeks ago) 
+- [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (4 weeks ago) 
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (4 months ago) 
 - [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (8 months ago) 
 - [Create a (draft) pull request using GitHub CLI](https://gist.github.com/06c4f37ab4de050940f7e7d2f1504006) (8 months ago) 
-- [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (10 months ago)
+- [Detect when class was loaded](https://gist.github.com/642fe6f2abd7b756e2ca146dad4efe33) (11 months ago)
