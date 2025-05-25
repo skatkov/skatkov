@@ -32,8 +32,8 @@
 
 #### 📓 Gists I wrote
  
+- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (today) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (5 days ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (1 month ago) 
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (4 months ago) 
-- [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (8 months ago) 
-- [Create a (draft) pull request using GitHub CLI](https://gist.github.com/06c4f37ab4de050940f7e7d2f1504006) (8 months ago)
+- [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (8 months ago)
