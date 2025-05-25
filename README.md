@@ -3,22 +3,23 @@
 #### 👷 Check out what I'm currently working on
  
 - [socketry/io-event](https://github.com/socketry/io-event) -  (3 days ago) 
-- [skatkov/docs](https://github.com/skatkov/docs) -  (1 week ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 months ago) 
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (3 months ago)
+- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (3 months ago) 
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (3 months ago)
 
 #### 🌱 My latest projects
  
-- [skatkov/docs](https://github.com/skatkov/docs) -  
 - [skatkov/bubbleteaTwoScreens](https://github.com/skatkov/bubbleteaTwoScreens) - Experimenting with multiple screen TUI application and how to better work with those. 
 - [skatkov/heckler](https://github.com/skatkov/heckler) -  
 - [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) -  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll.
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. 
+- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers.
 
 
 #### 🔨 My recent Pull Requests
  
+- [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (today) 
 - [Use append_cflags instead of modifying CFLAGS directly](https://github.com/socketry/io-event/pull/137) on [socketry/io-event](https://github.com/socketry/io-event) (5 days ago) 
 - [Update all dependencies](https://github.com/skatkov/stoic/pull/41) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 month ago) 
 - [Simplify golang version definition in github actions.](https://github.com/skatkov/stoic/pull/40) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 month ago) 
@@ -27,8 +28,7 @@
 - [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (4 months ago) 
 - [Adding Posh TUI](https://github.com/agarrharr/awesome-cli-apps/pull/652) on [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) (4 months ago) 
 - [pass multiple input files to single --input flag](https://github.com/crbelaus/jekyll-tailwind/pull/16) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (4 months ago) 
-- [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 months ago) 
-- [remove ruby source code, improve readme](https://github.com/skatkov/yard-markdown/pull/26) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 months ago)
+- [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 months ago)
 
 #### 📓 Gists I wrote
  
