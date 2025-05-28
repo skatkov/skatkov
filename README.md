@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [socketry/io-event](https://github.com/socketry/io-event) -  (5 days ago) 
+- [socketry/io-event](https://github.com/socketry/io-event) -  (6 days ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 months ago) 
 - [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (3 months ago) 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (2 days ago) 
+- [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (3 days ago) 
 - [Use append_cflags instead of modifying CFLAGS directly](https://github.com/socketry/io-event/pull/137) on [socketry/io-event](https://github.com/socketry/io-event) (1 week ago) 
 - [Update all dependencies](https://github.com/skatkov/stoic/pull/41) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 month ago) 
 - [Simplify golang version definition in github actions.](https://github.com/skatkov/stoic/pull/40) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 month ago) 
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (2 days ago) 
+- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (3 days ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (1 week ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (1 month ago) 
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (4 months ago) 
