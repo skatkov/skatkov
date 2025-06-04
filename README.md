@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (today) 
 - [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (1 week ago) 
 - [Use append_cflags instead of modifying CFLAGS directly](https://github.com/socketry/io-event/pull/137) on [socketry/io-event](https://github.com/socketry/io-event) (2 weeks ago) 
 - [Update all dependencies](https://github.com/skatkov/stoic/pull/41) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 months ago) 
@@ -27,8 +28,7 @@
 - [Add redcarpet gem to enable GFM syntax](https://github.com/stepper-motor/stepper_motor/pull/11) on [stepper-motor/stepper_motor](https://github.com/stepper-motor/stepper_motor) (4 months ago) 
 - [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (4 months ago) 
 - [Adding Posh TUI](https://github.com/agarrharr/awesome-cli-apps/pull/652) on [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) (5 months ago) 
-- [pass multiple input files to single --input flag](https://github.com/crbelaus/jekyll-tailwind/pull/16) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (5 months ago) 
-- [Remove ruby source code](https://github.com/skatkov/yard-markdown/pull/27) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 months ago)
+- [pass multiple input files to single --input flag](https://github.com/crbelaus/jekyll-tailwind/pull/16) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (5 months ago)
 
 #### 📓 Gists I wrote
  
