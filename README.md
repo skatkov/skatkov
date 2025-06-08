@@ -19,8 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (3 days ago) 
-- [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (1 week ago) 
+- [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (4 days ago) 
+- [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (2 weeks ago) 
 - [Use append_cflags instead of modifying CFLAGS directly](https://github.com/socketry/io-event/pull/137) on [socketry/io-event](https://github.com/socketry/io-event) (2 weeks ago) 
 - [Update all dependencies](https://github.com/skatkov/stoic/pull/41) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 months ago) 
 - [Simplify golang version definition in github actions.](https://github.com/skatkov/stoic/pull/40) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 months ago) 
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (1 week ago) 
+- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (2 weeks ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (2 weeks ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (1 month ago) 
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (5 months ago) 
