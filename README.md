@@ -2,33 +2,33 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
 - [socketry/io-event](https://github.com/socketry/io-event) -  (3 weeks ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 months ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 months ago) 
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (3 months ago) 
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. (4 months ago)
+- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (3 months ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers 
 - [skatkov/bubbleteaTwoScreens](https://github.com/skatkov/bubbleteaTwoScreens) - Experimenting with multiple screen TUI application and how to better work with those. 
 - [skatkov/heckler](https://github.com/skatkov/heckler) -  
 - [skatkov/jekyll-tailwind-cli](https://github.com/skatkov/jekyll-tailwind-cli) -  
-- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll. 
-- [skatkov/jekyll-tailwind-cli-template](https://github.com/skatkov/jekyll-tailwind-cli-template) - Integrating tailwind css and heroicons into Jekyll, without any javascript bundlers.
+- [skatkov/jekyll-heroicons](https://github.com/skatkov/jekyll-heroicons) - Heroicons as a liquid tag for Jekyll.
 
 
 #### 🔨 My recent Pull Requests
  
+- [Iban generator](https://github.com/skatkov/devtui/pull/107) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (1 week ago) 
 - [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (3 weeks ago) 
+- [feat: add URL Extractor TUI tool](https://github.com/skatkov/devtui/pull/102) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
+- [feat: first prototype to generate screenshots](https://github.com/skatkov/devtui/pull/101) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
+- [feat: fully automate building docs for CLI commands](https://github.com/skatkov/devtui/pull/100) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [Use append_cflags instead of modifying CFLAGS directly](https://github.com/socketry/io-event/pull/137) on [socketry/io-event](https://github.com/socketry/io-event) (3 weeks ago) 
-- [Update all dependencies](https://github.com/skatkov/stoic/pull/41) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 months ago) 
-- [Simplify golang version definition in github actions.](https://github.com/skatkov/stoic/pull/40) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 months ago) 
-- [ci: skip-go-installation option has been removed from golangci action](https://github.com/charmbracelet/bubbletea-app-template/pull/69) on [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) (4 months ago) 
-- [Add redcarpet gem to enable GFM syntax](https://github.com/stepper-motor/stepper_motor/pull/11) on [stepper-motor/stepper_motor](https://github.com/stepper-motor/stepper_motor) (4 months ago) 
-- [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (5 months ago) 
-- [Adding Posh TUI](https://github.com/agarrharr/awesome-cli-apps/pull/652) on [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) (5 months ago) 
-- [pass multiple input files to single --input flag](https://github.com/crbelaus/jekyll-tailwind/pull/16) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (5 months ago)
+- [feat: license to depend on mac address&#39;](https://github.com/skatkov/devtui/pull/89) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
+- [Polar sh integration](https://github.com/skatkov/devtui/pull/84) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
+- [Cssfmt tui](https://github.com/skatkov/devtui/pull/78) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 months ago)
 
 #### 📓 Gists I wrote
  
