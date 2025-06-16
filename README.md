@@ -24,7 +24,7 @@
 - [Use append_cflags instead of modifying CFLAGS directly](https://github.com/socketry/io-event/pull/137) on [socketry/io-event](https://github.com/socketry/io-event) (3 weeks ago) 
 - [Update all dependencies](https://github.com/skatkov/stoic/pull/41) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 months ago) 
 - [Simplify golang version definition in github actions.](https://github.com/skatkov/stoic/pull/40) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 months ago) 
-- [ci: skip-go-installation option has been removed from golangci action](https://github.com/charmbracelet/bubbletea-app-template/pull/69) on [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) (3 months ago) 
+- [ci: skip-go-installation option has been removed from golangci action](https://github.com/charmbracelet/bubbletea-app-template/pull/69) on [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) (4 months ago) 
 - [Add redcarpet gem to enable GFM syntax](https://github.com/stepper-motor/stepper_motor/pull/11) on [stepper-motor/stepper_motor](https://github.com/stepper-motor/stepper_motor) (4 months ago) 
 - [Deprecate multiple input files support](https://github.com/crbelaus/jekyll-tailwind/pull/17) on [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) (5 months ago) 
 - [Adding Posh TUI](https://github.com/agarrharr/awesome-cli-apps/pull/652) on [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) (5 months ago) 
