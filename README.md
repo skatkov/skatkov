@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 day ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 day ago) 
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 days ago) 
 - [socketry/io-event](https://github.com/socketry/io-event) -  (3 weeks ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 months ago) 
 - [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (4 months ago)
@@ -20,7 +20,7 @@
 #### 🔨 My recent Pull Requests
  
 - [Iban generator](https://github.com/skatkov/devtui/pull/107) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (1 week ago) 
+- [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (2 weeks ago) 
 - [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (3 weeks ago) 
 - [feat: add URL Extractor TUI tool](https://github.com/skatkov/devtui/pull/102) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [feat: first prototype to generate screenshots](https://github.com/skatkov/devtui/pull/101) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
