@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (today) 
 - [Update bson gem to avoid GCC15 compilation errors](https://github.com/antiwork/gumroad/pull/376) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (today) 
 - [Iban generator](https://github.com/skatkov/devtui/pull/107) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (2 weeks ago) 
@@ -27,8 +28,7 @@
 - [feat: first prototype to generate screenshots](https://github.com/skatkov/devtui/pull/101) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [feat: fully automate building docs for CLI commands](https://github.com/skatkov/devtui/pull/100) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [Use append_cflags instead of modifying CFLAGS directly](https://github.com/socketry/io-event/pull/137) on [socketry/io-event](https://github.com/socketry/io-event) (1 month ago) 
-- [feat: license to depend on mac address&#39;](https://github.com/skatkov/devtui/pull/89) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [Polar sh integration](https://github.com/skatkov/devtui/pull/84) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
+- [feat: license to depend on mac address&#39;](https://github.com/skatkov/devtui/pull/89) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
 
 #### 📓 Gists I wrote
  
