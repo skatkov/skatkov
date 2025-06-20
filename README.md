@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 days ago) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (3 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 days ago) 
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (4 days ago) 
 - [socketry/io-event](https://github.com/socketry/io-event) -  (4 weeks ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 months ago) 
 - [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (4 months ago)
@@ -19,8 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (today) 
-- [Update bson gem to avoid GCC15 compilation errors](https://github.com/antiwork/gumroad/pull/376) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (today) 
+- [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 day ago) 
+- [Update bson gem to avoid GCC15 compilation errors](https://github.com/antiwork/gumroad/pull/376) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 day ago) 
 - [Iban generator](https://github.com/skatkov/devtui/pull/107) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (2 weeks ago) 
 - [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (3 weeks ago) 
