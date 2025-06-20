@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (today) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 days ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (4 days ago) 
 - [socketry/io-event](https://github.com/socketry/io-event) -  (4 weeks ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 months ago) 
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubble Tea apps. (4 months ago)
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 months ago)
 
 #### 🌱 My latest projects
  
