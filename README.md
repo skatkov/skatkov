@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (today) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 days ago) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (4 days ago) 
-- [socketry/io-event](https://github.com/socketry/io-event) -  (4 weeks ago) 
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (1 day ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 days ago) 
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (5 days ago) 
+- [socketry/io-event](https://github.com/socketry/io-event) -  (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 months ago)
 
 #### 🌱 My latest projects
@@ -19,14 +19,14 @@
 
 #### 🔨 My recent Pull Requests
  
-- [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 day ago) 
-- [Update bson gem to avoid GCC15 compilation errors](https://github.com/antiwork/gumroad/pull/376) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 day ago) 
+- [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 days ago) 
+- [Update bson gem to avoid GCC15 compilation errors](https://github.com/antiwork/gumroad/pull/376) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 days ago) 
 - [Iban generator](https://github.com/skatkov/devtui/pull/107) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (2 weeks ago) 
 - [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (3 weeks ago) 
 - [feat: add URL Extractor TUI tool](https://github.com/skatkov/devtui/pull/102) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [feat: first prototype to generate screenshots](https://github.com/skatkov/devtui/pull/101) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
-- [feat: fully automate building docs for CLI commands](https://github.com/skatkov/devtui/pull/100) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
+- [feat: fully automate building docs for CLI commands](https://github.com/skatkov/devtui/pull/100) on [skatkov/devtui](https://github.com/skatkov/devtui) (4 weeks ago) 
 - [Use append_cflags instead of modifying CFLAGS directly](https://github.com/socketry/io-event/pull/137) on [socketry/io-event](https://github.com/socketry/io-event) (1 month ago) 
 - [feat: license to depend on mac address&#39;](https://github.com/skatkov/devtui/pull/89) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
 
