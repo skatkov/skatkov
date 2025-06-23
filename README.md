@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Add HELPER_WIDGET_SECRET to .env.development file](https://github.com/antiwork/gumroad/pull/412) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (today) 
 - [feat: include FANG library in CLI interface](https://github.com/skatkov/devtui/pull/110) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
 - [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (4 days ago) 
 - [Update bson gem to avoid GCC15 compilation errors](https://github.com/antiwork/gumroad/pull/376) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (4 days ago) 
@@ -27,8 +28,7 @@
 - [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (4 weeks ago) 
 - [feat: add URL Extractor TUI tool](https://github.com/skatkov/devtui/pull/102) on [skatkov/devtui](https://github.com/skatkov/devtui) (4 weeks ago) 
 - [feat: first prototype to generate screenshots](https://github.com/skatkov/devtui/pull/101) on [skatkov/devtui](https://github.com/skatkov/devtui) (4 weeks ago) 
-- [feat: fully automate building docs for CLI commands](https://github.com/skatkov/devtui/pull/100) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [Use append_cflags instead of modifying CFLAGS directly](https://github.com/socketry/io-event/pull/137) on [socketry/io-event](https://github.com/socketry/io-event) (1 month ago)
+- [feat: fully automate building docs for CLI commands](https://github.com/skatkov/devtui/pull/100) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
 
 #### 📓 Gists I wrote
  
