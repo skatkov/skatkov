@@ -20,3 +20,8 @@
 {{range gists 5}} 
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}}) 
 {{- end}}
+
+#### 📜 My blog posts
+{{range rss "https://skatkov.com/feed.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
