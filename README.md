@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Refactor docker-compose files to use named volumes](https://github.com/antiwork/gumroad/pull/448) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (today) 
 - [Improvements to invoice generation page.](https://github.com/antiwork/gumroad/pull/423) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 day ago) 
 - [Add HELPER_WIDGET_SECRET to .env.development file](https://github.com/antiwork/gumroad/pull/412) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 days ago) 
 - [feat: include FANG library in CLI interface](https://github.com/skatkov/devtui/pull/110) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 days ago) 
@@ -27,8 +28,7 @@
 - [Iban generator](https://github.com/skatkov/devtui/pull/107) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [Introduce have_reported_error matcher](https://github.com/rspec/rspec-rails/pull/2849) on [rspec/rspec-rails](https://github.com/rspec/rspec-rails) (3 weeks ago) 
 - [Adding support for Linux e.g xdg-open utility](https://github.com/jeffreyiacono/git-open/pull/9) on [jeffreyiacono/git-open](https://github.com/jeffreyiacono/git-open) (1 month ago) 
-- [feat: add URL Extractor TUI tool](https://github.com/skatkov/devtui/pull/102) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [feat: first prototype to generate screenshots](https://github.com/skatkov/devtui/pull/101) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
+- [feat: add URL Extractor TUI tool](https://github.com/skatkov/devtui/pull/102) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
 
 #### 📓 Gists I wrote
  
