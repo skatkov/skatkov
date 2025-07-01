@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (today) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (1 week ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 weeks ago) 
 - [socketry/io-event](https://github.com/socketry/io-event) -  (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (4 months ago)
