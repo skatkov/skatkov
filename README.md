@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (1 week ago) 
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (1 week ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (3 weeks ago) 
 - [socketry/io-event](https://github.com/socketry/io-event) -  (1 month ago) 
