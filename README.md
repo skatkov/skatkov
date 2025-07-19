@@ -26,15 +26,15 @@
 - [Improvements to invoice generation page.](https://github.com/antiwork/gumroad/pull/423) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 weeks ago) 
 - [Add HELPER_WIDGET_SECRET to .env.development file](https://github.com/antiwork/gumroad/pull/412) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 weeks ago) 
 - [feat: include FANG library in CLI interface](https://github.com/skatkov/devtui/pull/110) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
-- [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (4 weeks ago) 
-- [Update bson gem to avoid GCC15 compilation errors](https://github.com/antiwork/gumroad/pull/376) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (4 weeks ago) 
+- [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
+- [Update bson gem to avoid GCC15 compilation errors](https://github.com/antiwork/gumroad/pull/376) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Iban generator](https://github.com/skatkov/devtui/pull/107) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
 
 #### 📓 Gists I wrote
  
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (1 month ago) 
-- [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (1 month ago) 
-- [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (2 months ago) 
+- [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (2 months ago) 
+- [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (3 months ago) 
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (6 months ago) 
 - [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (10 months ago)
 
