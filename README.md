@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (3 days ago) 
+- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (4 days ago) 
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (3 weeks ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
@@ -41,7 +41,7 @@
 #### 📜 My blog posts
 
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (2 months ago)
-- [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (7 months ago)
+- [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (8 months ago)
 - [Coworking in Eindhoven](https://www.skatkov.com/posts/2024-11-22-coworking-in-eindhoven) (8 months ago)
 - [Nothing Phone 2a](https://www.skatkov.com/posts/2024-10-15-nothing-phone-2a) (9 months ago)
 - [Marrying Tailwind with Jekyll](https://www.skatkov.com/posts/2024-09-30-marrying-tailwind-with-jekyll) (9 months ago)
