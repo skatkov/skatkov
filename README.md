@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (6 days ago) 
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (3 weeks ago) 
+- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (1 week ago) 
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (4 weeks ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
 - [socketry/io-event](https://github.com/socketry/io-event) -  (2 months ago)
@@ -21,7 +21,7 @@
  
 - [Upgrade Faraday to v2.13.1](https://github.com/antiwork/gumroad/pull/534) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 weeks ago) 
 - [Remove Kaminari](https://github.com/antiwork/gumroad/pull/533) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 weeks ago) 
-- [Draft: Adding Billing section for Settings page](https://github.com/antiwork/gumroad/pull/504) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (4 weeks ago) 
+- [Draft: Adding Billing section for Settings page](https://github.com/antiwork/gumroad/pull/504) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Refactor docker-compose files to use named volumes](https://github.com/antiwork/gumroad/pull/448) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Improvements to invoice generation page.](https://github.com/antiwork/gumroad/pull/423) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Add HELPER_WIDGET_SECRET to .env.development file](https://github.com/antiwork/gumroad/pull/412) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
