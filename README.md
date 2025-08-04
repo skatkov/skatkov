@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (5 days ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (1 week ago) 
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (1 month ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
@@ -40,7 +40,7 @@
 
 #### 📜 My blog posts
 
-- [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (4 days ago)
+- [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (5 days ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (2 months ago)
 - [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (8 months ago)
 - [Coworking in Eindhoven](https://www.skatkov.com/posts/2024-11-22-coworking-in-eindhoven) (8 months ago)
