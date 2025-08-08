@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (today) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
-- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (2 weeks ago) 
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (1 month ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
 - [socketry/io-event](https://github.com/socketry/io-event) -  (2 months ago)
