@@ -28,7 +28,7 @@
 - [feat: include FANG library in CLI interface](https://github.com/skatkov/devtui/pull/110) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Update bson gem to avoid GCC15 compilation errors](https://github.com/antiwork/gumroad/pull/376) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
-- [Iban generator](https://github.com/skatkov/devtui/pull/107) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
+- [Iban generator](https://github.com/skatkov/devtui/pull/107) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 months ago)
 
 #### 📓 Gists I wrote
  
