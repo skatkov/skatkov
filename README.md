@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (3 days ago) 
+- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (4 days ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (1 month ago) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 months ago) 
 - [socketry/io-event](https://github.com/socketry/io-event) -  (2 months ago)
 
 #### 🌱 My latest projects
@@ -19,8 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Return full response object, instead of response.body](https://github.com/skatkov/frontgo/pull/4) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (6 days ago) 
-- [Define in Client class all environment endpoints and by default use production.](https://github.com/skatkov/frontgo/pull/3) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (6 days ago) 
+- [Return full response object, instead of response.body](https://github.com/skatkov/frontgo/pull/4) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 week ago) 
+- [Define in Client class all environment endpoints and by default use production.](https://github.com/skatkov/frontgo/pull/3) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 week ago) 
 - [Upgrade Faraday to v2.13.1](https://github.com/antiwork/gumroad/pull/534) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Remove Kaminari](https://github.com/antiwork/gumroad/pull/533) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Draft: Adding Billing section for Settings page](https://github.com/antiwork/gumroad/pull/504) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
