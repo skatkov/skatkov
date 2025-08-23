@@ -25,14 +25,14 @@
 - [Remove Kaminari](https://github.com/antiwork/gumroad/pull/533) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Draft: Adding Billing section for Settings page](https://github.com/antiwork/gumroad/pull/504) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Refactor docker-compose files to use named volumes](https://github.com/antiwork/gumroad/pull/448) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
-- [Improvements to invoice generation page.](https://github.com/antiwork/gumroad/pull/423) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
+- [Improvements to invoice generation page.](https://github.com/antiwork/gumroad/pull/423) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
 - [Add HELPER_WIDGET_SECRET to .env.development file](https://github.com/antiwork/gumroad/pull/412) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
 - [feat: include FANG library in CLI interface](https://github.com/skatkov/devtui/pull/110) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 months ago) 
 - [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago)
 
 #### 📓 Gists I wrote
  
-- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (2 months ago) 
+- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (3 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (3 months ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (4 months ago) 
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (7 months ago) 
