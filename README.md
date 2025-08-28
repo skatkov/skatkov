@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (today) 
+- [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files (today) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (2 weeks ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 weeks ago) 
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (1 month ago) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 months ago) 
-- [socketry/io-event](https://github.com/socketry/io-event) -  (3 months ago)
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (1 month ago)
 
 #### 🌱 My latest projects
  
@@ -23,7 +23,7 @@
 - [Define in Client class all environment endpoints and by default use production.](https://github.com/skatkov/frontgo/pull/3) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (2 weeks ago) 
 - [Upgrade Faraday to v2.13.1](https://github.com/antiwork/gumroad/pull/534) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
 - [Remove Kaminari](https://github.com/antiwork/gumroad/pull/533) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
-- [Draft: Adding Billing section for Settings page](https://github.com/antiwork/gumroad/pull/504) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (1 month ago) 
+- [Draft: Adding Billing section for Settings page](https://github.com/antiwork/gumroad/pull/504) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
 - [Refactor docker-compose files to use named volumes](https://github.com/antiwork/gumroad/pull/448) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
 - [Improvements to invoice generation page.](https://github.com/antiwork/gumroad/pull/423) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
 - [Add HELPER_WIDGET_SECRET to .env.development file](https://github.com/antiwork/gumroad/pull/412) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
