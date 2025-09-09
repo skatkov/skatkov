@@ -36,7 +36,7 @@
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (3 months ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (4 months ago) 
 - [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (8 months ago) 
-- [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (11 months ago)
+- [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (1 year ago)
 
 #### 📜 My blog posts
 
@@ -44,4 +44,4 @@
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (4 months ago)
 - [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (9 months ago)
 - [Coworking in Eindhoven](https://www.skatkov.com/posts/2024-11-22-coworking-in-eindhoven) (9 months ago)
-- [Nothing Phone 2a](https://www.skatkov.com/posts/2024-10-15-nothing-phone-2a) (10 months ago)
+- [Nothing Phone 2a](https://www.skatkov.com/posts/2024-10-15-nothing-phone-2a) (11 months ago)
