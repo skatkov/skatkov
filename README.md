@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Retry errors or raise them](https://github.com/skatkov/frontgo/pull/6) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (today) 
 - [Return full response object, instead of response.body](https://github.com/skatkov/frontgo/pull/4) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
 - [Define in Client class all environment endpoints and by default use production.](https://github.com/skatkov/frontgo/pull/3) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
 - [Upgrade Faraday to v2.13.1](https://github.com/antiwork/gumroad/pull/534) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
@@ -27,8 +28,7 @@
 - [Refactor docker-compose files to use named volumes](https://github.com/antiwork/gumroad/pull/448) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
 - [Improvements to invoice generation page.](https://github.com/antiwork/gumroad/pull/423) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
 - [Add HELPER_WIDGET_SECRET to .env.development file](https://github.com/antiwork/gumroad/pull/412) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
-- [feat: include FANG library in CLI interface](https://github.com/skatkov/devtui/pull/110) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 months ago) 
-- [docker-compose: add “:Z” SELinux label to data bind-mounts](https://github.com/antiwork/gumroad/pull/378) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago)
+- [feat: include FANG library in CLI interface](https://github.com/skatkov/devtui/pull/110) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 months ago)
 
 #### 📓 Gists I wrote
  
