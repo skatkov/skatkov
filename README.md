@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (today) 
-- [Docs: Ensure that Model initialization example is good as well](https://github.com/rubocop/rubocop-thread_safety/pull/97) on [rubocop/rubocop-thread_safety](https://github.com/rubocop/rubocop-thread_safety) (1 day ago) 
-- [Raise an error if errorneous response is returned](https://github.com/skatkov/frontgo/pull/6) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (4 days ago) 
+- [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 day ago) 
+- [Docs: Ensure that Model initialization example is good as well](https://github.com/rubocop/rubocop-thread_safety/pull/97) on [rubocop/rubocop-thread_safety](https://github.com/rubocop/rubocop-thread_safety) (2 days ago) 
+- [Raise an error if errorneous response is returned](https://github.com/skatkov/frontgo/pull/6) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (5 days ago) 
 - [Return full response object, instead of response.body](https://github.com/skatkov/frontgo/pull/4) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
 - [Define in Client class all environment endpoints and by default use production.](https://github.com/skatkov/frontgo/pull/3) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
 - [Upgrade Faraday to v2.13.1](https://github.com/antiwork/gumroad/pull/534) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
