@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (5 days ago) 
-- [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files (3 weeks ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 weeks ago) 
+- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (6 days ago) 
+- [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files (4 weeks ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (4 weeks ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago) 
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (2 months ago)
 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (6 days ago) 
+- [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 week ago) 
 - [Docs: Ensure that Model initialization example is good as well](https://github.com/rubocop/rubocop-thread_safety/pull/97) on [rubocop/rubocop-thread_safety](https://github.com/rubocop/rubocop-thread_safety) (1 week ago) 
 - [Raise an error if errorneous response is returned](https://github.com/skatkov/frontgo/pull/6) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 week ago) 
 - [Return full response object, instead of response.body](https://github.com/skatkov/frontgo/pull/4) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
