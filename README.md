@@ -6,7 +6,7 @@
 - [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 month ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 months ago) 
-- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (2 months ago)
+- [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (3 months ago)
 
 #### 🌱 My latest projects
  
@@ -40,7 +40,7 @@
 
 #### 📜 My blog posts
 
-- [Using smart card reader on Linux to read my Estonian ID](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (2 days ago)
+- [Using smart card reader on Linux to read my Estonian ID](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (3 days ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (2 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (4 months ago)
 - [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (10 months ago)
