@@ -10,11 +10,11 @@
 
 #### 🌱 My latest projects
  
+- [skatkov/bunny-net-stream-audio-demo](https://github.com/skatkov/bunny-net-stream-audio-demo) -  
 - [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers 
-- [skatkov/bubbleteaTwoScreens](https://github.com/skatkov/bubbleteaTwoScreens) - Experimenting with multiple screen TUI application and how to better work with those. 
-- [skatkov/heckler](https://github.com/skatkov/heckler) - 
+- [skatkov/bubbleteaTwoScreens](https://github.com/skatkov/bubbleteaTwoScreens) - Experimenting with multiple screen TUI application and how to better work with those.
 
 
 #### 🔨 My recent Pull Requests
