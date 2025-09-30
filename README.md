@@ -24,8 +24,8 @@
 - [Raise an error if errorneous response is returned](https://github.com/skatkov/frontgo/pull/6) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (2 weeks ago) 
 - [Return full response object, instead of response.body](https://github.com/skatkov/frontgo/pull/4) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
 - [Define in Client class all environment endpoints and by default use production.](https://github.com/skatkov/frontgo/pull/3) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
-- [Upgrade Faraday to v2.13.1](https://github.com/antiwork/gumroad/pull/534) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
-- [Remove Kaminari](https://github.com/antiwork/gumroad/pull/533) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 months ago) 
+- [Upgrade Faraday to v2.13.1](https://github.com/antiwork/gumroad/pull/534) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 months ago) 
+- [Remove Kaminari](https://github.com/antiwork/gumroad/pull/533) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 months ago) 
 - [Draft: Adding Billing section for Settings page](https://github.com/antiwork/gumroad/pull/504) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 months ago) 
 - [Refactor docker-compose files to use named volumes](https://github.com/antiwork/gumroad/pull/448) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 months ago) 
 - [Improvements to invoice generation page.](https://github.com/antiwork/gumroad/pull/423) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 months ago)
@@ -40,7 +40,7 @@
 
 #### 📜 My blog posts
 
-- [Using smart card reader on Linux to read my Estonian ID](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (3 days ago)
+- [Using smart card reader on Linux to read my Estonian ID](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (4 days ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (2 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (4 months ago)
 - [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (10 months ago)
