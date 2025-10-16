@@ -19,8 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [[WIP] Tracking deprecations from cucumber testsuit](https://github.com/fastruby/next_rails/pull/164) on [fastruby/next_rails](https://github.com/fastruby/next_rails) (1 day ago) 
-- [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (3 weeks ago) 
+- [[WIP] Tracking deprecations from cucumber testsuit](https://github.com/fastruby/next_rails/pull/164) on [fastruby/next_rails](https://github.com/fastruby/next_rails) (2 days ago) 
+- [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (4 weeks ago) 
 - [Docs: Ensure that Model initialization example is good as well](https://github.com/rubocop/rubocop-thread_safety/pull/97) on [rubocop/rubocop-thread_safety](https://github.com/rubocop/rubocop-thread_safety) (4 weeks ago) 
 - [Raise an error if errorneous response is returned](https://github.com/skatkov/frontgo/pull/6) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
 - [Return full response object, instead of response.body](https://github.com/skatkov/frontgo/pull/4) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (2 months ago) 
