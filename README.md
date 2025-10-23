@@ -28,7 +28,7 @@
 - [Upgrade Faraday to v2.13.1](https://github.com/antiwork/gumroad/pull/534) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 months ago) 
 - [Remove Kaminari](https://github.com/antiwork/gumroad/pull/533) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 months ago) 
 - [Draft: Adding Billing section for Settings page](https://github.com/antiwork/gumroad/pull/504) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 months ago) 
-- [Refactor docker-compose files to use named volumes](https://github.com/antiwork/gumroad/pull/448) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (3 months ago)
+- [Refactor docker-compose files to use named volumes](https://github.com/antiwork/gumroad/pull/448) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (4 months ago)
 
 #### 📓 Gists I wrote
  
@@ -40,7 +40,7 @@
 
 #### 📜 My blog posts
 
-- [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (5 days ago)
+- [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (6 days ago)
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (3 weeks ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (2 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (5 months ago)
