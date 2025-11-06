@@ -32,11 +32,11 @@
 
 #### 📓 Gists I wrote
  
+- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (today) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (5 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (5 months ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (6 months ago) 
-- [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (10 months ago) 
-- [Pull Requst Template](https://gist.github.com/4bea0868989828e2e221d9d8b2278e36) (1 year ago)
+- [Open browser based off of certain rules (like choosy for macOS)](https://gist.github.com/221b4f302779385494d9dfb9e9eb6aac) (10 months ago)
 
 #### 📜 My blog posts
 
