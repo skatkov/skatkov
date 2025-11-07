@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (today) 
+- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (1 day ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (5 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (5 months ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (6 months ago) 
@@ -40,8 +40,8 @@
 
 #### 📜 My blog posts
 
-- [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (2 weeks ago)
+- [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (3 weeks ago)
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (1 month ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (3 months ago)
-- [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (5 months ago)
+- [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (6 months ago)
 - [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (11 months ago)
