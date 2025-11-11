@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [[WIP] Tracking deprecations from cucumber testsuit](https://github.com/fastruby/next_rails/pull/164) on [fastruby/next_rails](https://github.com/fastruby/next_rails) (3 weeks ago) 
+- [[WIP] Tracking deprecations from cucumber testsuit](https://github.com/fastruby/next_rails/pull/164) on [fastruby/next_rails](https://github.com/fastruby/next_rails) (4 weeks ago) 
 - [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
 - [Docs: Ensure that Model initialization example is good as well](https://github.com/rubocop/rubocop-thread_safety/pull/97) on [rubocop/rubocop-thread_safety](https://github.com/rubocop/rubocop-thread_safety) (1 month ago) 
 - [Raise an error if errorneous response is returned](https://github.com/skatkov/frontgo/pull/6) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (4 days ago) 
+- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (5 days ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (5 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (5 months ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (6 months ago) 
