@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Standardize stdin reading and args validation](https://github.com/skatkov/devtui/pull/146) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [JSON 2 TOON converter](https://github.com/skatkov/devtui/pull/145) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
 - [Update deps](https://github.com/skatkov/devtui/pull/144) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
 - [json repair tui and cli utils](https://github.com/skatkov/devtui/pull/142) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 days ago) 
@@ -27,8 +28,7 @@
 - [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (1 month ago) 
 - [Docs: Ensure that Model initialization example is good as well](https://github.com/rubocop/rubocop-thread_safety/pull/97) on [rubocop/rubocop-thread_safety](https://github.com/rubocop/rubocop-thread_safety) (2 months ago) 
 - [Raise an error if errorneous response is returned](https://github.com/skatkov/frontgo/pull/6) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (2 months ago) 
-- [Return full response object, instead of response.body](https://github.com/skatkov/frontgo/pull/4) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (3 months ago) 
-- [Define in Client class all environment endpoints and by default use production.](https://github.com/skatkov/frontgo/pull/3) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (3 months ago)
+- [Return full response object, instead of response.body](https://github.com/skatkov/frontgo/pull/4) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (3 months ago)
 
 #### 📓 Gists I wrote
  
