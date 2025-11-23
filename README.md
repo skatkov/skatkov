@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 days ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (5 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (5 days ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (6 days ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (2 months ago) 
 - [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files (2 months ago) 
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (4 months ago)
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
-- [Better error handling for markdown TUI app](https://github.com/skatkov/devtui/pull/149) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
-- [Standardize stdin reading and args validation](https://github.com/skatkov/devtui/pull/146) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
+- [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
+- [Better error handling for markdown TUI app](https://github.com/skatkov/devtui/pull/149) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
+- [Standardize stdin reading and args validation](https://github.com/skatkov/devtui/pull/146) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [JSON 2 TOON converter](https://github.com/skatkov/devtui/pull/145) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Update deps](https://github.com/skatkov/devtui/pull/144) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [json repair tui and cli utils](https://github.com/skatkov/devtui/pull/142) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
@@ -44,4 +44,4 @@
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (1 month ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (3 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (6 months ago)
-- [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (11 months ago)
+- [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (1 year ago)
