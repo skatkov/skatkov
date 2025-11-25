@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (6 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 week ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (2 months ago) 
 - [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files (2 months ago) 
@@ -41,7 +41,7 @@
 #### 📜 My blog posts
 
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (1 month ago)
-- [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (1 month ago)
+- [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (2 months ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (3 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (6 months ago)
 - [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (1 year ago)
