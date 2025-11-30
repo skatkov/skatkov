@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [Better error handling for markdown TUI app](https://github.com/skatkov/devtui/pull/149) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [Standardize stdin reading and args validation](https://github.com/skatkov/devtui/pull/146) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
+- [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
+- [Better error handling for markdown TUI app](https://github.com/skatkov/devtui/pull/149) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
+- [Standardize stdin reading and args validation](https://github.com/skatkov/devtui/pull/146) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [JSON 2 TOON converter](https://github.com/skatkov/devtui/pull/145) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [Update deps](https://github.com/skatkov/devtui/pull/144) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [json repair tui and cli utils](https://github.com/skatkov/devtui/pull/142) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
