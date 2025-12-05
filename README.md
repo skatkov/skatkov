@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (today) 
+- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (1 day ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (4 weeks ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (6 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (6 months ago) 
