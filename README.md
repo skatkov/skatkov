@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 weeks ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 weeks ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (2 months ago) 
 - [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files (3 months ago) 
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (5 months ago)
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (3 days ago) 
+- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (4 days ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (1 month ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (6 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (6 months ago) 
