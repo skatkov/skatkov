@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 weeks ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (4 weeks ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 month ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (2 months ago) 
 - [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files (3 months ago) 
 - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (5 months ago)
@@ -27,7 +27,7 @@
 - [json repair tui and cli utils](https://github.com/skatkov/devtui/pull/142) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [Upgrade Golang Lint Action](https://github.com/skatkov/devtui/pull/141) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [[WIP] Tracking deprecations from cucumber testsuit](https://github.com/fastruby/next_rails/pull/164) on [fastruby/next_rails](https://github.com/fastruby/next_rails) (2 months ago) 
-- [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (2 months ago) 
+- [Don&#39;t raise on API errors](https://github.com/skatkov/frontgo/pull/7) on [skatkov/frontgo](https://github.com/skatkov/frontgo) (3 months ago) 
 - [Docs: Ensure that Model initialization example is good as well](https://github.com/rubocop/rubocop-thread_safety/pull/97) on [rubocop/rubocop-thread_safety](https://github.com/rubocop/rubocop-thread_safety) (3 months ago)
 
 #### 📓 Gists I wrote
