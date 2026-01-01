@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (5 days ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (6 days ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 month ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (3 months ago) 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Run tests against more Rails versions](https://github.com/cheddar-me/munster/pull/22) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 days ago) 
+- [Run tests against more Rails versions](https://github.com/cheddar-me/munster/pull/22) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (3 days ago) 
 - [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [Better error handling for markdown TUI app](https://github.com/skatkov/devtui/pull/149) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [Standardize stdin reading and args validation](https://github.com/skatkov/devtui/pull/146) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (3 weeks ago) 
+- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (4 weeks ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (1 month ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (7 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (7 months ago) 
