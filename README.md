@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [rename to webhukhs](https://github.com/skatkov/webhukhs/pull/3) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (today) 
 - [Run against more Rails versions](https://github.com/skatkov/webhukhs/pull/1) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (today) 
 - [Run tests against more Rails versions](https://github.com/cheddar-me/munster/pull/22) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (6 days ago) 
 - [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
@@ -27,8 +28,7 @@
 - [JSON 2 TOON converter](https://github.com/skatkov/devtui/pull/145) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [Update deps](https://github.com/skatkov/devtui/pull/144) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [json repair tui and cli utils](https://github.com/skatkov/devtui/pull/142) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [Upgrade Golang Lint Action](https://github.com/skatkov/devtui/pull/141) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [[WIP] Tracking deprecations from cucumber testsuit](https://github.com/fastruby/next_rails/pull/164) on [fastruby/next_rails](https://github.com/fastruby/next_rails) (2 months ago)
+- [Upgrade Golang Lint Action](https://github.com/skatkov/devtui/pull/141) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
 
 #### 📓 Gists I wrote
  
