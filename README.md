@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 day ago) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 days ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 month ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (3 months ago)
@@ -19,8 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
-- [rename to webhukhs](https://github.com/skatkov/webhukhs/pull/3) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
-- [Run against more Rails versions](https://github.com/skatkov/webhukhs/pull/1) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
+- [rename to webhukhs](https://github.com/skatkov/webhukhs/pull/3) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
+- [Run against more Rails versions](https://github.com/skatkov/webhukhs/pull/1) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
 - [Run tests against more Rails versions](https://github.com/cheddar-me/munster/pull/22) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 week ago) 
 - [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [Better error handling for markdown TUI app](https://github.com/skatkov/devtui/pull/149) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
@@ -43,5 +43,5 @@
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (2 months ago)
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (3 months ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (5 months ago)
-- [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (7 months ago)
+- [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (8 months ago)
 - [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (1 year ago)
