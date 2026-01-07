@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [CLI: adding Json2toml and toml2json](https://github.com/skatkov/devtui/pull/155) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [remove configurable deprecation](https://github.com/skatkov/webhukhs/pull/4) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
 - [rename to webhukhs](https://github.com/skatkov/webhukhs/pull/3) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
 - [Run against more Rails versions](https://github.com/skatkov/webhukhs/pull/1) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
@@ -27,8 +28,7 @@
 - [Better error handling for markdown TUI app](https://github.com/skatkov/devtui/pull/149) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [Standardize stdin reading and args validation](https://github.com/skatkov/devtui/pull/146) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [JSON 2 TOON converter](https://github.com/skatkov/devtui/pull/145) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [Update deps](https://github.com/skatkov/devtui/pull/144) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [json repair tui and cli utils](https://github.com/skatkov/devtui/pull/142) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
+- [Update deps](https://github.com/skatkov/devtui/pull/144) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
 
 #### 📓 Gists I wrote
  
