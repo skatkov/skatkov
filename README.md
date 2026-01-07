@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (today) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 day ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (5 days ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 month ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (3 months ago)
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [remove configurable deprecation](https://github.com/skatkov/webhukhs/pull/4) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (today) 
-- [rename to webhukhs](https://github.com/skatkov/webhukhs/pull/3) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
-- [Run against more Rails versions](https://github.com/skatkov/webhukhs/pull/1) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
+- [remove configurable deprecation](https://github.com/skatkov/webhukhs/pull/4) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
+- [rename to webhukhs](https://github.com/skatkov/webhukhs/pull/3) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
+- [Run against more Rails versions](https://github.com/skatkov/webhukhs/pull/1) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
 - [Run tests against more Rails versions](https://github.com/cheddar-me/munster/pull/22) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 week ago) 
 - [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [Better error handling for markdown TUI app](https://github.com/skatkov/devtui/pull/149) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
