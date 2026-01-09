@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [converter to have similar naming across codebase](https://github.com/skatkov/devtui/pull/158) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [adding multiple CLI interfaces](https://github.com/skatkov/devtui/pull/157) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
 - [Args error handling](https://github.com/skatkov/devtui/pull/156) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
@@ -27,8 +28,7 @@
 - [rename to webhukhs](https://github.com/skatkov/webhukhs/pull/3) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (5 days ago) 
 - [Run against more Rails versions](https://github.com/skatkov/webhukhs/pull/1) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (5 days ago) 
 - [Run tests against more Rails versions](https://github.com/cheddar-me/munster/pull/22) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (1 week ago) 
-- [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [Better error handling for markdown TUI app](https://github.com/skatkov/devtui/pull/149) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
+- [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
 
 #### 📓 Gists I wrote
  
