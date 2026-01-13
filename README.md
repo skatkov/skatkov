@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (4 days ago) 
 - [converter to have similar naming across codebase](https://github.com/skatkov/devtui/pull/158) on [skatkov/devtui](https://github.com/skatkov/devtui) (4 days ago) 
 - [adding multiple CLI interfaces](https://github.com/skatkov/devtui/pull/157) on [skatkov/devtui](https://github.com/skatkov/devtui) (5 days ago) 
@@ -27,8 +28,7 @@
 - [remove configurable deprecation](https://github.com/skatkov/webhukhs/pull/4) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
 - [rename to webhukhs](https://github.com/skatkov/webhukhs/pull/3) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
 - [Run against more Rails versions](https://github.com/skatkov/webhukhs/pull/1) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
-- [Run tests against more Rails versions](https://github.com/cheddar-me/munster/pull/22) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago) 
-- [Warn linux users](https://github.com/skatkov/devtui/pull/150) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
+- [Run tests against more Rails versions](https://github.com/cheddar-me/munster/pull/22) on [cheddar-me/munster](https://github.com/cheddar-me/munster) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
