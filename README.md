@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (today) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 day ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 day ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 day ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 days ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 week ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (3 months ago)
 
@@ -19,11 +19,11 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
-- [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
-- [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (5 days ago) 
-- [converter to have similar naming across codebase](https://github.com/skatkov/devtui/pull/158) on [skatkov/devtui](https://github.com/skatkov/devtui) (5 days ago) 
-- [adding multiple CLI interfaces](https://github.com/skatkov/devtui/pull/157) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
+- [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
+- [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
+- [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
+- [converter to have similar naming across codebase](https://github.com/skatkov/devtui/pull/158) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
+- [adding multiple CLI interfaces](https://github.com/skatkov/devtui/pull/157) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Args error handling](https://github.com/skatkov/devtui/pull/156) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [CLI: adding Json2toml and toml2json](https://github.com/skatkov/devtui/pull/155) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [remove configurable deprecation](https://github.com/skatkov/webhukhs/pull/4) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
@@ -35,12 +35,12 @@
 - [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (1 month ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (2 months ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (7 months ago) 
-- [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (7 months ago) 
-- [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (8 months ago)
+- [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (8 months ago) 
+- [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (9 months ago)
 
 #### 📜 My blog posts
 
-- [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (2 months ago)
+- [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (3 months ago)
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (3 months ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (5 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (8 months ago)
