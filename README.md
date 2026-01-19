@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 day ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (4 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 day ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 days ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (5 days ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 week ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (4 months ago)
 
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Update README with environment variables section](https://github.com/skatkov/miniflux-email-client/pull/12) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 day ago) 
-- [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (4 days ago) 
-- [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (5 days ago) 
+- [Update README with environment variables section](https://github.com/skatkov/miniflux-email-client/pull/12) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (2 days ago) 
+- [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (5 days ago) 
+- [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
 - [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [converter to have similar naming across codebase](https://github.com/skatkov/devtui/pull/158) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [adding multiple CLI interfaces](https://github.com/skatkov/devtui/pull/157) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
