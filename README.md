@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (1 day ago) 
 - [Update README with environment variables section](https://github.com/skatkov/miniflux-email-client/pull/12) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (6 days ago) 
 - [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
@@ -27,8 +28,7 @@
 - [converter to have similar naming across codebase](https://github.com/skatkov/devtui/pull/158) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [adding multiple CLI interfaces](https://github.com/skatkov/devtui/pull/157) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [Args error handling](https://github.com/skatkov/devtui/pull/156) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
-- [CLI: adding Json2toml and toml2json](https://github.com/skatkov/devtui/pull/155) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
-- [remove configurable deprecation](https://github.com/skatkov/webhukhs/pull/4) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago)
+- [CLI: adding Json2toml and toml2json](https://github.com/skatkov/devtui/pull/155) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
