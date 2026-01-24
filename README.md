@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (5 days ago) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (6 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (6 days ago) 
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 week ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 weeks ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (4 months ago)
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
-- [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (1 day ago) 
-- [Update README with environment variables section](https://github.com/skatkov/miniflux-email-client/pull/12) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (6 days ago) 
+- [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
+- [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (2 days ago) 
+- [Update README with environment variables section](https://github.com/skatkov/miniflux-email-client/pull/12) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 week ago) 
 - [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
@@ -41,7 +41,7 @@
 #### 📜 My blog posts
 
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (3 months ago)
-- [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (3 months ago)
+- [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (4 months ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (5 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (8 months ago)
 - [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (1 year ago)
