@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Add missing CLI tools for TUI parity](https://github.com/skatkov/devtui/pull/166) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
-- [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
-- [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (3 days ago) 
+- [Add missing CLI tools for TUI parity](https://github.com/skatkov/devtui/pull/166) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
+- [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 days ago) 
+- [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (4 days ago) 
 - [Update README with environment variables section](https://github.com/skatkov/miniflux-email-client/pull/12) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 week ago) 
 - [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
@@ -42,6 +42,6 @@
 
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (3 months ago)
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (4 months ago)
-- [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (5 months ago)
+- [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (6 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (8 months ago)
 - [Strange thing about happiness.](https://www.skatkov.com/posts/2024-11-28-strange-thing-about-happiness) (1 year ago)
