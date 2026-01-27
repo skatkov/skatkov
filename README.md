@@ -5,7 +5,7 @@
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 week ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 week ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 weeks ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (3 weeks ago) 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment (4 months ago)
 
 #### 🌱 My latest projects
@@ -19,12 +19,12 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Add missing CLI tools for TUI parity](https://github.com/skatkov/devtui/pull/166) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
-- [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 days ago) 
-- [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (4 days ago) 
+- [Add missing CLI tools for TUI parity](https://github.com/skatkov/devtui/pull/166) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 days ago) 
+- [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (4 days ago) 
+- [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (5 days ago) 
 - [Update README with environment variables section](https://github.com/skatkov/miniflux-email-client/pull/12) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (1 week ago) 
 - [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
+- [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [converter to have similar naming across codebase](https://github.com/skatkov/devtui/pull/158) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [adding multiple CLI interfaces](https://github.com/skatkov/devtui/pull/157) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
