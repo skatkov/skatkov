@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [ADding --json flag to CLI commands](https://github.com/skatkov/devtui/pull/168) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [Mcp protocol](https://github.com/skatkov/devtui/pull/167) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [Update README with caution note and motivation](https://github.com/skatkov/rdoc-markdown/pull/44) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Add missing CLI tools for TUI parity](https://github.com/skatkov/devtui/pull/166) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Update README with environment variables section](https://github.com/skatkov/miniflux-email-client/pull/12) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (2 weeks ago) 
 - [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
-- [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
-- [converter to have similar naming across codebase](https://github.com/skatkov/devtui/pull/158) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago)
+- [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
