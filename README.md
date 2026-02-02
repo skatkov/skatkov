@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (today) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 day ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 weeks ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 weeks ago) 
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [ADding --json flag to CLI commands](https://github.com/skatkov/devtui/pull/168) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
-- [Mcp protocol](https://github.com/skatkov/devtui/pull/167) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
-- [Update README with caution note and motivation](https://github.com/skatkov/rdoc-markdown/pull/44) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [ADding --json flag to CLI commands](https://github.com/skatkov/devtui/pull/168) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
+- [Mcp protocol](https://github.com/skatkov/devtui/pull/167) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
+- [Update README with caution note and motivation](https://github.com/skatkov/rdoc-markdown/pull/44) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [Add missing CLI tools for TUI parity](https://github.com/skatkov/devtui/pull/166) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (1 week ago) 
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (1 month ago) 
+- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (2 months ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (2 months ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (8 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (8 months ago) 
