@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [extend keyrign timeout to 30 seconds](https://github.com/salmonumbrella/fastmail-cli/pull/5) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (today) 
 - [ADding --json flag to CLI commands](https://github.com/skatkov/devtui/pull/168) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
 - [Mcp protocol](https://github.com/skatkov/devtui/pull/167) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
 - [Update README with caution note and motivation](https://github.com/skatkov/rdoc-markdown/pull/44) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (2 weeks ago) 
 - [Update README with environment variables section](https://github.com/skatkov/miniflux-email-client/pull/12) on [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) (3 weeks ago) 
 - [Wish](https://github.com/skatkov/devtui/pull/162) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
-- [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
-- [consolidate conversion method in Converter class](https://github.com/skatkov/devtui/pull/159) on [skatkov/devtui](https://github.com/skatkov/devtui) (4 weeks ago)
+- [adding dynamic og images](https://github.com/skatkov/devtui/pull/161) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
