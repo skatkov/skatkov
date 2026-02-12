@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Break markdown rendering into module sections](https://github.com/skatkov/yard-markdown/pull/29) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Imrpoved markdown output](https://github.com/skatkov/rdoc-markdown/pull/45) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Ensure ID&#39;s are always present](https://github.com/skatkov/webhukhs/pull/11) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (4 days ago) 
 - [Processing job hardening](https://github.com/skatkov/webhukhs/pull/10) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (4 days ago) 
@@ -27,8 +28,7 @@
 - [Mcp protocol](https://github.com/skatkov/devtui/pull/167) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Update README with caution note and motivation](https://github.com/skatkov/rdoc-markdown/pull/44) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Add missing CLI tools for TUI parity](https://github.com/skatkov/devtui/pull/166) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
-- [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
-- [Keyring call hangs indefinitely](https://github.com/salmonumbrella/fastmail-cli/pull/3) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (3 weeks ago)
+- [Add MCP stdio server support](https://github.com/skatkov/devtui/pull/165) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
