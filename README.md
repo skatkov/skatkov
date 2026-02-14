@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [enable more ruby versions for testing](https://github.com/skatkov/webhukhs/pull/12) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (today) 
 - [Clarify output format and remove production caution](https://github.com/skatkov/rdoc-markdown/pull/46) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [Honor YARD visibility flags in markdown output](https://github.com/skatkov/yard-markdown/pull/30) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
 - [Break markdown rendering into module sections](https://github.com/skatkov/yard-markdown/pull/29) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
@@ -27,8 +28,7 @@
 - [Processing job hardening](https://github.com/skatkov/webhukhs/pull/10) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (6 days ago) 
 - [extend keyrign timeout to 30 seconds](https://github.com/salmonumbrella/fastmail-cli/pull/5) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (1 week ago) 
 - [ADding --json flag to CLI commands](https://github.com/skatkov/devtui/pull/168) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [Mcp protocol](https://github.com/skatkov/devtui/pull/167) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [Update README with caution note and motivation](https://github.com/skatkov/rdoc-markdown/pull/44) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
+- [Mcp protocol](https://github.com/skatkov/devtui/pull/167) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago)
 
 #### 📓 Gists I wrote
  
