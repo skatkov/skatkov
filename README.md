@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) - Fastmail CLI for managing email, masked addresses, calendars, contacts, files, and vacation auto-replies (today) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 days ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (3 days ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 weeks ago) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (4 weeks ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 month ago)
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (4 weeks ago)
 
 #### 🌱 My latest projects
  
