@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (today) 
-- [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) - Fastmail CLI for managing email, masked addresses, calendars, contacts, files, and vacation auto-replies (4 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 day ago) 
+- [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) - Fastmail CLI for managing email, masked addresses, calendars, contacts, files, and vacation auto-replies (5 days ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 week ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago)
@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
-- [Analyse output for possible errors](https://github.com/skatkov/yard-markdown/pull/31) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
-- [enable more ruby versions for testing](https://github.com/skatkov/webhukhs/pull/12) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (5 days ago) 
+- [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
+- [Analyse output for possible errors](https://github.com/skatkov/yard-markdown/pull/31) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
+- [enable more ruby versions for testing](https://github.com/skatkov/webhukhs/pull/12) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (6 days ago) 
 - [Clarify output format and remove production caution](https://github.com/skatkov/rdoc-markdown/pull/46) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Honor YARD visibility flags in markdown output](https://github.com/skatkov/yard-markdown/pull/30) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Break markdown rendering into module sections](https://github.com/skatkov/yard-markdown/pull/29) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
@@ -40,7 +40,7 @@
 
 #### 📜 My blog posts
 
-- [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (5 days ago)
+- [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (6 days ago)
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (4 months ago)
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (4 months ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (6 months ago)
