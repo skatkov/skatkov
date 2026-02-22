@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 days ago) 
-- [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) - Fastmail CLI for managing email, masked addresses, calendars, contacts, files, and vacation auto-replies (6 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (3 days ago) 
+- [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) - Fastmail CLI for managing email, masked addresses, calendars, contacts, files, and vacation auto-replies (1 week ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 week ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago)
@@ -19,15 +19,15 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
-- [Analyse output for possible errors](https://github.com/skatkov/yard-markdown/pull/31) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
+- [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 days ago) 
+- [Analyse output for possible errors](https://github.com/skatkov/yard-markdown/pull/31) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [enable more ruby versions for testing](https://github.com/skatkov/webhukhs/pull/12) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
 - [Clarify output format and remove production caution](https://github.com/skatkov/rdoc-markdown/pull/46) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Honor YARD visibility flags in markdown output](https://github.com/skatkov/yard-markdown/pull/30) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Break markdown rendering into module sections](https://github.com/skatkov/yard-markdown/pull/29) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Imrpoved markdown output](https://github.com/skatkov/rdoc-markdown/pull/45) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Ensure ID&#39;s are always present](https://github.com/skatkov/webhukhs/pull/11) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
-- [Processing job hardening](https://github.com/skatkov/webhukhs/pull/10) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
+- [Ensure ID&#39;s are always present](https://github.com/skatkov/webhukhs/pull/11) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago) 
+- [Processing job hardening](https://github.com/skatkov/webhukhs/pull/10) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago) 
 - [extend keyrign timeout to 30 seconds](https://github.com/salmonumbrella/fastmail-cli/pull/5) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (2 weeks ago)
 
 #### 📓 Gists I wrote
