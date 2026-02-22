@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (3 days ago) 
-- [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) - Fastmail CLI for managing email, masked addresses, calendars, contacts, files, and vacation auto-replies (1 week ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 week ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago)
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 month ago)
 
 #### 🌱 My latest projects
  
@@ -28,7 +28,7 @@
 - [Imrpoved markdown output](https://github.com/skatkov/rdoc-markdown/pull/45) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Ensure ID&#39;s are always present](https://github.com/skatkov/webhukhs/pull/11) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago) 
 - [Processing job hardening](https://github.com/skatkov/webhukhs/pull/10) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago) 
-- [extend keyrign timeout to 30 seconds](https://github.com/salmonumbrella/fastmail-cli/pull/5) on [salmonumbrella/fastmail-cli](https://github.com/salmonumbrella/fastmail-cli) (2 weeks ago)
+- [ADding --json flag to CLI commands](https://github.com/skatkov/devtui/pull/168) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
