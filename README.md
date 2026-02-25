@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [moving to bubbletea v2 libraries:](https://github.com/skatkov/devtui/pull/176) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [migrate to v2 with compat package](https://github.com/skatkov/stoic/pull/43) on [skatkov/stoic](https://github.com/skatkov/stoic) (today) 
 - [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
 - [Analyse output for possible errors](https://github.com/skatkov/yard-markdown/pull/31) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Honor YARD visibility flags in markdown output](https://github.com/skatkov/yard-markdown/pull/30) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Break markdown rendering into module sections](https://github.com/skatkov/yard-markdown/pull/29) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Imrpoved markdown output](https://github.com/skatkov/rdoc-markdown/pull/45) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [Ensure ID&#39;s are always present](https://github.com/skatkov/webhukhs/pull/11) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago) 
-- [Processing job hardening](https://github.com/skatkov/webhukhs/pull/10) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago)
+- [Ensure ID&#39;s are always present](https://github.com/skatkov/webhukhs/pull/11) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
