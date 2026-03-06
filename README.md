@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [moving to bubbletea v2 libraries:](https://github.com/skatkov/devtui/pull/176) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [migrate to v2 with compat package](https://github.com/skatkov/stoic/pull/43) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 week ago) 
 - [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
@@ -33,7 +33,7 @@
 #### 📓 Gists I wrote
  
 - [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (3 months ago) 
-- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (3 months ago) 
+- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (4 months ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (9 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (9 months ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (10 months ago)
