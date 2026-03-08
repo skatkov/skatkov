@@ -19,11 +19,11 @@
 
 #### 🔨 My recent Pull Requests
  
-- [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
+- [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
 - [moving to bubbletea v2 libraries:](https://github.com/skatkov/devtui/pull/176) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [migrate to v2 with compat package](https://github.com/skatkov/stoic/pull/43) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 week ago) 
 - [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
-- [Analyse output for possible errors](https://github.com/skatkov/yard-markdown/pull/31) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago) 
+- [Analyse output for possible errors](https://github.com/skatkov/yard-markdown/pull/31) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 weeks ago) 
 - [enable more ruby versions for testing](https://github.com/skatkov/webhukhs/pull/12) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 weeks ago) 
 - [Clarify output format and remove production caution](https://github.com/skatkov/rdoc-markdown/pull/46) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [Honor YARD visibility flags in markdown output](https://github.com/skatkov/yard-markdown/pull/30) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 weeks ago) 
