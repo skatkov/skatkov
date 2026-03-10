@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [moving to bubbletea v2 libraries:](https://github.com/skatkov/devtui/pull/176) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [migrate to v2 with compat package](https://github.com/skatkov/stoic/pull/43) on [skatkov/stoic](https://github.com/skatkov/stoic) (1 week ago) 
 - [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
