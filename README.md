@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Should be possible to define public access to storage](https://github.com/yippee-fun/rubyschema/pull/34) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (today) 
 - [Introduce fuzzing to classes](https://github.com/skatkov/devtui/pull/180) on [skatkov/devtui](https://github.com/skatkov/devtui) (5 days ago) 
 - [adjust golangci to detect panic&#39;s better](https://github.com/skatkov/devtui/pull/179) on [skatkov/devtui](https://github.com/skatkov/devtui) (5 days ago) 
 - [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [Analyse output for possible errors](https://github.com/skatkov/yard-markdown/pull/31) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 weeks ago) 
 - [enable more ruby versions for testing](https://github.com/skatkov/webhukhs/pull/12) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (4 weeks ago) 
-- [Clarify output format and remove production caution](https://github.com/skatkov/rdoc-markdown/pull/46) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
-- [Honor YARD visibility flags in markdown output](https://github.com/skatkov/yard-markdown/pull/30) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago)
+- [Clarify output format and remove production caution](https://github.com/skatkov/rdoc-markdown/pull/46) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago)
 
 #### 📓 Gists I wrote
  
