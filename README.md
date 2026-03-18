@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 weeks ago) 
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (3 weeks ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (3 weeks ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (1 month ago) 
-- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (1 month ago)
+- [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (2 months ago)
 
 #### 🌱 My latest projects
  
@@ -19,14 +19,14 @@
 
 #### 🔨 My recent Pull Requests
  
-- [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
-- [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
-- [Should be possible to define public access to storage](https://github.com/yippee-fun/rubyschema/pull/34) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (2 days ago) 
+- [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
+- [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 days ago) 
+- [Should be possible to define public access to storage](https://github.com/yippee-fun/rubyschema/pull/34) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (3 days ago) 
 - [Introduce fuzzing to classes](https://github.com/skatkov/devtui/pull/180) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [adjust golangci to detect panic&#39;s better](https://github.com/skatkov/devtui/pull/179) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [moving to bubbletea v2 libraries:](https://github.com/skatkov/devtui/pull/176) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
-- [migrate to v2 with compat package](https://github.com/skatkov/stoic/pull/43) on [skatkov/stoic](https://github.com/skatkov/stoic) (2 weeks ago) 
+- [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
+- [moving to bubbletea v2 libraries:](https://github.com/skatkov/devtui/pull/176) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
+- [migrate to v2 with compat package](https://github.com/skatkov/stoic/pull/43) on [skatkov/stoic](https://github.com/skatkov/stoic) (3 weeks ago) 
 - [Json repair](https://github.com/skatkov/devtui/pull/172) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [Analyse output for possible errors](https://github.com/skatkov/yard-markdown/pull/31) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 month ago)
 
