@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
+- [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [Should be possible to define public access to storage](https://github.com/yippee-fun/rubyschema/pull/34) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (1 week ago) 
 - [Introduce fuzzing to classes](https://github.com/skatkov/devtui/pull/180) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
