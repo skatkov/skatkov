@@ -20,8 +20,8 @@
 #### 🔨 My recent Pull Requests
  
 - [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [Should be possible to define public access to storage](https://github.com/yippee-fun/rubyschema/pull/34) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (1 week ago) 
+- [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
+- [Should be possible to define public access to storage](https://github.com/yippee-fun/rubyschema/pull/34) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (2 weeks ago) 
 - [Introduce fuzzing to classes](https://github.com/skatkov/devtui/pull/180) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [adjust golangci to detect panic&#39;s better](https://github.com/skatkov/devtui/pull/179) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [class variables](https://github.com/skatkov/rdoc-markdown/pull/49) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
