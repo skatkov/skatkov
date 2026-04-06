@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
+- [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [Should be possible to define public access to storage](https://github.com/yippee-fun/rubyschema/pull/34) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (3 weeks ago) 
 - [Introduce fuzzing to classes](https://github.com/skatkov/devtui/pull/180) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
@@ -44,4 +44,4 @@
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (5 months ago)
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (6 months ago)
 - [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (8 months ago)
-- [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (10 months ago)
+- [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (11 months ago)
