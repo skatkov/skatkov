@@ -4,7 +4,7 @@
  
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 month ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 months ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (2 months ago) 
 - [skatkov/miniflux-email-client](https://github.com/skatkov/miniflux-email-client) - Miniflux client that deliveres updates to email. (3 months ago)
 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [initial mutant configuration](https://github.com/skatkov/webhukhs/pull/13) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
+- [initial mutant configuration](https://github.com/skatkov/webhukhs/pull/13) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
 - [add markdown exports for llms](https://github.com/skatkov/devtui/pull/194) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
@@ -34,7 +34,7 @@
  
 - [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (4 months ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (5 months ago) 
-- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (10 months ago) 
+- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (11 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (11 months ago) 
 - [zed.settings.json](https://gist.github.com/469e9eb867f5dc3ffb2a3dac65ae0640) (1 year ago)
 
