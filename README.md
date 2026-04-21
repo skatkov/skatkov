@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [initial mutant configuration](https://github.com/skatkov/webhukhs/pull/13) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
+- [initial mutant configuration](https://github.com/skatkov/webhukhs/pull/13) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (4 days ago) 
 - [add markdown exports for llms](https://github.com/skatkov/devtui/pull/194) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
