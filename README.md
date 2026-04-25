@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Mutant bootstrap](https://github.com/skatkov/yard-markdown/pull/33) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
+- [Let there be mutant](https://github.com/skatkov/yard-markdown/pull/33) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
 - [Mutant test all the things](https://github.com/skatkov/webhukhs/pull/13) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
 - [add markdown exports for llms](https://github.com/skatkov/devtui/pull/194) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
