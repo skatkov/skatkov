@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Adjust mutant on CI](https://github.com/skatkov/yard-markdown/pull/35) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
+- [adding standard gem and integrating it](https://github.com/skatkov/yard-markdown/pull/34) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Tighten test assertions with minitest-strict](https://github.com/skatkov/rdoc-markdown/pull/52) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [update bundler](https://github.com/skatkov/rdoc-markdown/pull/51) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Let there be mutant](https://github.com/skatkov/yard-markdown/pull/33) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
@@ -26,9 +28,7 @@
 - [add markdown exports for llms](https://github.com/skatkov/devtui/pull/194) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
 - [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [Should be possible to define public access to storage](https://github.com/yippee-fun/rubyschema/pull/34) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (1 month ago) 
-- [Introduce fuzzing to classes](https://github.com/skatkov/devtui/pull/180) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [adjust golangci to detect panic&#39;s better](https://github.com/skatkov/devtui/pull/179) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
+- [Should be possible to define public access to storage](https://github.com/yippee-fun/rubyschema/pull/34) on [yippee-fun/rubyschema](https://github.com/yippee-fun/rubyschema) (1 month ago)
 
 #### 📓 Gists I wrote
  
