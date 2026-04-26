@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [merge :args: names into method signatures](https://github.com/skatkov/rdoc-markdown/pull/55) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [rdoc head github action workflow](https://github.com/skatkov/rdoc-markdown/pull/54) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Adjust mutant on CI](https://github.com/skatkov/yard-markdown/pull/35) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
 - [adding standard gem and integrating it](https://github.com/skatkov/yard-markdown/pull/34) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Let there be mutant](https://github.com/skatkov/yard-markdown/pull/33) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
 - [Mutant test all the things](https://github.com/skatkov/webhukhs/pull/13) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
 - [add markdown exports for llms](https://github.com/skatkov/devtui/pull/194) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
-- [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
-- [upgrade huh to version 2.0.3](https://github.com/skatkov/devtui/pull/182) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
+- [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago)
 
 #### 📓 Gists I wrote
  
