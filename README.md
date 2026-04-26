@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (3 days ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (1 month ago) 
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 months ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (2 months ago)
 
 #### 🌱 My latest projects
@@ -19,11 +19,11 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Adjust mutant on CI](https://github.com/skatkov/yard-markdown/pull/35) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
-- [adding standard gem and integrating it](https://github.com/skatkov/yard-markdown/pull/34) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
-- [Tighten test assertions with minitest-strict](https://github.com/skatkov/rdoc-markdown/pull/52) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [update bundler](https://github.com/skatkov/rdoc-markdown/pull/51) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [Let there be mutant](https://github.com/skatkov/yard-markdown/pull/33) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
+- [Adjust mutant on CI](https://github.com/skatkov/yard-markdown/pull/35) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
+- [adding standard gem and integrating it](https://github.com/skatkov/yard-markdown/pull/34) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
+- [Tighten test assertions with minitest-strict](https://github.com/skatkov/rdoc-markdown/pull/52) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [update bundler](https://github.com/skatkov/rdoc-markdown/pull/51) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Let there be mutant](https://github.com/skatkov/yard-markdown/pull/33) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
 - [Mutant test all the things](https://github.com/skatkov/webhukhs/pull/13) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
 - [add markdown exports for llms](https://github.com/skatkov/devtui/pull/194) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
 - [moving to fang v2](https://github.com/skatkov/devtui/pull/187) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 month ago) 
@@ -43,5 +43,5 @@
 - [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (2 months ago)
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (6 months ago)
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (7 months ago)
-- [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (8 months ago)
+- [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (9 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (11 months ago)
