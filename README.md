@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Reduce the suite by duplicated 10 tests](https://github.com/skatkov/yard-markdown/pull/36) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
-- [Let there be mutant coverage](https://github.com/skatkov/rdoc-markdown/pull/58) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [introduce minitest-strict, reduce tests](https://github.com/skatkov/webhukhs/pull/14) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (today) 
-- [merge :args: names into method signatures](https://github.com/skatkov/rdoc-markdown/pull/55) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [rdoc head github action workflow](https://github.com/skatkov/rdoc-markdown/pull/54) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [Adjust mutant on CI](https://github.com/skatkov/yard-markdown/pull/35) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
-- [adding standard gem and integrating it](https://github.com/skatkov/yard-markdown/pull/34) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
-- [Tighten test assertions with minitest-strict](https://github.com/skatkov/rdoc-markdown/pull/52) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [update bundler](https://github.com/skatkov/rdoc-markdown/pull/51) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [Let there be mutant](https://github.com/skatkov/yard-markdown/pull/33) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago)
+- [Revise effectivness of our testuit, remove redundancies.](https://github.com/skatkov/yard-markdown/pull/36) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
+- [Let there be mutant coverage](https://github.com/skatkov/rdoc-markdown/pull/58) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [introduce minitest-strict, reduce tests](https://github.com/skatkov/webhukhs/pull/14) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
+- [merge :args: names into method signatures](https://github.com/skatkov/rdoc-markdown/pull/55) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [rdoc head github action workflow](https://github.com/skatkov/rdoc-markdown/pull/54) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Adjust mutant on CI](https://github.com/skatkov/yard-markdown/pull/35) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
+- [adding standard gem and integrating it](https://github.com/skatkov/yard-markdown/pull/34) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
+- [Tighten test assertions with minitest-strict](https://github.com/skatkov/rdoc-markdown/pull/52) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [update bundler](https://github.com/skatkov/rdoc-markdown/pull/51) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [Let there be mutant](https://github.com/skatkov/yard-markdown/pull/33) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 days ago)
 
 #### 📓 Gists I wrote
  
