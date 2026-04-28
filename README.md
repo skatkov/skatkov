@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (today) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 day ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
-- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 months ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc to Markdown generator (2 months ago)
+- [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 months ago)
 
 #### 🌱 My latest projects
  
