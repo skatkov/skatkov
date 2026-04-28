@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Adding erb-lint](https://github.com/skatkov/rdoc-markdown/pull/66) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Test struct cleanup](https://github.com/skatkov/yard-markdown/pull/37) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
 - [Revise effectivness of our testuit, remove redundancies.](https://github.com/skatkov/yard-markdown/pull/36) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
 - [Let there be mutant coverage](https://github.com/skatkov/rdoc-markdown/pull/58) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
@@ -27,8 +28,7 @@
 - [rdoc head github action workflow](https://github.com/skatkov/rdoc-markdown/pull/54) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [Adjust mutant on CI](https://github.com/skatkov/yard-markdown/pull/35) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 days ago) 
 - [adding standard gem and integrating it](https://github.com/skatkov/yard-markdown/pull/34) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 days ago) 
-- [Tighten test assertions with minitest-strict](https://github.com/skatkov/rdoc-markdown/pull/52) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [update bundler](https://github.com/skatkov/rdoc-markdown/pull/51) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago)
+- [Tighten test assertions with minitest-strict](https://github.com/skatkov/rdoc-markdown/pull/52) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago)
 
 #### 📓 Gists I wrote
  
