@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Fix bracket-like prose links](https://github.com/skatkov/rdoc-markdown/pull/71) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Fix rdof-ref placeholder links](https://github.com/skatkov/rdoc-markdown/pull/70) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Fix minitest cross-reference resolution](https://github.com/skatkov/rdoc-markdown/pull/69) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
@@ -27,8 +28,7 @@
 - [Test struct cleanup](https://github.com/skatkov/yard-markdown/pull/37) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
 - [Revise effectivness of our testuit, remove redundancies.](https://github.com/skatkov/yard-markdown/pull/36) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
 - [Let there be mutant coverage](https://github.com/skatkov/rdoc-markdown/pull/58) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
-- [introduce minitest-strict, reduce tests](https://github.com/skatkov/webhukhs/pull/14) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
-- [merge :args: names into method signatures](https://github.com/skatkov/rdoc-markdown/pull/55) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago)
+- [introduce minitest-strict, reduce tests](https://github.com/skatkov/webhukhs/pull/14) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago)
 
 #### 📓 Gists I wrote
  
