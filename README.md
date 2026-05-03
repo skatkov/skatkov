@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (4 days ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (4 days ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (5 days ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (5 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (6 days ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 weeks ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 months ago)
 
@@ -19,20 +19,20 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Migrate to ActiveSupport::Notifications](https://github.com/skatkov/webhukhs/pull/16) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
-- [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Fix bracket-like prose links](https://github.com/skatkov/rdoc-markdown/pull/71) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Fix rdof-ref placeholder links](https://github.com/skatkov/rdoc-markdown/pull/70) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Fix minitest cross-reference resolution](https://github.com/skatkov/rdoc-markdown/pull/69) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Yard lint](https://github.com/skatkov/rdoc-markdown/pull/68) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Adding erb-lint](https://github.com/skatkov/rdoc-markdown/pull/66) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Test struct cleanup](https://github.com/skatkov/yard-markdown/pull/37) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
-- [Revise effectivness of our testuit, remove redundancies.](https://github.com/skatkov/yard-markdown/pull/36) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
-- [Let there be mutant coverage](https://github.com/skatkov/rdoc-markdown/pull/58) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago)
+- [Migrate to ActiveSupport::Notifications](https://github.com/skatkov/webhukhs/pull/16) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
+- [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Fix bracket-like prose links](https://github.com/skatkov/rdoc-markdown/pull/71) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Fix rdof-ref placeholder links](https://github.com/skatkov/rdoc-markdown/pull/70) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Fix minitest cross-reference resolution](https://github.com/skatkov/rdoc-markdown/pull/69) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Yard lint](https://github.com/skatkov/rdoc-markdown/pull/68) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Adding erb-lint](https://github.com/skatkov/rdoc-markdown/pull/66) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Test struct cleanup](https://github.com/skatkov/yard-markdown/pull/37) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
+- [Revise effectivness of our testuit, remove redundancies.](https://github.com/skatkov/yard-markdown/pull/36) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
+- [Let there be mutant coverage](https://github.com/skatkov/rdoc-markdown/pull/58) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
-- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (4 months ago) 
+- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (5 months ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (5 months ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (11 months ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (11 months ago) 
