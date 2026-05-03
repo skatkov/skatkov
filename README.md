@@ -10,7 +10,7 @@
 
 #### 🌱 My latest projects
  
-- [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) -  
+- [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. 
 - [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers 
