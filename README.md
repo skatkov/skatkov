@@ -5,7 +5,7 @@
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 week ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 week ago) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 weeks ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 weeks ago) 
 - [skatkov/stoic](https://github.com/skatkov/stoic) - Command line app for daily journaling with plain-text files (2 months ago)
 
 #### 🌱 My latest projects
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [mutant reachitecture](https://github.com/skatkov/jekyll-llms/pull/1) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (4 days ago) 
+- [mutant reachitecture](https://github.com/skatkov/jekyll-llms/pull/1) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (5 days ago) 
 - [Migrate to ActiveSupport::Notifications](https://github.com/skatkov/webhukhs/pull/16) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
 - [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Fix bracket-like prose links](https://github.com/skatkov/rdoc-markdown/pull/71) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
