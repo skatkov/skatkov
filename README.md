@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Reset Markdown note state between parses](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Resolve markdown crash for invalid note reference](https://github.com/ruby/rdoc/pull/1712) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Automatically add execution context to Rails.error.context](https://github.com/julik/geneva_drive/pull/27) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (today) 
 - [reproduce a race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (2 days ago) 
@@ -27,8 +28,7 @@
 - [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Fix bracket-like prose links](https://github.com/skatkov/rdoc-markdown/pull/71) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Fix rdof-ref placeholder links](https://github.com/skatkov/rdoc-markdown/pull/70) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [Fix minitest cross-reference resolution](https://github.com/skatkov/rdoc-markdown/pull/69) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [Yard lint](https://github.com/skatkov/rdoc-markdown/pull/68) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
+- [Fix minitest cross-reference resolution](https://github.com/skatkov/rdoc-markdown/pull/69) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
