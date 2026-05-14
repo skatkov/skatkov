@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Automatically add execution context to Rails.error.context](https://github.com/julik/geneva_drive/pull/27) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (today) 
 - [reproduce a race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (2 days ago) 
 - [mutant reachitecture](https://github.com/skatkov/jekyll-llms/pull/1) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (1 week ago) 
 - [Migrate to ActiveSupport::Notifications](https://github.com/skatkov/webhukhs/pull/16) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago) 
@@ -27,8 +28,7 @@
 - [Fix rdof-ref placeholder links](https://github.com/skatkov/rdoc-markdown/pull/70) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Fix minitest cross-reference resolution](https://github.com/skatkov/rdoc-markdown/pull/69) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Yard lint](https://github.com/skatkov/rdoc-markdown/pull/68) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [Adding erb-lint](https://github.com/skatkov/rdoc-markdown/pull/66) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [Test struct cleanup](https://github.com/skatkov/yard-markdown/pull/37) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago)
+- [Adding erb-lint](https://github.com/skatkov/rdoc-markdown/pull/66) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
