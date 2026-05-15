@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Trim entries in no_proxy list](https://github.com/SeleniumHQ/selenium/pull/17462) on [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) (today) 
 - [A setup guide for sqlite](https://github.com/mbj/mutant/pull/1629) on [mbj/mutant](https://github.com/mbj/mutant) (today) 
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/73) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Ignore inline notes during Markdown reference parsing](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Resolve race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (3 days ago) 
 - [mutant reachitecture](https://github.com/skatkov/jekyll-llms/pull/1) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (1 week ago) 
 - [Migrate to ActiveSupport::Notifications](https://github.com/skatkov/webhukhs/pull/16) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago) 
-- [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [Fix bracket-like prose links](https://github.com/skatkov/rdoc-markdown/pull/71) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
+- [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
