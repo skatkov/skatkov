@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 weeks ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago) 
@@ -19,13 +19,13 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Trim entries in no_proxy list](https://github.com/SeleniumHQ/selenium/pull/17462) on [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) (today) 
-- [A setup guide for sqlite](https://github.com/mbj/mutant/pull/1629) on [mbj/mutant](https://github.com/mbj/mutant) (today) 
-- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/73) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [Ignore inline notes during Markdown reference parsing](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
-- [Resolve markdown crash for note references in labels](https://github.com/ruby/rdoc/pull/1712) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
-- [Automatically add execution context to Rails.error.context](https://github.com/julik/geneva_drive/pull/27) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (1 day ago) 
-- [Resolve race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (3 days ago) 
+- [Trim entries in no_proxy list](https://github.com/SeleniumHQ/selenium/pull/17462) on [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) (1 day ago) 
+- [A setup guide for sqlite](https://github.com/mbj/mutant/pull/1629) on [mbj/mutant](https://github.com/mbj/mutant) (1 day ago) 
+- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/73) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [Ignore inline notes during Markdown reference parsing](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
+- [Resolve markdown crash for note references in labels](https://github.com/ruby/rdoc/pull/1712) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
+- [Automatically add execution context to Rails.error.context](https://github.com/julik/geneva_drive/pull/27) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (2 days ago) 
+- [Resolve race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (4 days ago) 
 - [mutant reachitecture](https://github.com/skatkov/jekyll-llms/pull/1) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (1 week ago) 
 - [Migrate to ActiveSupport::Notifications](https://github.com/skatkov/webhukhs/pull/16) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago) 
 - [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
