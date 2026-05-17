@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
  
 - [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (today) 
-- [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests? (2 days ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
+- [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests? (2 days ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 weeks ago)
 
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Trim entries in no_proxy list](https://github.com/SeleniumHQ/selenium/pull/17462) on [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) (2 days ago) 
+- [[rb] Trim entries in no_proxy list](https://github.com/SeleniumHQ/selenium/pull/17462) on [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) (2 days ago) 
 - [A setup guide for sqlite](https://github.com/mbj/mutant/pull/1629) on [mbj/mutant](https://github.com/mbj/mutant) (2 days ago) 
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/73) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
 - [Ignore inline notes during Markdown reference parsing](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
