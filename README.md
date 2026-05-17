@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
  
 - [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (today) 
+- [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests? (2 days ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 weeks ago) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago)
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 weeks ago)
 
 #### 🌱 My latest projects
  
