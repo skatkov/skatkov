@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (2 days ago) 
 - [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (1 week ago) 
 - [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests? (1 week ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 week ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (3 weeks ago)
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (4 weeks ago)
 
 #### 🌱 My latest projects
  
@@ -25,10 +25,10 @@
 - [Ignore inline notes during Markdown reference parsing](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Resolve markdown crash for note references in labels](https://github.com/ruby/rdoc/pull/1712) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Automatically add execution context to Rails.error.context](https://github.com/julik/geneva_drive/pull/27) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (1 week ago) 
-- [Resolve race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (1 week ago) 
+- [Resolve race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (2 weeks ago) 
 - [mutant reachitecture](https://github.com/skatkov/jekyll-llms/pull/1) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (3 weeks ago) 
 - [Migrate to ActiveSupport::Notifications](https://github.com/skatkov/webhukhs/pull/16) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 weeks ago) 
-- [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago)
+- [remove minitest harness test](https://github.com/skatkov/rdoc-markdown/pull/72) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago)
 
 #### 📓 Gists I wrote
  
@@ -43,5 +43,5 @@
 - [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (3 months ago)
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (7 months ago)
 - [Ordering Estonian ID on Linux!](https://www.skatkov.com/posts/2025-09-26-using-estonian-id-s-on-linux) (8 months ago)
-- [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (9 months ago)
+- [From zsh to fish shell](https://www.skatkov.com/posts/2025-07-30-moving-from-zsh-to-fish-shell) (10 months ago)
 - [Software License management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies) (1 year ago)
