@@ -4,8 +4,8 @@
  
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (6 days ago) 
 - [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (1 week ago) 
-- [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests? (2 weeks ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 weeks ago) 
+- [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests? (2 weeks ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 month ago)
 
 #### 🌱 My latest projects
