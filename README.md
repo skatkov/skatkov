@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [include markdown files from root-folder](https://github.com/skatkov/rdoc-markdown/pull/77) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Scope classes/module properly](https://github.com/skatkov/rdoc-markdown/pull/76) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [adding linux integration for formula](https://github.com/lightpanda-io/homebrew-browser/pull/98) on [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) (1 day ago) 
 - [[rb] Trim entries in no_proxy list](https://github.com/SeleniumHQ/selenium/pull/17462) on [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) (2 weeks ago) 
@@ -27,8 +28,7 @@
 - [Ignore inline notes during Markdown reference parsing](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago) 
 - [Resolve markdown crash for note references in labels](https://github.com/ruby/rdoc/pull/1712) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago) 
 - [Automatically add execution context to Rails.error.context](https://github.com/julik/geneva_drive/pull/27) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (2 weeks ago) 
-- [Resolve race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (2 weeks ago) 
-- [mutant reachitecture](https://github.com/skatkov/jekyll-llms/pull/1) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (4 weeks ago)
+- [Resolve race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
