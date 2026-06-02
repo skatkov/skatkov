@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) - Homebrew tap for Lightpanda, a headless browser for AI agents and automation. (today) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
+- [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) - Homebrew tap for Lightpanda, a headless browser for AI agents and automation. (1 day ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 week ago) 
 - [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (2 weeks ago) 
 - [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests? (2 weeks ago)
@@ -19,21 +19,21 @@
 
 #### 🔨 My recent Pull Requests
  
-- [include markdown files from root-folder](https://github.com/skatkov/rdoc-markdown/pull/77) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [Scope classes/module properly](https://github.com/skatkov/rdoc-markdown/pull/76) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [adding linux integration for formula](https://github.com/lightpanda-io/homebrew-browser/pull/98) on [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) (1 day ago) 
+- [include markdown files from root-folder](https://github.com/skatkov/rdoc-markdown/pull/77) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Scope classes/module properly](https://github.com/skatkov/rdoc-markdown/pull/76) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [adding linux integration for formula](https://github.com/lightpanda-io/homebrew-browser/pull/98) on [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) (2 days ago) 
 - [[rb] Trim entries in no_proxy list](https://github.com/SeleniumHQ/selenium/pull/17462) on [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) (2 weeks ago) 
 - [A setup guide for sqlite](https://github.com/mbj/mutant/pull/1629) on [mbj/mutant](https://github.com/mbj/mutant) (2 weeks ago) 
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/73) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Ignore inline notes during Markdown reference parsing](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago) 
 - [Resolve markdown crash for note references in labels](https://github.com/ruby/rdoc/pull/1712) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago) 
 - [Automatically add execution context to Rails.error.context](https://github.com/julik/geneva_drive/pull/27) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (2 weeks ago) 
-- [Resolve race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (2 weeks ago)
+- [Resolve race condition](https://github.com/fumeapp/taskin/pull/17) on [fumeapp/taskin](https://github.com/fumeapp/taskin) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
 - [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (2 weeks ago) 
-- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (5 months ago) 
+- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (6 months ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (6 months ago) 
 - [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (1 year ago) 
 - [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (1 year ago)
