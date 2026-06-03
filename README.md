@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
 - [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) - Homebrew tap for Lightpanda, a headless browser for AI agents and automation. (2 days ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 week ago) 
 - [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (2 weeks ago) 
 - [mbj/mutant](https://github.com/mbj/mutant) - Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests? (2 weeks ago)
