@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Change author of Aliki theme](https://github.com/ruby/rdoc/pull/1724) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Markdown unknown tags](https://github.com/skatkov/rdoc-markdown/pull/79) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Guard markdown output directory](https://github.com/skatkov/rdoc-markdown/pull/78) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
 - [include markdown files from root-folder](https://github.com/skatkov/rdoc-markdown/pull/77) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
@@ -27,8 +28,7 @@
 - [[rb] Trim entries in no_proxy list](https://github.com/SeleniumHQ/selenium/pull/17462) on [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) (3 weeks ago) 
 - [A setup guide for sqlite](https://github.com/mbj/mutant/pull/1629) on [mbj/mutant](https://github.com/mbj/mutant) (3 weeks ago) 
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/73) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [Ignore inline notes during Markdown reference parsing](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 weeks ago) 
-- [Resolve markdown crash for note references in labels](https://github.com/ruby/rdoc/pull/1712) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 weeks ago)
+- [Ignore inline notes during Markdown reference parsing](https://github.com/ruby/rdoc/pull/1713) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
