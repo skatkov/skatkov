@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (4 days ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 week ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (2 weeks ago) 
-- [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) - Homebrew tap for Lightpanda, a headless browser for AI agents and automation. (3 weeks ago) 
-- [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (1 month ago)
+- [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) - Homebrew tap for Lightpanda, a headless browser for AI agents and automation. (3 weeks ago)
 
 #### 🌱 My latest projects
  
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [remove routing definition from engine](https://github.com/skatkov/webhukhs/pull/17) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (today) 
 - [handle duplicate method names](https://github.com/skatkov/rdoc-markdown/pull/83) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
 - [rbs integration](https://github.com/skatkov/rdoc-markdown/pull/81) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Guard markdown output directory](https://github.com/skatkov/rdoc-markdown/pull/78) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [include markdown files from root-folder](https://github.com/skatkov/rdoc-markdown/pull/77) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [Scope classes/module properly](https://github.com/skatkov/rdoc-markdown/pull/76) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [adding linux integration for formula](https://github.com/lightpanda-io/homebrew-browser/pull/98) on [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) (3 weeks ago) 
-- [[rb] Trim entries in no_proxy list](https://github.com/SeleniumHQ/selenium/pull/17462) on [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) (1 month ago)
+- [adding linux integration for formula](https://github.com/lightpanda-io/homebrew-browser/pull/98) on [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
