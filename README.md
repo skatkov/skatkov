@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [bugfix: Let draft notes own keys in pager mode](https://github.com/modem-dev/hunk/pull/480) on [modem-dev/hunk](https://github.com/modem-dev/hunk) (today) 
 - [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
 - [remove routing definition from engine](https://github.com/skatkov/webhukhs/pull/17) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
 - [handle duplicate method names](https://github.com/skatkov/rdoc-markdown/pull/83) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
@@ -27,8 +28,7 @@
 - [Markdown unknown tags](https://github.com/skatkov/rdoc-markdown/pull/79) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Guard markdown output directory](https://github.com/skatkov/rdoc-markdown/pull/78) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [include markdown files from root-folder](https://github.com/skatkov/rdoc-markdown/pull/77) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [Scope classes/module properly](https://github.com/skatkov/rdoc-markdown/pull/76) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [adding linux integration for formula](https://github.com/lightpanda-io/homebrew-browser/pull/98) on [lightpanda-io/homebrew-browser](https://github.com/lightpanda-io/homebrew-browser) (3 weeks ago)
+- [Scope classes/module properly](https://github.com/skatkov/rdoc-markdown/pull/76) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
