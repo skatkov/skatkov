@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [handle invalid markdown gracefully](https://github.com/skatkov/jekyll-llms/pull/3) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (today) 
 - [bugfix: Let draft notes own keys in pager mode](https://github.com/modem-dev/hunk/pull/480) on [modem-dev/hunk](https://github.com/modem-dev/hunk) (6 days ago) 
 - [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [remove routing definition from engine](https://github.com/skatkov/webhukhs/pull/17) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Change author of Aliki theme](https://github.com/ruby/rdoc/pull/1724) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 weeks ago) 
 - [Markdown unknown tags](https://github.com/skatkov/rdoc-markdown/pull/79) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [Guard markdown output directory](https://github.com/skatkov/rdoc-markdown/pull/78) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [include markdown files from root-folder](https://github.com/skatkov/rdoc-markdown/pull/77) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago) 
-- [Scope classes/module properly](https://github.com/skatkov/rdoc-markdown/pull/76) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago)
+- [include markdown files from root-folder](https://github.com/skatkov/rdoc-markdown/pull/77) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago)
 
 #### 📓 Gists I wrote
  
