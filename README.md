@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. (today) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (4 days ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 week ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 weeks ago) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (3 weeks ago)
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 weeks ago)
 
 #### 🌱 My latest projects
  
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Types support](https://github.com/skatkov/rdoc-markdown/pull/84) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [handle invalid markdown gracefully](https://github.com/skatkov/jekyll-llms/pull/3) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (today) 
 - [bugfix: Let draft notes own keys in pager mode](https://github.com/modem-dev/hunk/pull/480) on [modem-dev/hunk](https://github.com/modem-dev/hunk) (6 days ago) 
 - [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
@@ -27,8 +28,7 @@
 - [rbs integration](https://github.com/skatkov/rdoc-markdown/pull/81) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Change author of Aliki theme](https://github.com/ruby/rdoc/pull/1724) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 weeks ago) 
 - [Markdown unknown tags](https://github.com/skatkov/rdoc-markdown/pull/79) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [Guard markdown output directory](https://github.com/skatkov/rdoc-markdown/pull/78) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [include markdown files from root-folder](https://github.com/skatkov/rdoc-markdown/pull/77) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago)
+- [Guard markdown output directory](https://github.com/skatkov/rdoc-markdown/pull/78) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
