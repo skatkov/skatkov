@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. (1 day ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 week ago) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 weeks ago)
 
 #### 🌱 My latest projects
