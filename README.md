@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 days ago) 
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (3 days ago) 
-- [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. (4 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 days ago) 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (4 days ago) 
+- [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. (5 days ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 week ago)
 
 #### 🌱 My latest projects
@@ -19,12 +19,12 @@
 
 #### 🔨 My recent Pull Requests
  
-- [adding a better converter for code blocks](https://github.com/skatkov/rdoc-markdown/pull/85) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
-- [Types support](https://github.com/skatkov/rdoc-markdown/pull/84) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
-- [handle invalid markdown gracefully](https://github.com/skatkov/jekyll-llms/pull/3) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (6 days ago) 
+- [adding a better converter for code blocks](https://github.com/skatkov/rdoc-markdown/pull/85) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
+- [Types support](https://github.com/skatkov/rdoc-markdown/pull/84) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
+- [handle invalid markdown gracefully](https://github.com/skatkov/jekyll-llms/pull/3) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (1 week ago) 
 - [bugfix: Let draft notes own keys in pager mode](https://github.com/modem-dev/hunk/pull/480) on [modem-dev/hunk](https://github.com/modem-dev/hunk) (1 week ago) 
-- [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
-- [remove routing definition from engine](https://github.com/skatkov/webhukhs/pull/17) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
+- [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 weeks ago) 
+- [remove routing definition from engine](https://github.com/skatkov/webhukhs/pull/17) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 weeks ago) 
 - [handle duplicate method names](https://github.com/skatkov/rdoc-markdown/pull/83) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [rbs integration](https://github.com/skatkov/rdoc-markdown/pull/81) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [Change author of Aliki theme](https://github.com/ruby/rdoc/pull/1724) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 month ago) 
@@ -40,7 +40,7 @@
 
 #### 📜 My blog posts
 
-- [Mutation testing in the age of LLMs](https://www.skatkov.com/posts/2026-07-01-mutate-all-things) (4 days ago)
+- [Mutation testing in the age of LLMs](https://www.skatkov.com/posts/2026-07-01-mutate-all-things) (5 days ago)
 - [Signing and notarizing a Mac app on Linux](https://www.skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (1 week ago)
 - [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (4 months ago)
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (8 months ago)
