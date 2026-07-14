@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [fix(tables): remove headers if they are empty](https://github.com/charmbracelet/glamour/pull/590) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today) 
 - [Classify some pages as &#34;readme&#34; and &#34;changelog&#34;](https://github.com/skatkov/rdoc-markdown/pull/86) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [adding a better converter for code blocks](https://github.com/skatkov/rdoc-markdown/pull/85) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Types support](https://github.com/skatkov/rdoc-markdown/pull/84) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
@@ -27,8 +28,7 @@
 - [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
 - [remove routing definition from engine](https://github.com/skatkov/webhukhs/pull/17) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 weeks ago) 
 - [handle duplicate method names](https://github.com/skatkov/rdoc-markdown/pull/83) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [rbs integration](https://github.com/skatkov/rdoc-markdown/pull/81) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago) 
-- [Change author of Aliki theme](https://github.com/ruby/rdoc/pull/1724) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 month ago)
+- [rbs integration](https://github.com/skatkov/rdoc-markdown/pull/81) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 month ago)
 
 #### 📓 Gists I wrote
  
