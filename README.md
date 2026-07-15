@@ -32,11 +32,11 @@
 
 #### 📓 Gists I wrote
  
+- [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (today) 
 - [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (1 month ago) 
 - [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (7 months ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (8 months ago) 
-- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (1 year ago) 
-- [Method detection code](https://gist.github.com/83648df077c94560af0e2eec95a855b1) (1 year ago)
+- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (1 year ago)
 
 #### 📜 My blog posts
 
