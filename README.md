@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 week ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 weeks ago) 
 - [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. (2 weeks ago) 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Metadata for class/modules](https://github.com/skatkov/rdoc-markdown/pull/87) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [upgrade goldmark to v1.8.4](https://github.com/charmbracelet/glamour/pull/591) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago) 
 - [fix(tables): remove headers if they are empty](https://github.com/charmbracelet/glamour/pull/590) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago) 
 - [Classify some pages as &#34;readme&#34; and &#34;changelog&#34;](https://github.com/skatkov/rdoc-markdown/pull/86) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
@@ -27,8 +28,7 @@
 - [handle invalid markdown gracefully](https://github.com/skatkov/jekyll-llms/pull/3) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (2 weeks ago) 
 - [bugfix: Let draft notes own keys in pager mode](https://github.com/modem-dev/hunk/pull/480) on [modem-dev/hunk](https://github.com/modem-dev/hunk) (3 weeks ago) 
 - [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
-- [remove routing definition from engine](https://github.com/skatkov/webhukhs/pull/17) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 weeks ago) 
-- [handle duplicate method names](https://github.com/skatkov/rdoc-markdown/pull/83) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 weeks ago)
+- [remove routing definition from engine](https://github.com/skatkov/webhukhs/pull/17) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
