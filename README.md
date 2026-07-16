@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
-- [skatkov/opencode-lightanda](https://github.com/skatkov/opencode-lightanda) -  (today) 
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (today) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 weeks ago) 
 - [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. (2 weeks ago)
 
 #### 🌱 My latest projects
  
-- [skatkov/opencode-lightanda](https://github.com/skatkov/opencode-lightanda) -  
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. 
 - [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. 
 - [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files 
 - [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37390) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (today) 
 - [Metadata for class/modules](https://github.com/skatkov/rdoc-markdown/pull/87) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [upgrade goldmark to v1.8.4](https://github.com/charmbracelet/glamour/pull/591) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago) 
 - [fix(tables): remove headers if they are empty](https://github.com/charmbracelet/glamour/pull/590) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago) 
@@ -27,8 +28,7 @@
 - [Types support](https://github.com/skatkov/rdoc-markdown/pull/84) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [handle invalid markdown gracefully](https://github.com/skatkov/jekyll-llms/pull/3) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (2 weeks ago) 
 - [bugfix: Let draft notes own keys in pager mode](https://github.com/modem-dev/hunk/pull/480) on [modem-dev/hunk](https://github.com/modem-dev/hunk) (3 weeks ago) 
-- [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago) 
-- [remove routing definition from engine](https://github.com/skatkov/webhukhs/pull/17) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 weeks ago)
+- [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
