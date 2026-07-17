@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37467) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (today) 
 - [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37390) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 day ago) 
 - [Metadata for class/modules](https://github.com/skatkov/rdoc-markdown/pull/87) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [upgrade goldmark to v1.8.4](https://github.com/charmbracelet/glamour/pull/591) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago) 
@@ -27,8 +28,7 @@
 - [adding a better converter for code blocks](https://github.com/skatkov/rdoc-markdown/pull/85) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Types support](https://github.com/skatkov/rdoc-markdown/pull/84) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [handle invalid markdown gracefully](https://github.com/skatkov/jekyll-llms/pull/3) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (2 weeks ago) 
-- [bugfix: Let draft notes own keys in pager mode](https://github.com/modem-dev/hunk/pull/480) on [modem-dev/hunk](https://github.com/modem-dev/hunk) (3 weeks ago) 
-- [Address lint offense](https://github.com/skatkov/devtui/pull/212) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 weeks ago)
+- [bugfix: Let draft notes own keys in pager mode](https://github.com/modem-dev/hunk/pull/480) on [modem-dev/hunk](https://github.com/modem-dev/hunk) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
