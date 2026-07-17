@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (today) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 weeks ago) 
 - [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. (2 weeks ago)
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [only table-sensitive |, \, and line breaks are escaped.](https://github.com/skatkov/rdoc-markdown/pull/88) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37467) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (today) 
 - [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37390) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 day ago) 
 - [Metadata for class/modules](https://github.com/skatkov/rdoc-markdown/pull/87) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Classify some pages as &#34;readme&#34; and &#34;changelog&#34;](https://github.com/skatkov/rdoc-markdown/pull/86) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [adding a better converter for code blocks](https://github.com/skatkov/rdoc-markdown/pull/85) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [Types support](https://github.com/skatkov/rdoc-markdown/pull/84) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [handle invalid markdown gracefully](https://github.com/skatkov/jekyll-llms/pull/3) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (2 weeks ago) 
-- [bugfix: Let draft notes own keys in pager mode](https://github.com/modem-dev/hunk/pull/480) on [modem-dev/hunk](https://github.com/modem-dev/hunk) (3 weeks ago)
+- [handle invalid markdown gracefully](https://github.com/skatkov/jekyll-llms/pull/3) on [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
