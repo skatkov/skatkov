@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [no new lines in case metadata is missing](https://github.com/skatkov/rdoc-markdown/pull/89) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Terminate long-running Lightpanda fetches](https://github.com/skatkov/opencode-lightpanda/pull/3) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (2 days ago) 
 - [Rewrite google searches (in progress)](https://github.com/skatkov/opencode-lightpanda/pull/2) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (2 days ago) 
 - [only table-sensitive |, \, and line breaks are escaped.](https://github.com/skatkov/rdoc-markdown/pull/88) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
@@ -27,8 +28,7 @@
 - [Metadata for class/modules](https://github.com/skatkov/rdoc-markdown/pull/87) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
 - [upgrade goldmark to v1.8.4](https://github.com/charmbracelet/glamour/pull/591) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago) 
 - [fix(tables): remove headers if they are empty](https://github.com/charmbracelet/glamour/pull/590) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (5 days ago) 
-- [Classify some pages as &#34;readme&#34; and &#34;changelog&#34;](https://github.com/skatkov/rdoc-markdown/pull/86) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [adding a better converter for code blocks](https://github.com/skatkov/rdoc-markdown/pull/85) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
+- [Classify some pages as &#34;readme&#34; and &#34;changelog&#34;](https://github.com/skatkov/rdoc-markdown/pull/86) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
