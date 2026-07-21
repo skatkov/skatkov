@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Validate and fix cross-ref between docs](https://github.com/skatkov/rdoc-markdown/pull/91) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/90) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [no new lines in case metadata is missing](https://github.com/skatkov/rdoc-markdown/pull/89) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [Terminate long-running Lightpanda fetches](https://github.com/skatkov/opencode-lightpanda/pull/3) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (4 days ago) 
@@ -27,8 +28,7 @@
 - [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37467) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 days ago) 
 - [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37390) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (5 days ago) 
 - [Metadata for class/modules](https://github.com/skatkov/rdoc-markdown/pull/87) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
-- [upgrade goldmark to v1.8.4](https://github.com/charmbracelet/glamour/pull/591) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (6 days ago) 
-- [fix(tables): remove headers if they are empty](https://github.com/charmbracelet/glamour/pull/590) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 week ago)
+- [upgrade goldmark to v1.8.4](https://github.com/charmbracelet/glamour/pull/591) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (6 days ago)
 
 #### 📓 Gists I wrote
  
