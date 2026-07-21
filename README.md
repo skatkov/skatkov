@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [remove rdoc7 support](https://github.com/skatkov/rdoc-markdown/pull/93) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [agents to use --since during mutant run](https://github.com/skatkov/rdoc-markdown/pull/92) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Validate and fix cross-ref between docs](https://github.com/skatkov/rdoc-markdown/pull/91) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/90) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
@@ -27,8 +28,7 @@
 - [Rewrite google searches (in progress)](https://github.com/skatkov/opencode-lightpanda/pull/2) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (4 days ago) 
 - [only table-sensitive |, \, and line breaks are escaped.](https://github.com/skatkov/rdoc-markdown/pull/88) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
 - [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37467) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 days ago) 
-- [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37390) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (5 days ago) 
-- [Metadata for class/modules](https://github.com/skatkov/rdoc-markdown/pull/87) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago)
+- [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37390) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (5 days ago)
 
 #### 📓 Gists I wrote
  
