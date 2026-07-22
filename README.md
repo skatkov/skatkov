@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Regression: Parse methods inside ActiveSupport::Concern included blocks](https://github.com/ruby/rdoc/pull/1753) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Removed the entire legacy-path pipeline and redundant canonical-path …](https://github.com/skatkov/rdoc-markdown/pull/94) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [remove rdoc7 support](https://github.com/skatkov/rdoc-markdown/pull/93) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [agents to use --since during mutant run](https://github.com/skatkov/rdoc-markdown/pull/92) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
@@ -27,8 +28,7 @@
 - [no new lines in case metadata is missing](https://github.com/skatkov/rdoc-markdown/pull/89) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
 - [Terminate long-running Lightpanda fetches](https://github.com/skatkov/opencode-lightpanda/pull/3) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (5 days ago) 
 - [Rewrite google searches (in progress)](https://github.com/skatkov/opencode-lightpanda/pull/2) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (5 days ago) 
-- [only table-sensitive |, \, and line breaks are escaped.](https://github.com/skatkov/rdoc-markdown/pull/88) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
-- [docs: Adding opencode-lightpanda plugin/tool to ecosystem page.](https://github.com/anomalyco/opencode/pull/37467) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (5 days ago)
+- [only table-sensitive |, \, and line breaks are escaped.](https://github.com/skatkov/rdoc-markdown/pull/88) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago)
 
 #### 📓 Gists I wrote
  
