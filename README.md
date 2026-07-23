@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
-- [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  (1 day ago) 
-- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (4 days ago) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 weeks ago) 
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 weeks ago)
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
+- [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  (2 days ago) 
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (5 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 weeks ago) 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (3 weeks ago)
 
 #### 🌱 My latest projects
  
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Regression: Parse methods inside ActiveSupport::Concern included blocks](https://github.com/ruby/rdoc/pull/1753) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
-- [Removed the entire legacy-path pipeline and redundant canonical-path …](https://github.com/skatkov/rdoc-markdown/pull/94) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [remove rdoc7 support](https://github.com/skatkov/rdoc-markdown/pull/93) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [agents to use --since during mutant run](https://github.com/skatkov/rdoc-markdown/pull/92) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [Validate and fix cross-ref between docs](https://github.com/skatkov/rdoc-markdown/pull/91) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/90) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [no new lines in case metadata is missing](https://github.com/skatkov/rdoc-markdown/pull/89) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Terminate long-running Lightpanda fetches](https://github.com/skatkov/opencode-lightpanda/pull/3) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (5 days ago) 
-- [Rewrite google searches (in progress)](https://github.com/skatkov/opencode-lightpanda/pull/2) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (5 days ago) 
-- [only table-sensitive |, \, and line breaks are escaped.](https://github.com/skatkov/rdoc-markdown/pull/88) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago)
+- [Regression: Parse methods inside ActiveSupport::Concern included blocks](https://github.com/ruby/rdoc/pull/1753) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
+- [Removed the entire legacy-path pipeline and redundant canonical-path …](https://github.com/skatkov/rdoc-markdown/pull/94) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [remove rdoc7 support](https://github.com/skatkov/rdoc-markdown/pull/93) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [agents to use --since during mutant run](https://github.com/skatkov/rdoc-markdown/pull/92) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [Validate and fix cross-ref between docs](https://github.com/skatkov/rdoc-markdown/pull/91) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/90) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [no new lines in case metadata is missing](https://github.com/skatkov/rdoc-markdown/pull/89) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [Terminate long-running Lightpanda fetches](https://github.com/skatkov/opencode-lightpanda/pull/3) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (6 days ago) 
+- [Rewrite google searches (in progress)](https://github.com/skatkov/opencode-lightpanda/pull/2) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (6 days ago) 
+- [only table-sensitive |, \, and line breaks are escaped.](https://github.com/skatkov/rdoc-markdown/pull/88) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago)
 
 #### 📓 Gists I wrote
  
@@ -42,6 +42,6 @@
 
 - [Snooping on GitHits.com](https://www.skatkov.com/posts/2026-07-15-snooping-on-githits) (1 week ago)
 - [Mutation testing in the age of LLMs](https://www.skatkov.com/posts/2026-07-01-mutate-all-things) (3 weeks ago)
-- [Signing and notarizing a Mac app on Linux](https://www.skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (3 weeks ago)
+- [Signing and notarizing a Mac app on Linux](https://www.skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (4 weeks ago)
 - [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (5 months ago)
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (9 months ago)
