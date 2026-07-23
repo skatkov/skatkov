@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  (2 days ago) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (5 days ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 weeks ago) 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Remove special file type, just go with &#39;file&#39; for everything](https://github.com/skatkov/rdoc-markdown/pull/95) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Regression: Parse methods inside ActiveSupport::Concern included blocks](https://github.com/ruby/rdoc/pull/1753) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
 - [Removed the entire legacy-path pipeline and redundant canonical-path …](https://github.com/skatkov/rdoc-markdown/pull/94) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [remove rdoc7 support](https://github.com/skatkov/rdoc-markdown/pull/93) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
@@ -27,8 +28,7 @@
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/90) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [no new lines in case metadata is missing](https://github.com/skatkov/rdoc-markdown/pull/89) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
 - [Terminate long-running Lightpanda fetches](https://github.com/skatkov/opencode-lightpanda/pull/3) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (6 days ago) 
-- [Rewrite google searches (in progress)](https://github.com/skatkov/opencode-lightpanda/pull/2) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (6 days ago) 
-- [only table-sensitive |, \, and line breaks are escaped.](https://github.com/skatkov/rdoc-markdown/pull/88) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago)
+- [Rewrite google searches (in progress)](https://github.com/skatkov/opencode-lightpanda/pull/2) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (6 days ago)
 
 #### 📓 Gists I wrote
  
