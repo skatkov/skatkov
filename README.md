@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
 - [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  (1 week ago) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 week ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 weeks ago)
@@ -19,11 +19,11 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Update CHANGELOG.md](https://github.com/skatkov/rdoc-markdown/pull/98) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [remove external namespaces from documentation](https://github.com/skatkov/rdoc-markdown/pull/97) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
-- [Copy markdown files](https://github.com/skatkov/rdoc-markdown/pull/96) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
-- [Remove special file type, just go with &#39;file&#39; for everything](https://github.com/skatkov/rdoc-markdown/pull/95) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
-- [Regression: Parse methods inside ActiveSupport::Concern included blocks](https://github.com/ruby/rdoc/pull/1753) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
+- [Update CHANGELOG.md](https://github.com/skatkov/rdoc-markdown/pull/98) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [remove external namespaces from documentation](https://github.com/skatkov/rdoc-markdown/pull/97) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
+- [Copy markdown files](https://github.com/skatkov/rdoc-markdown/pull/96) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
+- [Remove special file type, just go with &#39;file&#39; for everything](https://github.com/skatkov/rdoc-markdown/pull/95) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
+- [Regression: Parse methods inside ActiveSupport::Concern included blocks](https://github.com/ruby/rdoc/pull/1753) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Removed the entire legacy-path pipeline and redundant canonical-path …](https://github.com/skatkov/rdoc-markdown/pull/94) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [remove rdoc7 support](https://github.com/skatkov/rdoc-markdown/pull/93) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [agents to use --since during mutant run](https://github.com/skatkov/rdoc-markdown/pull/92) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
@@ -32,7 +32,7 @@
 
 #### 📓 Gists I wrote
  
-- [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (1 week ago) 
+- [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (2 weeks ago) 
 - [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (2 months ago) 
 - [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (7 months ago) 
 - [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (8 months ago) 
@@ -40,8 +40,8 @@
 
 #### 📜 My blog posts
 
-- [Snooping on GitHits.com](https://www.skatkov.com/posts/2026-07-15-snooping-on-githits) (1 week ago)
-- [Mutation testing in the age of LLMs](https://www.skatkov.com/posts/2026-07-01-mutate-all-things) (3 weeks ago)
+- [Snooping on GitHits.com](https://www.skatkov.com/posts/2026-07-15-snooping-on-githits) (2 weeks ago)
+- [Mutation testing in the age of LLMs](https://www.skatkov.com/posts/2026-07-01-mutate-all-things) (4 weeks ago)
 - [Signing and notarizing a Mac app on Linux](https://www.skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (1 month ago)
 - [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (5 months ago)
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (9 months ago)
