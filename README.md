@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [proper headings structure](https://github.com/skatkov/rdoc-markdown/pull/99) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Update CHANGELOG.md](https://github.com/skatkov/rdoc-markdown/pull/98) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [remove external namespaces from documentation](https://github.com/skatkov/rdoc-markdown/pull/97) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [Copy markdown files](https://github.com/skatkov/rdoc-markdown/pull/96) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Removed the entire legacy-path pipeline and redundant canonical-path …](https://github.com/skatkov/rdoc-markdown/pull/94) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [remove rdoc7 support](https://github.com/skatkov/rdoc-markdown/pull/93) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [agents to use --since during mutant run](https://github.com/skatkov/rdoc-markdown/pull/92) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Validate and fix cross-ref between docs](https://github.com/skatkov/rdoc-markdown/pull/91) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/90) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
+- [Validate and fix cross-ref between docs](https://github.com/skatkov/rdoc-markdown/pull/91) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
