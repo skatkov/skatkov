@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  (2 weeks ago) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (2 weeks ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago)
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Simplify README.md](https://github.com/skatkov/rdoc-markdown/pull/100) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [proper headings structure](https://github.com/skatkov/rdoc-markdown/pull/99) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
 - [Update CHANGELOG.md](https://github.com/skatkov/rdoc-markdown/pull/98) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
 - [remove external namespaces from documentation](https://github.com/skatkov/rdoc-markdown/pull/97) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Regression: Parse methods inside ActiveSupport::Concern included blocks](https://github.com/ruby/rdoc/pull/1753) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Removed the entire legacy-path pipeline and redundant canonical-path …](https://github.com/skatkov/rdoc-markdown/pull/94) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
 - [remove rdoc7 support](https://github.com/skatkov/rdoc-markdown/pull/93) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [agents to use --since during mutant run](https://github.com/skatkov/rdoc-markdown/pull/92) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [Validate and fix cross-ref between docs](https://github.com/skatkov/rdoc-markdown/pull/91) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
+- [agents to use --since during mutant run](https://github.com/skatkov/rdoc-markdown/pull/92) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
