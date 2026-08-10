@@ -6,7 +6,7 @@
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (5 days ago) 
 - [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  (2 weeks ago) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (3 weeks ago) 
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (1 month ago)
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 month ago)
 
 #### 🌱 My latest projects
  
