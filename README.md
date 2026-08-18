@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Deduplicate symlinked source files before parsing](https://github.com/ruby/rdoc/pull/1777) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
 - [Improve markdown copying](https://github.com/skatkov/yard-markdown/pull/42) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
 - [Add per-step Active Job priority overrides](https://github.com/julik/geneva_drive/pull/34) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (4 days ago) 
@@ -27,8 +28,7 @@
 - [Fixes installation failures caused by missing coverage profile types and parsing logic](https://github.com/gooze-dev/gooze/pull/31) on [gooze-dev/gooze](https://github.com/gooze-dev/gooze) (1 week ago) 
 - [Metadata](https://github.com/skatkov/yard-markdown/pull/40) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Inclusion in templates without lint violations](https://github.com/skatkov/yard-markdown/pull/39) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [Simplify README.md](https://github.com/skatkov/rdoc-markdown/pull/100) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
-- [proper headings structure](https://github.com/skatkov/rdoc-markdown/pull/99) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
+- [Simplify README.md](https://github.com/skatkov/rdoc-markdown/pull/100) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
