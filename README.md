@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [docs: add RDoc singleton-method directives for ActiveRecord::Core](https://github.com/rails/rails/pull/58515) on [rails/rails](https://github.com/rails/rails) (today) 
 - [Simplification](https://github.com/skatkov/yard-markdown/pull/44) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Simplifies repository configuration, packaging, generator internals, and test support ](https://github.com/skatkov/rdoc-markdown/pull/103) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [refactoring with reek](https://github.com/skatkov/yard-markdown/pull/43) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
@@ -27,8 +28,7 @@
 - [Improve markdown copying](https://github.com/skatkov/yard-markdown/pull/42) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
 - [Add per-step Active Job priority overrides](https://github.com/julik/geneva_drive/pull/34) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (5 days ago) 
 - [Update AGENTS.md](https://github.com/skatkov/rdoc-markdown/pull/101) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
-- [Include markdown files](https://github.com/skatkov/yard-markdown/pull/41) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
-- [Fixes installation failures caused by missing coverage profile types and parsing logic](https://github.com/gooze-dev/gooze/pull/31) on [gooze-dev/gooze](https://github.com/gooze-dev/gooze) (1 week ago)
+- [Include markdown files](https://github.com/skatkov/yard-markdown/pull/41) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago)
 
 #### 📓 Gists I wrote
  
