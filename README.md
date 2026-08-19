@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (today) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (4 days ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (5 days ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (5 days ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (6 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (6 days ago) 
 - [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -19,15 +19,15 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [Deduplicate symlinked source files before parsing](https://github.com/ruby/rdoc/pull/1777) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
-- [Improve markdown copying](https://github.com/skatkov/yard-markdown/pull/42) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
-- [Add per-step Active Job priority overrides](https://github.com/julik/geneva_drive/pull/34) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (4 days ago) 
-- [Update AGENTS.md](https://github.com/skatkov/rdoc-markdown/pull/101) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
-- [Include markdown files](https://github.com/skatkov/yard-markdown/pull/41) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
+- [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Deduplicate symlinked source files before parsing](https://github.com/ruby/rdoc/pull/1777) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
+- [Improve markdown copying](https://github.com/skatkov/yard-markdown/pull/42) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
+- [Add per-step Active Job priority overrides](https://github.com/julik/geneva_drive/pull/34) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (5 days ago) 
+- [Update AGENTS.md](https://github.com/skatkov/rdoc-markdown/pull/101) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
+- [Include markdown files](https://github.com/skatkov/yard-markdown/pull/41) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
 - [Fixes installation failures caused by missing coverage profile types and parsing logic](https://github.com/gooze-dev/gooze/pull/31) on [gooze-dev/gooze](https://github.com/gooze-dev/gooze) (1 week ago) 
 - [Metadata](https://github.com/skatkov/yard-markdown/pull/40) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [Inclusion in templates without lint violations](https://github.com/skatkov/yard-markdown/pull/39) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
+- [Inclusion in templates without lint violations](https://github.com/skatkov/yard-markdown/pull/39) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago) 
 - [Simplify README.md](https://github.com/skatkov/rdoc-markdown/pull/100) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
 
 #### 📓 Gists I wrote
