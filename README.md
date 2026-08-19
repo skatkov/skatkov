@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (6 days ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (6 days ago) 
 - [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [refactoring with reek](https://github.com/skatkov/yard-markdown/pull/43) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Deduplicate symlinked source files before parsing](https://github.com/ruby/rdoc/pull/1777) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
 - [Improve markdown copying](https://github.com/skatkov/yard-markdown/pull/42) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
@@ -27,8 +28,7 @@
 - [Include markdown files](https://github.com/skatkov/yard-markdown/pull/41) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
 - [Fixes installation failures caused by missing coverage profile types and parsing logic](https://github.com/gooze-dev/gooze/pull/31) on [gooze-dev/gooze](https://github.com/gooze-dev/gooze) (1 week ago) 
 - [Metadata](https://github.com/skatkov/yard-markdown/pull/40) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [Inclusion in templates without lint violations](https://github.com/skatkov/yard-markdown/pull/39) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago) 
-- [Simplify README.md](https://github.com/skatkov/rdoc-markdown/pull/100) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago)
+- [Inclusion in templates without lint violations](https://github.com/skatkov/yard-markdown/pull/39) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
