@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Simplification](https://github.com/skatkov/yard-markdown/pull/44) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
+- [Simplifies repository configuration, packaging, generator internals, and test support ](https://github.com/skatkov/rdoc-markdown/pull/103) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [refactoring with reek](https://github.com/skatkov/yard-markdown/pull/43) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Deduplicate symlinked source files before parsing](https://github.com/ruby/rdoc/pull/1777) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
@@ -26,9 +28,7 @@
 - [Add per-step Active Job priority overrides](https://github.com/julik/geneva_drive/pull/34) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (5 days ago) 
 - [Update AGENTS.md](https://github.com/skatkov/rdoc-markdown/pull/101) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [Include markdown files](https://github.com/skatkov/yard-markdown/pull/41) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
-- [Fixes installation failures caused by missing coverage profile types and parsing logic](https://github.com/gooze-dev/gooze/pull/31) on [gooze-dev/gooze](https://github.com/gooze-dev/gooze) (1 week ago) 
-- [Metadata](https://github.com/skatkov/yard-markdown/pull/40) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [Inclusion in templates without lint violations](https://github.com/skatkov/yard-markdown/pull/39) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago)
+- [Fixes installation failures caused by missing coverage profile types and parsing logic](https://github.com/gooze-dev/gooze/pull/31) on [gooze-dev/gooze](https://github.com/gooze-dev/gooze) (1 week ago)
 
 #### 📓 Gists I wrote
  
