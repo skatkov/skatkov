@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (1 day ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
+- [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (1 day ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (2 days ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 week ago)
