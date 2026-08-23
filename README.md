@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 day ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (3 days ago) 
-- [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (3 days ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (3 days ago) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (4 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (2 days ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (4 days ago) 
+- [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (4 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (4 days ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (5 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,13 +19,13 @@
 
 #### 🔨 My recent Pull Requests
  
-- [fix(config): type retry durations as strings in schema](https://github.com/goreleaser/goreleaser/pull/6801) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (2 days ago) 
-- [docs: add RDoc singleton-method directives for ActiveRecord::Core](https://github.com/rails/rails/pull/58515) on [rails/rails](https://github.com/rails/rails) (3 days ago) 
-- [Simplification](https://github.com/skatkov/yard-markdown/pull/44) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 days ago) 
-- [Simplifies repository configuration, packaging, generator internals, and test support ](https://github.com/skatkov/rdoc-markdown/pull/103) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [refactoring with reek](https://github.com/skatkov/yard-markdown/pull/43) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 days ago) 
-- [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Deduplicate symlinked source files before parsing](https://github.com/ruby/rdoc/pull/1777) on [ruby/rdoc](https://github.com/ruby/rdoc) (5 days ago) 
+- [fix(config): type retry durations as strings in schema](https://github.com/goreleaser/goreleaser/pull/6801) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (3 days ago) 
+- [docs: add RDoc singleton-method directives for ActiveRecord::Core](https://github.com/rails/rails/pull/58515) on [rails/rails](https://github.com/rails/rails) (4 days ago) 
+- [Simplification](https://github.com/skatkov/yard-markdown/pull/44) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
+- [Simplifies repository configuration, packaging, generator internals, and test support ](https://github.com/skatkov/rdoc-markdown/pull/103) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [refactoring with reek](https://github.com/skatkov/yard-markdown/pull/43) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
+- [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Deduplicate symlinked source files before parsing](https://github.com/ruby/rdoc/pull/1777) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
 - [Improve markdown copying](https://github.com/skatkov/yard-markdown/pull/42) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Add per-step Active Job priority overrides](https://github.com/julik/geneva_drive/pull/34) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (1 week ago) 
 - [Update AGENTS.md](https://github.com/skatkov/rdoc-markdown/pull/101) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
