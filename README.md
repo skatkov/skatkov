@@ -4,17 +4,17 @@
  
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
+- [skatkov/mutant-action](https://github.com/skatkov/mutant-action) - Opinionated incremental GitHub Action for Ruby Mutant (today) 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (3 days ago) 
-- [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (5 days ago) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (6 days ago)
+- [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (5 days ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/mutant-action](https://github.com/skatkov/mutant-action) - Opinionated incremental GitHub Action for Ruby Mutant 
 - [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. 
 - [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. 
-- [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files 
-- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment
+- [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files
 
 
 #### 🔨 My recent Pull Requests
