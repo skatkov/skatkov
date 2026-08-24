@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
 - [skatkov/mutant-action](https://github.com/skatkov/mutant-action) - Opinionated incremental GitHub Action for Ruby Mutant (today) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (3 days ago) 
 - [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (5 days ago)
 
