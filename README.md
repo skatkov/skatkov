@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (3 days ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago) 
 - [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (5 days ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (6 days ago)
 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [exclude bundled gems from yard lint](https://github.com/skatkov/yard-markdown/pull/45) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [remove options class, don&#39;t modify parsing style](https://github.com/skatkov/rdoc-markdown/pull/104) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [fix(config): type retry durations as strings in schema](https://github.com/goreleaser/goreleaser/pull/6801) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (4 days ago) 
 - [docs: add RDoc singleton-method directives for ActiveRecord::Core](https://github.com/rails/rails/pull/58515) on [rails/rails](https://github.com/rails/rails) (5 days ago) 
@@ -27,8 +28,7 @@
 - [refactoring with reek](https://github.com/skatkov/yard-markdown/pull/43) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
 - [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [Deduplicate symlinked source files before parsing](https://github.com/ruby/rdoc/pull/1777) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Improve markdown copying](https://github.com/skatkov/yard-markdown/pull/42) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [Add per-step Active Job priority overrides](https://github.com/julik/geneva_drive/pull/34) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (1 week ago)
+- [Improve markdown copying](https://github.com/skatkov/yard-markdown/pull/42) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
