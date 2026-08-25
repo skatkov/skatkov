@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [adding ruby-lsp to developer bundle](https://github.com/skatkov/rdoc-markdown/pull/106) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [keep full basename of a file, don&#39;t cut extensions](https://github.com/skatkov/rdoc-markdown/pull/105) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [exclude bundled gems from yard lint](https://github.com/skatkov/yard-markdown/pull/45) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
 - [remove options class, don&#39;t modify parsing style](https://github.com/skatkov/rdoc-markdown/pull/104) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
 - [fix(config): type retry durations as strings in schema](https://github.com/goreleaser/goreleaser/pull/6801) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (5 days ago) 
@@ -26,9 +28,7 @@
 - [Simplification](https://github.com/skatkov/yard-markdown/pull/44) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
 - [Simplifies repository configuration, packaging, generator internals, and test support ](https://github.com/skatkov/rdoc-markdown/pull/103) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [refactoring with reek](https://github.com/skatkov/yard-markdown/pull/43) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
-- [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Deduplicate symlinked source files before parsing](https://github.com/ruby/rdoc/pull/1777) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Improve markdown copying](https://github.com/skatkov/yard-markdown/pull/42) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago)
+- [Adding reek](https://github.com/skatkov/rdoc-markdown/pull/102) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
