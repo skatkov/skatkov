@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (today) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [skatkov/mutant-action](https://github.com/skatkov/mutant-action) - Opinionated incremental GitHub Action for Ruby Mutant (1 day ago) 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (4 days ago) 
-- [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (6 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (4 days ago)
 
 #### 🌱 My latest projects
  
