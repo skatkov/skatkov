@@ -2,23 +2,24 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
+- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (today) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
 - [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (1 day ago) 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (5 days ago) 
-- [julik/geneva_drive](https://github.com/julik/geneva_drive) - Durable execution workflows for Rails (1 week ago)
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (5 days ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  
 - [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. 
 - [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website. 
-- [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files 
-- [skatkov/frontgo](https://github.com/skatkov/frontgo) - API wrapper for Front Go Payment
+- [skatkov/sepatui](https://github.com/skatkov/sepatui) - A Terminal User Interface (TUI) application for viewing and analyzing SEPA XML payment files
 
 
 #### 🔨 My recent Pull Requests
  
+- [Reduce memory allocations for RI and POT generators](https://github.com/ruby/rdoc/pull/1788) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Preserve default encodings when initializing Yardoc](https://github.com/lsegal/yard/pull/1709) on [lsegal/yard](https://github.com/lsegal/yard) (1 day ago) 
 - [Fix duplicated range warning in HybridMarkdown](https://github.com/lsegal/yard/pull/1708) on [lsegal/yard](https://github.com/lsegal/yard) (1 day ago) 
 - [isolate tag formatting tests from YARD registry](https://github.com/skatkov/yard-markdown/pull/46) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
@@ -27,8 +28,7 @@
 - [keep full basename of a file, don&#39;t cut extensions](https://github.com/skatkov/rdoc-markdown/pull/105) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [exclude bundled gems from yard lint](https://github.com/skatkov/yard-markdown/pull/45) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
 - [remove options class, don&#39;t modify parsing style](https://github.com/skatkov/rdoc-markdown/pull/104) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [fix(config): type retry durations as strings in schema](https://github.com/goreleaser/goreleaser/pull/6801) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (6 days ago) 
-- [docs: add RDoc singleton-method directives for ActiveRecord::Core](https://github.com/rails/rails/pull/58515) on [rails/rails](https://github.com/rails/rails) (1 week ago)
+- [fix(config): type retry durations as strings in schema](https://github.com/goreleaser/goreleaser/pull/6801) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (6 days ago)
 
 #### 📓 Gists I wrote
  
