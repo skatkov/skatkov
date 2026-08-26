@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-page-lookup-benchmark](https://github.com/skatkov/rdoc-page-lookup-benchmark) -  (today) 
 - [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (today) 
 - [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (today) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
-- [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (1 day ago)
+- [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (1 day ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago)
 
 #### 🌱 My latest projects
  
-- [skatkov/rdoc-page-lookup-benchmark](https://github.com/skatkov/rdoc-page-lookup-benchmark) -  
 - [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  
 - [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  
 - [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  
-- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode.
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. 
+- [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website.
 
 
 #### 🔨 My recent Pull Requests
