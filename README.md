@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
  
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
-- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (1 day ago) 
 - [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (1 day ago) 
+- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (1 day ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 days ago) 
 - [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (2 days ago)
 
