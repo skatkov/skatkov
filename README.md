@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (today) 
-- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (today) 
-- [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (today) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
-- [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (1 day ago)
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
+- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (1 day ago) 
+- [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 days ago) 
+- [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (2 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [POT serialization optimization (with 87% improvement)](https://github.com/ruby/rdoc/pull/1789) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
-- [Reduce memory allocations for RI and POT generators](https://github.com/ruby/rdoc/pull/1788) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
-- [Preserve default encodings when initializing Yardoc](https://github.com/lsegal/yard/pull/1709) on [lsegal/yard](https://github.com/lsegal/yard) (1 day ago) 
-- [Fix duplicated range warning in HybridMarkdown](https://github.com/lsegal/yard/pull/1708) on [lsegal/yard](https://github.com/lsegal/yard) (1 day ago) 
-- [isolate tag formatting tests from YARD registry](https://github.com/skatkov/yard-markdown/pull/46) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
-- [Speed up CI](https://github.com/skatkov/rdoc-markdown/pull/107) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [adding ruby-lsp to developer bundle](https://github.com/skatkov/rdoc-markdown/pull/106) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [keep full basename of a file, don&#39;t cut extensions](https://github.com/skatkov/rdoc-markdown/pull/105) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [exclude bundled gems from yard lint](https://github.com/skatkov/yard-markdown/pull/45) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
-- [remove options class, don&#39;t modify parsing style](https://github.com/skatkov/rdoc-markdown/pull/104) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago)
+- [POT serialization optimization (with 87% improvement)](https://github.com/ruby/rdoc/pull/1789) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
+- [Reduce memory allocations for RI and POT generators](https://github.com/ruby/rdoc/pull/1788) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
+- [Preserve default encodings when initializing Yardoc](https://github.com/lsegal/yard/pull/1709) on [lsegal/yard](https://github.com/lsegal/yard) (2 days ago) 
+- [Fix duplicated range warning in HybridMarkdown](https://github.com/lsegal/yard/pull/1708) on [lsegal/yard](https://github.com/lsegal/yard) (2 days ago) 
+- [isolate tag formatting tests from YARD registry](https://github.com/skatkov/yard-markdown/pull/46) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
+- [Speed up CI](https://github.com/skatkov/rdoc-markdown/pull/107) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [adding ruby-lsp to developer bundle](https://github.com/skatkov/rdoc-markdown/pull/106) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [keep full basename of a file, don&#39;t cut extensions](https://github.com/skatkov/rdoc-markdown/pull/105) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [exclude bundled gems from yard lint](https://github.com/skatkov/yard-markdown/pull/45) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 days ago) 
+- [remove options class, don&#39;t modify parsing style](https://github.com/skatkov/rdoc-markdown/pull/104) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago)
 
 #### 📓 Gists I wrote
  
