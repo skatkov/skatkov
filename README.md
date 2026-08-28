@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Lazy code colorization](https://github.com/ruby/rdoc/pull/1792) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Index now uses root-relative source path](https://github.com/skatkov/rdoc-markdown/pull/108) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [POT serialization optimization (with 87% improvement)](https://github.com/ruby/rdoc/pull/1789) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
 - [Reduce memory allocations for RI and POT generators](https://github.com/ruby/rdoc/pull/1788) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
@@ -27,16 +28,15 @@
 - [isolate tag formatting tests from YARD registry](https://github.com/skatkov/yard-markdown/pull/46) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 days ago) 
 - [Speed up CI](https://github.com/skatkov/rdoc-markdown/pull/107) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
 - [adding ruby-lsp to developer bundle](https://github.com/skatkov/rdoc-markdown/pull/106) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [keep full basename of a file, don&#39;t cut extensions](https://github.com/skatkov/rdoc-markdown/pull/105) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [exclude bundled gems from yard lint](https://github.com/skatkov/yard-markdown/pull/45) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago)
+- [keep full basename of a file, don&#39;t cut extensions](https://github.com/skatkov/rdoc-markdown/pull/105) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago)
 
 #### 📓 Gists I wrote
  
+- [RDoc lazy colored tokens benchmark](https://gist.github.com/7e509742651586c1b993a8b15b10a8da) (today) 
 - [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (1 month ago) 
 - [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (3 months ago) 
 - [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (8 months ago) 
-- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (9 months ago) 
-- [Fix exltz4 gem installation](https://gist.github.com/df4db6f8b76e58fc8eefaa92592f2c1a) (1 year ago)
+- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (9 months ago)
 
 #### 📜 My blog posts
 
