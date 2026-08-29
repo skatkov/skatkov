@@ -32,11 +32,11 @@
 
 #### 📓 Gists I wrote
  
+- [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (today) 
 - [RDoc lazy colored tokens benchmark](https://gist.github.com/7e509742651586c1b993a8b15b10a8da) (1 day ago) 
 - [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (1 month ago) 
 - [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (3 months ago) 
-- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (8 months ago) 
-- [](https://gist.github.com/bf2e4747bb5054769299af6bc707b7eb) (9 months ago)
+- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (8 months ago)
 
 #### 📜 My blog posts
 
