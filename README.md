@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [RBS scan cache to improve overall performance](https://github.com/ruby/rdoc/pull/1796) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Add memoized page lookup index to `RDoc::Store`](https://github.com/ruby/rdoc/pull/1794) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Use sets for output lookups](https://github.com/skatkov/rdoc-markdown/pull/109) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Lazy code colorization](https://github.com/ruby/rdoc/pull/1792) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
@@ -27,16 +28,15 @@
 - [Reduce memory allocations for RI and POT generators](https://github.com/ruby/rdoc/pull/1788) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
 - [Preserve default encodings when initializing Yardoc](https://github.com/lsegal/yard/pull/1709) on [lsegal/yard](https://github.com/lsegal/yard) (4 days ago) 
 - [Fix duplicated range warning in HybridMarkdown](https://github.com/lsegal/yard/pull/1708) on [lsegal/yard](https://github.com/lsegal/yard) (4 days ago) 
-- [isolate tag formatting tests from YARD registry](https://github.com/skatkov/yard-markdown/pull/46) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
-- [Speed up CI](https://github.com/skatkov/rdoc-markdown/pull/107) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago)
+- [isolate tag formatting tests from YARD registry](https://github.com/skatkov/yard-markdown/pull/46) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago)
 
 #### 📓 Gists I wrote
  
+- [RDoc RBS member lookup benchmark](https://gist.github.com/82f89eaf2269286a42a4adf966d2fd12) (today) 
 - [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (today) 
 - [RDoc lazy colored tokens benchmark](https://gist.github.com/7e509742651586c1b993a8b15b10a8da) (1 day ago) 
 - [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (1 month ago) 
-- [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (3 months ago) 
-- [](https://gist.github.com/5411017b02d53fe125956be55d23e9a2) (8 months ago)
+- [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (3 months ago)
 
 #### 📜 My blog posts
 
