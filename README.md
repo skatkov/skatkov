@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (3 days ago) 
 - [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (3 days ago) 
 - [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (3 days ago) 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Add memoized page lookup index to `RDoc::Store`](https://github.com/ruby/rdoc/pull/1794) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Use sets for output lookups](https://github.com/skatkov/rdoc-markdown/pull/109) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Lazy code colorization](https://github.com/ruby/rdoc/pull/1792) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
 - [Index now uses root-relative source path](https://github.com/skatkov/rdoc-markdown/pull/108) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
@@ -27,8 +28,7 @@
 - [Preserve default encodings when initializing Yardoc](https://github.com/lsegal/yard/pull/1709) on [lsegal/yard](https://github.com/lsegal/yard) (4 days ago) 
 - [Fix duplicated range warning in HybridMarkdown](https://github.com/lsegal/yard/pull/1708) on [lsegal/yard](https://github.com/lsegal/yard) (4 days ago) 
 - [isolate tag formatting tests from YARD registry](https://github.com/skatkov/yard-markdown/pull/46) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
-- [Speed up CI](https://github.com/skatkov/rdoc-markdown/pull/107) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [adding ruby-lsp to developer bundle](https://github.com/skatkov/rdoc-markdown/pull/106) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago)
+- [Speed up CI](https://github.com/skatkov/rdoc-markdown/pull/107) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago)
 
 #### 📓 Gists I wrote
  
