@@ -6,7 +6,7 @@
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (4 days ago) 
 - [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (4 days ago) 
 - [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (4 days ago) 
-- [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (5 days ago)
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago)
 
 #### 🌱 My latest projects
  
