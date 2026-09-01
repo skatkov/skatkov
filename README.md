@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Normalize legacy Latin-1 bytes for pre 1.8 ruby gems](https://github.com/ruby/rubygems/pull/9835) on [ruby/rubygems](https://github.com/ruby/rubygems) (1 day ago) 
+- [Preserve non-UTF-8 legacy gem metadata](https://github.com/ruby/rubygems/pull/9835) on [ruby/rubygems](https://github.com/ruby/rubygems) (1 day ago) 
 - [RBS scan cache to improve overall performance](https://github.com/ruby/rdoc/pull/1796) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
 - [Add memoized page lookup index to `RDoc::Store`](https://github.com/ruby/rdoc/pull/1794) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
 - [Use sets for output lookups](https://github.com/skatkov/rdoc-markdown/pull/109) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
