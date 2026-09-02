@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [fix(styled): Handle long links](https://github.com/charmbracelet/ultraviolet/pull/174) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today) 
 - [fix(styled): allow semicolons in hyperlink URLs](https://github.com/charmbracelet/ultraviolet/pull/172) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today) 
 - [fix(styled): let Lines parse unbounded content](https://github.com/charmbracelet/ultraviolet/pull/170) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today) 
 - [Preserve non-UTF-8 legacy gem metadata](https://github.com/ruby/rubygems/pull/9835) on [ruby/rubygems](https://github.com/ruby/rubygems) (2 days ago) 
@@ -27,8 +28,7 @@
 - [Use sets for output lookups](https://github.com/skatkov/rdoc-markdown/pull/109) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
 - [Lazy code colorization](https://github.com/ruby/rdoc/pull/1792) on [ruby/rdoc](https://github.com/ruby/rdoc) (5 days ago) 
 - [Index now uses root-relative source path](https://github.com/skatkov/rdoc-markdown/pull/108) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
-- [POT serialization optimization (with 87% improvement)](https://github.com/ruby/rdoc/pull/1789) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Reduce memory allocations for RI and POT generators](https://github.com/ruby/rdoc/pull/1788) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago)
+- [POT serialization optimization (with 87% improvement)](https://github.com/ruby/rdoc/pull/1789) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago)
 
 #### 📓 Gists I wrote
  
