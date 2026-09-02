@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
  
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (today) 
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today) 
 - [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby. (1 day ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (4 days ago) 
-- [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (1 week ago) 
-- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (1 week ago)
+- [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (1 week ago)
 
 #### 🌱 My latest projects
  
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [fix(styled): let Lines parse unbounded content](https://github.com/charmbracelet/ultraviolet/pull/170) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (today) 
 - [Preserve non-UTF-8 legacy gem metadata](https://github.com/ruby/rubygems/pull/9835) on [ruby/rubygems](https://github.com/ruby/rubygems) (2 days ago) 
 - [RBS scan cache to improve overall performance](https://github.com/ruby/rdoc/pull/1796) on [ruby/rdoc](https://github.com/ruby/rdoc) (4 days ago) 
 - [Add memoized page lookup index to `RDoc::Store`](https://github.com/ruby/rdoc/pull/1794) on [ruby/rdoc](https://github.com/ruby/rdoc) (4 days ago) 
@@ -27,8 +28,7 @@
 - [Index now uses root-relative source path](https://github.com/skatkov/rdoc-markdown/pull/108) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [POT serialization optimization (with 87% improvement)](https://github.com/ruby/rdoc/pull/1789) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Reduce memory allocations for RI and POT generators](https://github.com/ruby/rdoc/pull/1788) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Preserve default encodings when initializing Yardoc](https://github.com/lsegal/yard/pull/1709) on [lsegal/yard](https://github.com/lsegal/yard) (1 week ago) 
-- [Fix duplicated range warning in HybridMarkdown](https://github.com/lsegal/yard/pull/1708) on [lsegal/yard](https://github.com/lsegal/yard) (1 week ago)
+- [Preserve default encodings when initializing Yardoc](https://github.com/lsegal/yard/pull/1709) on [lsegal/yard](https://github.com/lsegal/yard) (1 week ago)
 
 #### 📓 Gists I wrote
  
