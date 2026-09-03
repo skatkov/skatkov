@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (today) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago) 
 - [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby. (2 days ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (5 days ago) 
-- [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (1 week ago)
+- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (1 week ago)
 
 #### 🌱 My latest projects
  
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Control safe entries](https://github.com/charmbracelet/glamour/pull/615) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago) 
+- [fix(security): control safe entries](https://github.com/charmbracelet/glamour/pull/615) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago) 
 - [fix(styled): Handle long links](https://github.com/charmbracelet/ultraviolet/pull/174) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago) 
 - [fix(styled): allow semicolons in hyperlink URLs](https://github.com/charmbracelet/ultraviolet/pull/172) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago) 
 - [fix(styled): let Lines parse unbounded content](https://github.com/charmbracelet/ultraviolet/pull/170) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (1 day ago) 
