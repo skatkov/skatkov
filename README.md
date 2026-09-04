@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (today) 
+- [Require set for output lookup indexes](https://github.com/skatkov/rdoc-markdown/pull/116) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Convert Nokogiri fragments without reparsing](https://github.com/xijo/reverse_markdown/pull/113) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (today) 
 - [Document set-backed output lookups](https://github.com/skatkov/rdoc-markdown/pull/115) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Document generator performance improvements](https://github.com/skatkov/rdoc-markdown/pull/114) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Skip rendering empty descriptions](https://github.com/skatkov/rdoc-markdown/pull/113) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Avoid discarded syntax highlighting](https://github.com/skatkov/rdoc-markdown/pull/112) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Reduce internal link resolution work](https://github.com/skatkov/rdoc-markdown/pull/111) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Restore legacy anchors in one pass](https://github.com/skatkov/rdoc-markdown/pull/110) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [Lazy page index in RDoc::Store (42.7% perf improvement)](https://github.com/ruby/rdoc/pull/1811) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
-- [fix(security): control safe entries](https://github.com/charmbracelet/glamour/pull/615) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago) 
-- [fix(styled): Handle long links](https://github.com/charmbracelet/ultraviolet/pull/174) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago) 
-- [fix(styled): allow semicolons in hyperlink URLs](https://github.com/charmbracelet/ultraviolet/pull/172) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
+- [Lazy page index in RDoc::Store (42.7% perf improvement)](https://github.com/ruby/rdoc/pull/1811) on [ruby/rdoc](https://github.com/ruby/rdoc) (today)
 
 #### 📓 Gists I wrote
  
