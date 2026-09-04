@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Implemented the lazy page index in RDoc::Store,](https://github.com/ruby/rdoc/pull/1811) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
+- [Implemented lazy page index in RDoc::Store (42.7% perf improvement)](https://github.com/ruby/rdoc/pull/1811) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [fix(security): control safe entries](https://github.com/charmbracelet/glamour/pull/615) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago) 
 - [fix(styled): Handle long links](https://github.com/charmbracelet/ultraviolet/pull/174) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago) 
 - [fix(styled): allow semicolons in hyperlink URLs](https://github.com/charmbracelet/ultraviolet/pull/172) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago) 
