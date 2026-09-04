@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 day ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (2 days ago) 
 - [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby. (3 days ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (6 days ago) 
 - [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Implemented lazy page index in RDoc::Store (42.7% perf improvement)](https://github.com/ruby/rdoc/pull/1811) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
+- [Document set-backed output lookups](https://github.com/skatkov/rdoc-markdown/pull/115) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Document generator performance improvements](https://github.com/skatkov/rdoc-markdown/pull/114) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Skip rendering empty descriptions](https://github.com/skatkov/rdoc-markdown/pull/113) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Avoid discarded syntax highlighting](https://github.com/skatkov/rdoc-markdown/pull/112) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Reduce internal link resolution work](https://github.com/skatkov/rdoc-markdown/pull/111) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Restore legacy anchors in one pass](https://github.com/skatkov/rdoc-markdown/pull/110) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Lazy page index in RDoc::Store (42.7% perf improvement)](https://github.com/ruby/rdoc/pull/1811) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [fix(security): control safe entries](https://github.com/charmbracelet/glamour/pull/615) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago) 
 - [fix(styled): Handle long links](https://github.com/charmbracelet/ultraviolet/pull/174) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago) 
-- [fix(styled): allow semicolons in hyperlink URLs](https://github.com/charmbracelet/ultraviolet/pull/172) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago) 
-- [fix(styled): let Lines parse unbounded content](https://github.com/charmbracelet/ultraviolet/pull/170) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago) 
-- [Preserve non-UTF-8 legacy gem metadata](https://github.com/ruby/rubygems/pull/9835) on [ruby/rubygems](https://github.com/ruby/rubygems) (4 days ago) 
-- [RBS scan cache to improve overall performance](https://github.com/ruby/rdoc/pull/1796) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
-- [Add memoized page lookup index to `RDoc::Store`](https://github.com/ruby/rdoc/pull/1794) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
-- [Use sets for output lookups](https://github.com/skatkov/rdoc-markdown/pull/109) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
-- [Lazy code colorization](https://github.com/ruby/rdoc/pull/1792) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago)
+- [fix(styled): allow semicolons in hyperlink URLs](https://github.com/charmbracelet/ultraviolet/pull/172) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago)
 
 #### 📓 Gists I wrote
  
