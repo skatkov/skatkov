@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Implemented the lazy page index in RDoc::Store,](https://github.com/ruby/rdoc/pull/1811) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [fix(security): control safe entries](https://github.com/charmbracelet/glamour/pull/615) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (2 days ago) 
 - [fix(styled): Handle long links](https://github.com/charmbracelet/ultraviolet/pull/174) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago) 
 - [fix(styled): allow semicolons in hyperlink URLs](https://github.com/charmbracelet/ultraviolet/pull/172) on [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) (2 days ago) 
@@ -27,8 +28,7 @@
 - [RBS scan cache to improve overall performance](https://github.com/ruby/rdoc/pull/1796) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
 - [Add memoized page lookup index to `RDoc::Store`](https://github.com/ruby/rdoc/pull/1794) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
 - [Use sets for output lookups](https://github.com/skatkov/rdoc-markdown/pull/109) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
-- [Lazy code colorization](https://github.com/ruby/rdoc/pull/1792) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Index now uses root-relative source path](https://github.com/skatkov/rdoc-markdown/pull/108) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
+- [Lazy code colorization](https://github.com/ruby/rdoc/pull/1792) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago)
 
 #### 📓 Gists I wrote
  
