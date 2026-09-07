@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (today) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (4 days ago) 
-- [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby. (6 days ago) 
-- [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  (1 week ago)
+- [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby. (6 days ago)
 
 #### 🌱 My latest projects
  
