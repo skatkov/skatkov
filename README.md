@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (today) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (4 days ago) 
-- [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby. (6 days ago)
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 day ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (2 days ago) 
+- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (5 days ago) 
+- [ruby/rubygems](https://github.com/ruby/rubygems) - Library packaging and distribution for Ruby. (1 week ago)
 
 #### 🌱 My latest projects
  
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 days ago) 
-- [Require set for output lookup indexes](https://github.com/skatkov/rdoc-markdown/pull/116) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Convert Nokogiri fragments without reparsing](https://github.com/xijo/reverse_markdown/pull/113) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 days ago) 
-- [Document set-backed output lookups](https://github.com/skatkov/rdoc-markdown/pull/115) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Document generator performance improvements](https://github.com/skatkov/rdoc-markdown/pull/114) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Skip rendering empty descriptions](https://github.com/skatkov/rdoc-markdown/pull/113) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Avoid discarded syntax highlighting](https://github.com/skatkov/rdoc-markdown/pull/112) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Reduce internal link resolution work](https://github.com/skatkov/rdoc-markdown/pull/111) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Restore legacy anchors in one pass](https://github.com/skatkov/rdoc-markdown/pull/110) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Lazy page index in RDoc::Store (42.7% perf improvement)](https://github.com/ruby/rdoc/pull/1811) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago)
+- [Description to preserve explicit heading levels](https://github.com/skatkov/rdoc-markdown/pull/117) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (4 days ago) 
+- [Require set for output lookup indexes](https://github.com/skatkov/rdoc-markdown/pull/116) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [Convert Nokogiri fragments without reparsing](https://github.com/xijo/reverse_markdown/pull/113) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (4 days ago) 
+- [Document set-backed output lookups](https://github.com/skatkov/rdoc-markdown/pull/115) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [Document generator performance improvements](https://github.com/skatkov/rdoc-markdown/pull/114) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [Skip rendering empty descriptions](https://github.com/skatkov/rdoc-markdown/pull/113) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [Avoid discarded syntax highlighting](https://github.com/skatkov/rdoc-markdown/pull/112) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [Reduce internal link resolution work](https://github.com/skatkov/rdoc-markdown/pull/111) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [Restore legacy anchors in one pass](https://github.com/skatkov/rdoc-markdown/pull/110) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago)
 
 #### 📓 Gists I wrote
  
