@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Avoid foreign grammar calls in Markdown parser](https://github.com/ruby/rdoc/pull/1818) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Description to preserve explicit heading levels](https://github.com/skatkov/rdoc-markdown/pull/117) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (4 days ago) 
 - [Require set for output lookup indexes](https://github.com/skatkov/rdoc-markdown/pull/116) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
@@ -27,8 +28,7 @@
 - [Document generator performance improvements](https://github.com/skatkov/rdoc-markdown/pull/114) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
 - [Skip rendering empty descriptions](https://github.com/skatkov/rdoc-markdown/pull/113) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
 - [Avoid discarded syntax highlighting](https://github.com/skatkov/rdoc-markdown/pull/112) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Reduce internal link resolution work](https://github.com/skatkov/rdoc-markdown/pull/111) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Restore legacy anchors in one pass](https://github.com/skatkov/rdoc-markdown/pull/110) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago)
+- [Reduce internal link resolution work](https://github.com/skatkov/rdoc-markdown/pull/111) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago)
 
 #### 📓 Gists I wrote
  
