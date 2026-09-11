@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (today) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
-- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (3 days ago) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (4 days ago) 
+- [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (1 day ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (3 days ago) 
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (4 days ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (5 days ago) 
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
 
 #### 🌱 My latest projects
@@ -19,22 +19,22 @@
 
 #### 🔨 My recent Pull Requests
  
-- [feat: propagate Cobra schema constraints](https://github.com/njayp/ophis/pull/50) on [njayp/ophis](https://github.com/njayp/ophis) (1 day ago) 
-- [Remove deprecation from simplecov](https://github.com/xijo/reverse_markdown/pull/115) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (1 day ago) 
-- [Avoid foreign grammar calls in Markdown parser](https://github.com/ruby/rdoc/pull/1818) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
-- [Description to preserve explicit heading levels](https://github.com/skatkov/rdoc-markdown/pull/117) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (6 days ago) 
-- [Require set for output lookup indexes](https://github.com/skatkov/rdoc-markdown/pull/116) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
-- [Convert Nokogiri fragments without reparsing](https://github.com/xijo/reverse_markdown/pull/113) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (6 days ago) 
-- [Document set-backed output lookups](https://github.com/skatkov/rdoc-markdown/pull/115) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
-- [Document generator performance improvements](https://github.com/skatkov/rdoc-markdown/pull/114) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
-- [Skip rendering empty descriptions](https://github.com/skatkov/rdoc-markdown/pull/113) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago)
+- [feat: propagate Cobra schema constraints](https://github.com/njayp/ophis/pull/50) on [njayp/ophis](https://github.com/njayp/ophis) (2 days ago) 
+- [Remove deprecation from simplecov](https://github.com/xijo/reverse_markdown/pull/115) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (2 days ago) 
+- [Avoid foreign grammar calls in Markdown parser](https://github.com/ruby/rdoc/pull/1818) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
+- [Description to preserve explicit heading levels](https://github.com/skatkov/rdoc-markdown/pull/117) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
+- [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (1 week ago) 
+- [Require set for output lookup indexes](https://github.com/skatkov/rdoc-markdown/pull/116) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
+- [Convert Nokogiri fragments without reparsing](https://github.com/xijo/reverse_markdown/pull/113) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (1 week ago) 
+- [Document set-backed output lookups](https://github.com/skatkov/rdoc-markdown/pull/115) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
+- [Document generator performance improvements](https://github.com/skatkov/rdoc-markdown/pull/114) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
+- [Skip rendering empty descriptions](https://github.com/skatkov/rdoc-markdown/pull/113) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
 - [RDoc RBS member lookup benchmark](https://gist.github.com/82f89eaf2269286a42a4adf966d2fd12) (1 week ago) 
 - [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (1 week ago) 
-- [RDoc lazy colored tokens benchmark](https://gist.github.com/7e509742651586c1b993a8b15b10a8da) (1 week ago) 
+- [RDoc lazy colored tokens benchmark](https://gist.github.com/7e509742651586c1b993a8b15b10a8da) (2 weeks ago) 
 - [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (1 month ago) 
 - [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (3 months ago)
 
