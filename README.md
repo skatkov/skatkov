@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (today) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (3 days ago) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (4 days ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (6 days ago) 
-- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 week ago) 
-- [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (1 week ago)
+- [crbelaus/jekyll-tailwind](https://github.com/crbelaus/jekyll-tailwind) - Use Tailwind CLI from your Jekyll site (1 week ago)
 
 #### 🌱 My latest projects
  
