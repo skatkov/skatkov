@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (4 days ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (5 days ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 week ago) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (1 week ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 week ago) 
@@ -32,8 +32,8 @@
 
 #### 📓 Gists I wrote
  
-- [RDoc RBS member lookup benchmark](https://gist.github.com/82f89eaf2269286a42a4adf966d2fd12) (2 weeks ago) 
-- [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (2 weeks ago) 
+- [RDoc RBS member lookup benchmark](https://gist.github.com/82f89eaf2269286a42a4adf966d2fd12) (3 weeks ago) 
+- [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (3 weeks ago) 
 - [RDoc lazy colored tokens benchmark](https://gist.github.com/7e509742651586c1b993a8b15b10a8da) (3 weeks ago) 
 - [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (2 months ago) 
 - [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (4 months ago)
