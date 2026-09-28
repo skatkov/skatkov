@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (today) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago) 
-- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (1 week ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (6 days ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 weeks ago) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (2 weeks ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 weeks ago)
 
@@ -19,21 +19,21 @@
 
 #### 🔨 My recent Pull Requests
  
-- [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
-- [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
-- [Speed up generation process](https://github.com/skatkov/yard-markdown/pull/48) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
+- [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
+- [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
+- [Speed up generation process](https://github.com/skatkov/yard-markdown/pull/48) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
 - [feat: propagate Cobra schema constraints](https://github.com/njayp/ophis/pull/50) on [njayp/ophis](https://github.com/njayp/ophis) (2 weeks ago) 
 - [Remove deprecation from simplecov](https://github.com/xijo/reverse_markdown/pull/115) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (2 weeks ago) 
 - [Avoid foreign grammar calls in Markdown parser](https://github.com/ruby/rdoc/pull/1818) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago) 
-- [Description to preserve explicit heading levels](https://github.com/skatkov/rdoc-markdown/pull/117) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 weeks ago) 
+- [Description to preserve explicit heading levels](https://github.com/skatkov/rdoc-markdown/pull/117) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 weeks ago) 
 - [Require set for output lookup indexes](https://github.com/skatkov/rdoc-markdown/pull/116) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [Convert Nokogiri fragments without reparsing](https://github.com/xijo/reverse_markdown/pull/113) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
-- [RDoc RBS member lookup benchmark](https://gist.github.com/82f89eaf2269286a42a4adf966d2fd12) (4 weeks ago) 
-- [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (4 weeks ago) 
+- [RDoc RBS member lookup benchmark](https://gist.github.com/82f89eaf2269286a42a4adf966d2fd12) (1 month ago) 
+- [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (1 month ago) 
 - [RDoc lazy colored tokens benchmark](https://gist.github.com/7e509742651586c1b993a8b15b10a8da) (1 month ago) 
 - [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (2 months ago) 
 - [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (4 months ago)
