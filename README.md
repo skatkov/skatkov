@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (today) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (6 days ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (2 days ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 weeks ago) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (2 weeks ago)
 
@@ -19,13 +19,13 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (today) 
-- [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
-- [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
-- [Speed up generation process](https://github.com/skatkov/yard-markdown/pull/48) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
+- [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 day ago) 
+- [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
+- [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
+- [Speed up generation process](https://github.com/skatkov/yard-markdown/pull/48) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [feat: propagate Cobra schema constraints](https://github.com/njayp/ophis/pull/50) on [njayp/ophis](https://github.com/njayp/ophis) (2 weeks ago) 
 - [Remove deprecation from simplecov](https://github.com/xijo/reverse_markdown/pull/115) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (2 weeks ago) 
-- [Avoid foreign grammar calls in Markdown parser](https://github.com/ruby/rdoc/pull/1818) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago) 
+- [Avoid foreign grammar calls in Markdown parser](https://github.com/ruby/rdoc/pull/1818) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 weeks ago) 
 - [Description to preserve explicit heading levels](https://github.com/skatkov/rdoc-markdown/pull/117) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
 - [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 weeks ago) 
 - [Require set for output lookup indexes](https://github.com/skatkov/rdoc-markdown/pull/116) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago)
@@ -41,7 +41,7 @@
 #### 📜 My blog posts
 
 - [Snooping on GitHits.com](https://www.skatkov.com/posts/2026-07-15-snooping-on-githits) (2 months ago)
-- [Mutation testing in the age of LLMs](https://www.skatkov.com/posts/2026-07-01-mutate-all-things) (2 months ago)
+- [Mutation testing in the age of LLMs](https://www.skatkov.com/posts/2026-07-01-mutate-all-things) (3 months ago)
 - [Signing and notarizing a Mac app on Linux](https://www.skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (3 months ago)
 - [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (7 months ago)
 - [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (11 months ago)
