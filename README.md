@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Share Aliki class navigation across generated pages](https://github.com/ruby/rdoc/pull/1840) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
 - [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 day ago) 
 - [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
 - [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
@@ -27,8 +28,7 @@
 - [Remove deprecation from simplecov](https://github.com/xijo/reverse_markdown/pull/115) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (2 weeks ago) 
 - [Avoid foreign grammar calls in Markdown parser](https://github.com/ruby/rdoc/pull/1818) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 weeks ago) 
 - [Description to preserve explicit heading levels](https://github.com/skatkov/rdoc-markdown/pull/117) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago) 
-- [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 weeks ago) 
-- [Require set for output lookup indexes](https://github.com/skatkov/rdoc-markdown/pull/116) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago)
+- [Make whitespace cleanup linear](https://github.com/xijo/reverse_markdown/pull/114) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 weeks ago)
 
 #### 📓 Gists I wrote
  
