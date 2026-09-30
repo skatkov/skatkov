@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (today) 
-- [julik/paquette](https://github.com/julik/paquette) - A nimble package server for commercial libs (today) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (2 days ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 day ago) 
+- [julik/paquette](https://github.com/julik/paquette) - A nimble package server for commercial libs (1 day ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (3 days ago) 
 - [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -19,14 +19,14 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Set proper file permissions](https://github.com/julik/paquette/pull/21) on [julik/paquette](https://github.com/julik/paquette) (today) 
-- [Share Aliki class navigation across generated pages](https://github.com/ruby/rdoc/pull/1840) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
-- [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 day ago) 
-- [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
-- [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
+- [Set proper file permissions](https://github.com/julik/paquette/pull/21) on [julik/paquette](https://github.com/julik/paquette) (1 day ago) 
+- [Share Aliki class navigation across generated pages](https://github.com/ruby/rdoc/pull/1840) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
+- [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (2 days ago) 
+- [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (4 days ago) 
+- [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (4 days ago) 
 - [Speed up generation process](https://github.com/skatkov/yard-markdown/pull/48) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [feat: propagate Cobra schema constraints](https://github.com/njayp/ophis/pull/50) on [njayp/ophis](https://github.com/njayp/ophis) (2 weeks ago) 
-- [Remove deprecation from simplecov](https://github.com/xijo/reverse_markdown/pull/115) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (2 weeks ago) 
+- [feat: propagate Cobra schema constraints](https://github.com/njayp/ophis/pull/50) on [njayp/ophis](https://github.com/njayp/ophis) (3 weeks ago) 
+- [Remove deprecation from simplecov](https://github.com/xijo/reverse_markdown/pull/115) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 weeks ago) 
 - [Avoid foreign grammar calls in Markdown parser](https://github.com/ruby/rdoc/pull/1818) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 weeks ago) 
 - [Description to preserve explicit heading levels](https://github.com/skatkov/rdoc-markdown/pull/117) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 weeks ago)
 
