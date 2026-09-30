@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (today) 
 - [skatkov/go-markdown](https://github.com/skatkov/go-markdown) -  (today) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
-- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 day ago) 
 - [julik/paquette](https://github.com/julik/paquette) - A nimble package server for commercial libs (1 day ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (3 days ago)
 
