@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 day ago) 
+- [skatkov/dmarcshark](https://github.com/skatkov/dmarcshark) -  (today) 
 - [skatkov/go-markdown](https://github.com/skatkov/go-markdown) -  (1 day ago) 
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 day ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 days ago) 
-- [julik/paquette](https://github.com/julik/paquette) - A nimble package server for commercial libs (2 days ago) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (4 days ago)
+- [julik/paquette](https://github.com/julik/paquette) - A nimble package server for commercial libs (2 days ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/dmarcshark](https://github.com/skatkov/dmarcshark) -  
 - [skatkov/go-markdown](https://github.com/skatkov/go-markdown) -  
 - [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  
 - [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  
-- [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  
-- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode.
+- [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) - 
 
 
 #### 🔨 My recent Pull Requests
