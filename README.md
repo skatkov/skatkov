@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (today) 
-- [skatkov/dmarcshark](https://github.com/skatkov/dmarcshark) -  (3 days ago) 
-- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (4 days ago) 
-- [skatkov/go-markdown](https://github.com/skatkov/go-markdown) -  (4 days ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago)
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 day ago) 
+- [skatkov/dmarcshark](https://github.com/skatkov/dmarcshark) -  (4 days ago) 
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (5 days ago) 
+- [skatkov/go-markdown](https://github.com/skatkov/go-markdown) -  (5 days ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (6 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,11 +19,11 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Use compiled templates to speed up generation](https://github.com/ruby/rdoc/pull/1843) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
-- [Return better errors from lightpanda](https://github.com/skatkov/opencode-lightpanda/pull/5) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (4 days ago) 
-- [Set proper file permissions](https://github.com/julik/paquette/pull/21) on [julik/paquette](https://github.com/julik/paquette) (5 days ago) 
-- [Share Aliki class navigation across generated pages](https://github.com/ruby/rdoc/pull/1840) on [ruby/rdoc](https://github.com/ruby/rdoc) (5 days ago) 
-- [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (6 days ago) 
+- [Use compiled templates to speed up generation](https://github.com/ruby/rdoc/pull/1843) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
+- [Return better errors from lightpanda](https://github.com/skatkov/opencode-lightpanda/pull/5) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (5 days ago) 
+- [Set proper file permissions](https://github.com/julik/paquette/pull/21) on [julik/paquette](https://github.com/julik/paquette) (6 days ago) 
+- [Share Aliki class navigation across generated pages](https://github.com/ruby/rdoc/pull/1840) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
+- [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
 - [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Speed up generation process](https://github.com/skatkov/yard-markdown/pull/48) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
