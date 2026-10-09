@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Fedora compatibility](https://github.com/omacom/monologue/pull/7) on [omacom/monologue](https://github.com/omacom/monologue) (today) 
 - [Method name lookup](https://github.com/ruby/rdoc/pull/1844) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
 - [Use compiled templates to speed up generation](https://github.com/ruby/rdoc/pull/1843) on [ruby/rdoc](https://github.com/ruby/rdoc) (5 days ago) 
 - [Return better errors from lightpanda](https://github.com/skatkov/opencode-lightpanda/pull/5) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
@@ -27,8 +28,7 @@
 - [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
 - [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Speed up generation process](https://github.com/skatkov/yard-markdown/pull/48) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago) 
-- [feat: propagate Cobra schema constraints](https://github.com/njayp/ophis/pull/50) on [njayp/ophis](https://github.com/njayp/ophis) (1 month ago)
+- [Speed up generation process](https://github.com/skatkov/yard-markdown/pull/48) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
