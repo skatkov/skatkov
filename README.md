@@ -2,33 +2,33 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (5 days ago) 
-- [skatkov/dmarcshark](https://github.com/skatkov/dmarcshark) -  (1 week ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (6 days ago) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 week ago) 
-- [skatkov/go-markdown](https://github.com/skatkov/go-markdown) -  (1 week ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago)
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
+- [julik/paquette](https://github.com/julik/paquette) - A nimble package server for commercial libs (1 week ago) 
+- [skatkov/homebrew-tap](https://github.com/skatkov/homebrew-tap) - My own homebrew tap to distribute apps. (3 weeks ago)
 
 #### 🌱 My latest projects
  
-- [skatkov/dmarcshark](https://github.com/skatkov/dmarcshark) -  
-- [skatkov/go-markdown](https://github.com/skatkov/go-markdown) -  
 - [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  
 - [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  
-- [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) - 
+- [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) -  
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. 
+- [skatkov/jekyll-llms](https://github.com/skatkov/jekyll-llms) - Jekyll plugin that produces LLM-friendly formats alongside a regular website.
 
 
 #### 🔨 My recent Pull Requests
  
-- [Fedora compatibility](https://github.com/omacom/monologue/pull/7) on [omacom/monologue](https://github.com/omacom/monologue) (today) 
-- [Method name lookup](https://github.com/ruby/rdoc/pull/1844) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
-- [Use compiled templates to speed up generation](https://github.com/ruby/rdoc/pull/1843) on [ruby/rdoc](https://github.com/ruby/rdoc) (5 days ago) 
+- [Uninstall script](https://github.com/omacom/monologue/pull/12) on [omacom/monologue](https://github.com/omacom/monologue) (1 day ago) 
+- [Fedora compatibility](https://github.com/omacom/monologue/pull/7) on [omacom/monologue](https://github.com/omacom/monologue) (1 day ago) 
+- [Method name lookup](https://github.com/ruby/rdoc/pull/1844) on [ruby/rdoc](https://github.com/ruby/rdoc) (4 days ago) 
+- [Use compiled templates to speed up generation](https://github.com/ruby/rdoc/pull/1843) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
 - [Return better errors from lightpanda](https://github.com/skatkov/opencode-lightpanda/pull/5) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
 - [Set proper file permissions](https://github.com/julik/paquette/pull/21) on [julik/paquette](https://github.com/julik/paquette) (1 week ago) 
 - [Share Aliki class navigation across generated pages](https://github.com/ruby/rdoc/pull/1840) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
-- [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Speed up generation process](https://github.com/skatkov/yard-markdown/pull/48) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 weeks ago)
+- [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago) 
+- [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago)
 
 #### 📓 Gists I wrote
  
