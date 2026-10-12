@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (today) 
+- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (1 day ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 week ago) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
@@ -19,14 +19,14 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Uninstall script](https://github.com/omacom/monologue/pull/12) on [omacom/monologue](https://github.com/omacom/monologue) (2 days ago) 
-- [Fedora compatibility](https://github.com/omacom/monologue/pull/7) on [omacom/monologue](https://github.com/omacom/monologue) (2 days ago) 
-- [Method name lookup](https://github.com/ruby/rdoc/pull/1844) on [ruby/rdoc](https://github.com/ruby/rdoc) (5 days ago) 
+- [Uninstall script](https://github.com/omacom/monologue/pull/12) on [omacom/monologue](https://github.com/omacom/monologue) (3 days ago) 
+- [Fedora compatibility](https://github.com/omacom/monologue/pull/7) on [omacom/monologue](https://github.com/omacom/monologue) (3 days ago) 
+- [Method name lookup](https://github.com/ruby/rdoc/pull/1844) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
 - [Use compiled templates to speed up generation](https://github.com/ruby/rdoc/pull/1843) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
 - [Return better errors from lightpanda](https://github.com/skatkov/opencode-lightpanda/pull/5) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
 - [Set proper file permissions](https://github.com/julik/paquette/pull/21) on [julik/paquette](https://github.com/julik/paquette) (1 week ago) 
 - [Share Aliki class navigation across generated pages](https://github.com/ruby/rdoc/pull/1840) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
+- [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (2 weeks ago) 
 - [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago) 
 - [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago)
 
@@ -43,5 +43,5 @@
 - [Snooping on GitHits.com](https://www.skatkov.com/posts/2026-07-15-snooping-on-githits) (2 months ago)
 - [Mutation testing in the age of LLMs](https://www.skatkov.com/posts/2026-07-01-mutate-all-things) (3 months ago)
 - [Signing and notarizing a Mac app on Linux](https://www.skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (3 months ago)
-- [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (7 months ago)
-- [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (11 months ago)
+- [Let it rip](https://www.skatkov.com/posts/2026-02-14-let-it-rip) (8 months ago)
+- [Warning about deprecations in Ruby](https://www.skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (1 year ago)
