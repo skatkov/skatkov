@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (1 day ago) 
+- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (today) 
+- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (today) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 week ago) 
-- [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
 - [julik/paquette](https://github.com/julik/paquette) - A nimble package server for commercial libs (1 week ago)
 
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Release 1.0.0: OpenCode V2 migration](https://github.com/skatkov/opencode-lightpanda/pull/6) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (today) 
+- [Mutant testing](https://github.com/skatkov/opencode-vitals-terminal/pull/6) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (today) 
+- [Mutant testing](https://github.com/skatkov/opencode-vitals-terminal/pull/5) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (today) 
+- [Sidebar](https://github.com/skatkov/opencode-vitals-terminal/pull/4) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (today) 
+- [update install instruction to use npm](https://github.com/skatkov/opencode-vitals-terminal/pull/3) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (today) 
+- [fix: resolve Node engine and install script warnings](https://github.com/skatkov/opencode-vitals-terminal/pull/2) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (today) 
+- [Publish plugin on npm](https://github.com/skatkov/opencode-vitals-terminal/pull/1) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (today) 
 - [Uninstall script](https://github.com/omacom/monologue/pull/12) on [omacom/monologue](https://github.com/omacom/monologue) (3 days ago) 
 - [Fedora compatibility](https://github.com/omacom/monologue/pull/7) on [omacom/monologue](https://github.com/omacom/monologue) (3 days ago) 
-- [Method name lookup](https://github.com/ruby/rdoc/pull/1844) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
-- [Use compiled templates to speed up generation](https://github.com/ruby/rdoc/pull/1843) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Return better errors from lightpanda](https://github.com/skatkov/opencode-lightpanda/pull/5) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
-- [Set proper file permissions](https://github.com/julik/paquette/pull/21) on [julik/paquette](https://github.com/julik/paquette) (1 week ago) 
-- [Share Aliki class navigation across generated pages](https://github.com/ruby/rdoc/pull/1840) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [Plugin v2](https://github.com/skatkov/opencode-lightpanda/pull/4) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (2 weeks ago) 
-- [RubyGems Hook: add required parse-then-Store#complete to  the lifecycle](https://github.com/ruby/rdoc/pull/1835) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago) 
-- [Escape unlinked cross-references in HTML output](https://github.com/ruby/rdoc/pull/1834) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 weeks ago)
+- [Method name lookup](https://github.com/ruby/rdoc/pull/1844) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago)
 
 #### 📓 Gists I wrote
  
