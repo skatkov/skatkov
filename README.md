@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (today) 
+- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (today) 
 - [skatkov/posh-benchmark](https://github.com/skatkov/posh-benchmark) - Reproducible Ruby benchmarks of POSH documentation retrieval footprints, with raw captures and version-checked webfetch comparisons (today) 
-- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (1 day ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 week ago) 
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago)
 
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [adding tools calls and type of tools](https://github.com/skatkov/opencode-vitals-terminal/pull/8) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (today) 
 - [Fix direct Lightpanda tool exposure in OpenCode V2](https://github.com/skatkov/opencode-lightpanda/pull/7) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 day ago) 
 - [Simplify vitals display and release 0.3.0](https://github.com/skatkov/opencode-vitals-terminal/pull/7) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 day ago) 
 - [Release 1.0.0: OpenCode V2 migration](https://github.com/skatkov/opencode-lightpanda/pull/6) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Sidebar](https://github.com/skatkov/opencode-vitals-terminal/pull/4) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 day ago) 
 - [update install instruction to use npm](https://github.com/skatkov/opencode-vitals-terminal/pull/3) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 day ago) 
 - [fix: resolve Node engine and install script warnings](https://github.com/skatkov/opencode-vitals-terminal/pull/2) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 day ago) 
-- [Publish plugin on npm](https://github.com/skatkov/opencode-vitals-terminal/pull/1) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 day ago) 
-- [Uninstall script](https://github.com/omacom/monologue/pull/12) on [omacom/monologue](https://github.com/omacom/monologue) (4 days ago)
+- [Publish plugin on npm](https://github.com/skatkov/opencode-vitals-terminal/pull/1) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 day ago)
 
 #### 📓 Gists I wrote
  
