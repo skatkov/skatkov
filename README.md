@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/posh-bundler](https://github.com/skatkov/posh-bundler) - Automatically run  `posh sync` after  bundle install  and   bundle update (today) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (3 days ago) 
 - [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (3 days ago) 
 - [skatkov/posh-benchmark](https://github.com/skatkov/posh-benchmark) - Reproducible Ruby benchmarks of POSH documentation retrieval footprints, with raw captures and version-checked webfetch comparisons (3 days ago) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 week ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 weeks ago)
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (1 week ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/posh-bundler](https://github.com/skatkov/posh-bundler) - Automatically run  `posh sync` after  bundle install  and   bundle update 
 - [skatkov/posh-benchmark](https://github.com/skatkov/posh-benchmark) - Reproducible Ruby benchmarks of POSH documentation retrieval footprints, with raw captures and version-checked webfetch comparisons 
 - [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. 
 - [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) -  
-- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) -  
-- [skatkov/rails-freezolite-coverage-issue](https://github.com/skatkov/rails-freezolite-coverage-issue) - 
+- [skatkov/rdoc-store-method-source-benchmark](https://github.com/skatkov/rdoc-store-method-source-benchmark) - 
 
 
 #### 🔨 My recent Pull Requests
