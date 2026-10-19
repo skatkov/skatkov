@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/124) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Ignore synthetic heading links during Markdown validation](https://github.com/skatkov/rdoc-markdown/pull/123) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Validate generated Markdown sections](https://github.com/skatkov/rdoc-markdown/pull/122) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Preserve literal code through conversion cleanup](https://github.com/xijo/reverse_markdown/pull/116) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (today) 
 - [Fix literal code preservation in Markdown examples](https://github.com/skatkov/rdoc-markdown/pull/121) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [New fixes](https://github.com/skatkov/rdoc-markdown/pull/120) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Preserve bracket call sequence arguments in method headings](https://github.com/skatkov/rdoc-markdown/pull/119) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [adding tools calls and type of tools](https://github.com/skatkov/opencode-vitals-terminal/pull/8) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (6 days ago) 
 - [Fix direct Lightpanda tool exposure in OpenCode V2](https://github.com/skatkov/opencode-lightpanda/pull/7) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
-- [Simplify vitals display and release 0.3.0](https://github.com/skatkov/opencode-vitals-terminal/pull/7) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 week ago) 
-- [Release 1.0.0: OpenCode V2 migration](https://github.com/skatkov/opencode-lightpanda/pull/6) on [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) (1 week ago) 
-- [Mutant testing](https://github.com/skatkov/opencode-vitals-terminal/pull/6) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 week ago) 
-- [Mutant testing](https://github.com/skatkov/opencode-vitals-terminal/pull/5) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 week ago) 
-- [Sidebar](https://github.com/skatkov/opencode-vitals-terminal/pull/4) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 week ago)
+- [Simplify vitals display and release 0.3.0](https://github.com/skatkov/opencode-vitals-terminal/pull/7) on [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) (1 week ago)
 
 #### 📓 Gists I wrote
  
