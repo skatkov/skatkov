@@ -3,9 +3,9 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (1 day ago) 
 - [skatkov/posh-bundler](https://github.com/skatkov/posh-bundler) - Automatically run  `posh sync` after  bundle install  and   bundle update (4 days ago) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 week ago) 
-- [skatkov/posh-benchmark](https://github.com/skatkov/posh-benchmark) - Reproducible Ruby benchmarks of POSH documentation retrieval footprints, with raw captures and version-checked webfetch comparisons (1 week ago) 
 - [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (1 week ago)
 
 #### 🌱 My latest projects
