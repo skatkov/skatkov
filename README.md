@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Preserve option names, types, descriptions, and defaults](https://github.com/skatkov/yard-markdown/pull/50) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
+- [Optional keyword parameters now render correctly](https://github.com/skatkov/yard-markdown/pull/49) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Preserve code examples when offsetting documentation headings](https://github.com/skatkov/rdoc-markdown/pull/125) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Fix bare module_function handling](https://github.com/ruby/rdoc/pull/1859) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
 - [[ci skip] Document Active Job class and module arguments](https://github.com/rails/rails/pull/59196) on [rails/rails](https://github.com/rails/rails) (3 days ago) 
@@ -26,9 +28,7 @@
 - [Ignore synthetic heading links during Markdown validation](https://github.com/skatkov/rdoc-markdown/pull/123) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
 - [Validate generated Markdown sections](https://github.com/skatkov/rdoc-markdown/pull/122) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
 - [Preserve literal code through conversion cleanup](https://github.com/xijo/reverse_markdown/pull/116) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 days ago) 
-- [Fix literal code preservation in Markdown examples](https://github.com/skatkov/rdoc-markdown/pull/121) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [New fixes](https://github.com/skatkov/rdoc-markdown/pull/120) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
-- [Preserve bracket call sequence arguments in method headings](https://github.com/skatkov/rdoc-markdown/pull/119) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago)
+- [Fix literal code preservation in Markdown examples](https://github.com/skatkov/rdoc-markdown/pull/121) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago)
 
 #### 📓 Gists I wrote
  
