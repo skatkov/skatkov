@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails (4 days ago) 
 - [skatkov/posh-bundler](https://github.com/skatkov/posh-bundler) - Automatically run  `posh sync` after  bundle install  and   bundle update (1 week ago) 
 - [skatkov/opencode-lightpanda](https://github.com/skatkov/opencode-lightpanda) - A Lightpanda browser plugin/tool for OpenCode. (1 week ago)
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Fix/instance method index names](https://github.com/skatkov/rdoc-markdown/pull/126) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Preserve option names, types, descriptions, and defaults](https://github.com/skatkov/yard-markdown/pull/50) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
 - [Optional keyword parameters now render correctly](https://github.com/skatkov/yard-markdown/pull/49) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
 - [Preserve code examples when offsetting documentation headings](https://github.com/skatkov/rdoc-markdown/pull/125) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
@@ -27,8 +28,7 @@
 - [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/124) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
 - [Ignore synthetic heading links during Markdown validation](https://github.com/skatkov/rdoc-markdown/pull/123) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
 - [Validate generated Markdown sections](https://github.com/skatkov/rdoc-markdown/pull/122) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Preserve literal code through conversion cleanup](https://github.com/xijo/reverse_markdown/pull/116) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (4 days ago) 
-- [Fix literal code preservation in Markdown examples](https://github.com/skatkov/rdoc-markdown/pull/121) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago)
+- [Preserve literal code through conversion cleanup](https://github.com/xijo/reverse_markdown/pull/116) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (4 days ago)
 
 #### 📓 Gists I wrote
  
