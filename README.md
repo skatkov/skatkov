@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [remove /received part from url path](https://github.com/skatkov/webhukhs/pull/20) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (today) 
 - [Sort admin webhooks by ID by default](https://github.com/skatkov/webhukhs/pull/19) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
 - [Clarify step job option precedence in API docs](https://github.com/julik/geneva_drive/pull/45) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (1 day ago) 
 - [Clarify step job option precedence in API docs](https://github.com/skatkov/fork_geneva_drive/pull/1) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Optional keyword parameters now render correctly](https://github.com/skatkov/yard-markdown/pull/49) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
 - [Preserve code examples when offsetting documentation headings](https://github.com/skatkov/rdoc-markdown/pull/125) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago) 
 - [Fix bare module_function handling](https://github.com/ruby/rdoc/pull/1859) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 week ago) 
-- [[ci skip] Document Active Job class and module arguments](https://github.com/rails/rails/pull/59196) on [rails/rails](https://github.com/rails/rails) (1 week ago) 
-- [Update README.md](https://github.com/skatkov/rdoc-markdown/pull/124) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
+- [[ci skip] Document Active Job class and module arguments](https://github.com/rails/rails/pull/59196) on [rails/rails](https://github.com/rails/rails) (1 week ago)
 
 #### 📓 Gists I wrote
  
