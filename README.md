@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (1 day ago) 
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (today) 
+- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) - A comprehensive collection of Model Context Protocol (MCP) servers (1 day ago) 
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 day ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (4 days ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago) 
-- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (1 week ago)
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (5 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Add POSH Ruby documentation MCP server](https://github.com/mcpHQ/awesome-mcp-servers/pull/490) on [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) (today) 
 - [Add POSH local Ruby documentation MCP server](https://github.com/TensorBlock/awesome-mcp-servers/pull/4742) on [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) (1 day ago) 
 - [Add project: POSH](https://github.com/tolkonepiu/best-of-mcp-servers/pull/592) on [tolkonepiu/best-of-mcp-servers](https://github.com/tolkonepiu/best-of-mcp-servers) (1 day ago) 
 - [Add skatkov/posh-mcp to Developer Tools](https://github.com/MobinX/awesome-mcp-list/pull/978) on [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Clarify step job option precedence in API docs](https://github.com/julik/geneva_drive/pull/45) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (2 days ago) 
 - [Clarify step job option precedence in API docs](https://github.com/skatkov/fork_geneva_drive/pull/1) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (2 days ago) 
 - [Fix/instance method index names](https://github.com/skatkov/rdoc-markdown/pull/126) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
-- [Preserve option names, types, descriptions, and defaults](https://github.com/skatkov/yard-markdown/pull/50) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
-- [Optional keyword parameters now render correctly](https://github.com/skatkov/yard-markdown/pull/49) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago)
+- [Preserve option names, types, descriptions, and defaults](https://github.com/skatkov/yard-markdown/pull/50) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago)
 
 #### 📓 Gists I wrote
  
