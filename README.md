@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (today) 
-- [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) - A curated catalog of Model Context Protocol (MCP) servers for discovering and integrating AI tools, data sources, and services. Explore MCP servers across databases, developer tools, web automation, cloud infrastructure, productivity, AI agents, analytics, and more. (today) 
-- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) - A comprehensive collection of Model Context Protocol (MCP) servers (1 day ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 day ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (4 days ago)
+- [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) - A curated catalog of Model Context Protocol (MCP) servers for discovering and integrating AI tools, data sources, and services. Explore MCP servers across databases, developer tools, web automation, cloud infrastructure, productivity, AI agents, analytics, and more. (1 day ago) 
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (1 day ago) 
+- [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) - A comprehensive collection of Model Context Protocol (MCP) servers (2 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (5 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Simplify admin sorting to ID only](https://github.com/skatkov/webhukhs/pull/21) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (today) 
-- [Add POSH Ruby documentation MCP server](https://github.com/mcpHQ/awesome-mcp-servers/pull/490) on [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) (today) 
-- [Add POSH local Ruby documentation MCP server](https://github.com/TensorBlock/awesome-mcp-servers/pull/4742) on [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) (1 day ago) 
-- [Add project: POSH](https://github.com/tolkonepiu/best-of-mcp-servers/pull/592) on [tolkonepiu/best-of-mcp-servers](https://github.com/tolkonepiu/best-of-mcp-servers) (1 day ago) 
-- [Add skatkov/posh-mcp to Developer Tools](https://github.com/MobinX/awesome-mcp-list/pull/978) on [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) (1 day ago) 
-- [remove /received part from url path](https://github.com/skatkov/webhukhs/pull/20) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
-- [Sort admin webhooks by ID by default](https://github.com/skatkov/webhukhs/pull/19) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
-- [Clarify step job option precedence in API docs](https://github.com/julik/geneva_drive/pull/45) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (2 days ago) 
-- [Clarify step job option precedence in API docs](https://github.com/skatkov/fork_geneva_drive/pull/1) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (2 days ago) 
-- [Fix/instance method index names](https://github.com/skatkov/rdoc-markdown/pull/126) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago)
+- [Simplify admin sorting to ID only](https://github.com/skatkov/webhukhs/pull/21) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
+- [Add POSH Ruby documentation MCP server](https://github.com/mcpHQ/awesome-mcp-servers/pull/490) on [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) (1 day ago) 
+- [Add POSH local Ruby documentation MCP server](https://github.com/TensorBlock/awesome-mcp-servers/pull/4742) on [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) (2 days ago) 
+- [Add project: POSH](https://github.com/tolkonepiu/best-of-mcp-servers/pull/592) on [tolkonepiu/best-of-mcp-servers](https://github.com/tolkonepiu/best-of-mcp-servers) (2 days ago) 
+- [Add skatkov/posh-mcp to Developer Tools](https://github.com/MobinX/awesome-mcp-list/pull/978) on [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) (2 days ago) 
+- [remove /received part from url path](https://github.com/skatkov/webhukhs/pull/20) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
+- [Sort admin webhooks by ID by default](https://github.com/skatkov/webhukhs/pull/19) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
+- [Clarify step job option precedence in API docs](https://github.com/julik/geneva_drive/pull/45) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (3 days ago) 
+- [Clarify step job option precedence in API docs](https://github.com/skatkov/fork_geneva_drive/pull/1) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (3 days ago) 
+- [Fix/instance method index names](https://github.com/skatkov/rdoc-markdown/pull/126) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (6 days ago)
 
 #### 📓 Gists I wrote
  
@@ -41,7 +41,7 @@
 #### 📜 My blog posts
 
 - [Snooping on GitHits.com](https://skatkov.com/posts/2026-07-15-snooping-on-githits) (3 months ago)
-- [Mutation testing in the age of LLMs](https://skatkov.com/posts/2026-07-01-mutate-all-things) (3 months ago)
+- [Mutation testing in the age of LLMs](https://skatkov.com/posts/2026-07-01-mutate-all-things) (4 months ago)
 - [Signing and notarizing a Mac app on Linux](https://skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (4 months ago)
 - [Let it rip](https://skatkov.com/posts/2026-02-14-let-it-rip) (8 months ago)
 - [Warning about deprecations in Ruby](https://skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (1 year ago)
