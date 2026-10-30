@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [“Also known as” lists to documented methods.](https://github.com/skatkov/rdoc-markdown/pull/127) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
+- [Upgrade SimpleCov and use per-test coverage maps for Mutant](https://github.com/skatkov/webhukhs/pull/23) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (today) 
 - [Simplify admin sorting to ID only](https://github.com/skatkov/webhukhs/pull/21) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
 - [Add POSH Ruby documentation MCP server](https://github.com/mcpHQ/awesome-mcp-servers/pull/490) on [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) (2 days ago) 
 - [Add POSH local Ruby documentation MCP server](https://github.com/TensorBlock/awesome-mcp-servers/pull/4742) on [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) (3 days ago) 
@@ -26,9 +28,7 @@
 - [Add skatkov/posh-mcp to Developer Tools](https://github.com/MobinX/awesome-mcp-list/pull/978) on [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) (3 days ago) 
 - [remove /received part from url path](https://github.com/skatkov/webhukhs/pull/20) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
 - [Sort admin webhooks by ID by default](https://github.com/skatkov/webhukhs/pull/19) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (4 days ago) 
-- [Clarify step job option precedence in API docs](https://github.com/julik/geneva_drive/pull/45) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (4 days ago) 
-- [Clarify step job option precedence in API docs](https://github.com/skatkov/fork_geneva_drive/pull/1) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (4 days ago) 
-- [Fix/instance method index names](https://github.com/skatkov/rdoc-markdown/pull/126) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
+- [Clarify step job option precedence in API docs](https://github.com/julik/geneva_drive/pull/45) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (4 days ago)
 
 #### 📓 Gists I wrote
  
