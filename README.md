@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Prototype opt-in method source in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/52) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [Correct NamespaceObject#aliases documentation](https://github.com/lsegal/yard/pull/1718) on [lsegal/yard](https://github.com/lsegal/yard) (today) 
 - [Show method aliases in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/51) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (today) 
 - [“Also known as” lists to documented methods.](https://github.com/skatkov/rdoc-markdown/pull/127) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
@@ -27,8 +28,7 @@
 - [Add POSH Ruby documentation MCP server](https://github.com/mcpHQ/awesome-mcp-servers/pull/490) on [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) (2 days ago) 
 - [Add POSH local Ruby documentation MCP server](https://github.com/TensorBlock/awesome-mcp-servers/pull/4742) on [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) (3 days ago) 
 - [Add project: POSH](https://github.com/tolkonepiu/best-of-mcp-servers/pull/592) on [tolkonepiu/best-of-mcp-servers](https://github.com/tolkonepiu/best-of-mcp-servers) (3 days ago) 
-- [Add skatkov/posh-mcp to Developer Tools](https://github.com/MobinX/awesome-mcp-list/pull/978) on [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) (3 days ago) 
-- [remove /received part from url path](https://github.com/skatkov/webhukhs/pull/20) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago)
+- [Add skatkov/posh-mcp to Developer Tools](https://github.com/MobinX/awesome-mcp-list/pull/978) on [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) (3 days ago)
 
 #### 📓 Gists I wrote
  
