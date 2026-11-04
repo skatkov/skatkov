@@ -6,7 +6,7 @@
 - [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 day ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
 - [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (4 days ago) 
-- [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) - A curated catalog of Model Context Protocol (MCP) servers for discovering and integrating AI tools, data sources, and services. Explore MCP servers across databases, developer tools, web automation, cloud infrastructure, productivity, AI agents, analytics, and more. (1 week ago)
+- [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (5 days ago)
 
 #### 🌱 My latest projects
  
