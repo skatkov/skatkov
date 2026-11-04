@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (today) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (today) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (3 days ago) 
-- [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) - A curated catalog of Model Context Protocol (MCP) servers for discovering and integrating AI tools, data sources, and services. Explore MCP servers across databases, developer tools, web automation, cloud infrastructure, productivity, AI agents, analytics, and more. (6 days ago)
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 day ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
+- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (4 days ago) 
+- [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) - A curated catalog of Model Context Protocol (MCP) servers for discovering and integrating AI tools, data sources, and services. Explore MCP servers across databases, developer tools, web automation, cloud infrastructure, productivity, AI agents, analytics, and more. (1 week ago)
 
 #### 🌱 My latest projects
  
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [ci: use ubuntu-slim runners](https://github.com/skatkov/yard-markdown/pull/54) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 day ago) 
-- [ci: use ubuntu-slim runners](https://github.com/skatkov/webhukhs/pull/24) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 day ago) 
-- [Preserve nested API lists with pinned converter fork](https://github.com/skatkov/rdoc-markdown/pull/128) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [Fix dropped nested lists and paragraphs in list items](https://github.com/xijo/reverse_markdown/pull/117) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (1 day ago) 
-- [Show method aliases in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/53) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
-- [Prototype opt-in method source in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/52) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
-- [Correct NamespaceObject#aliases documentation](https://github.com/lsegal/yard/pull/1718) on [lsegal/yard](https://github.com/lsegal/yard) (4 days ago) 
-- [Show method aliases in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/51) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
-- [“Also known as” lists to documented methods.](https://github.com/skatkov/rdoc-markdown/pull/127) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Upgrade SimpleCov and use per-test coverage maps for Mutant](https://github.com/skatkov/webhukhs/pull/23) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (4 days ago)
+- [ci: use ubuntu-slim runners](https://github.com/skatkov/yard-markdown/pull/54) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
+- [ci: use ubuntu-slim runners](https://github.com/skatkov/webhukhs/pull/24) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
+- [Preserve nested API lists with pinned converter fork](https://github.com/skatkov/rdoc-markdown/pull/128) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
+- [Fix dropped nested lists and paragraphs in list items](https://github.com/xijo/reverse_markdown/pull/117) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (2 days ago) 
+- [Show method aliases in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/53) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
+- [Prototype opt-in method source in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/52) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
+- [Correct NamespaceObject#aliases documentation](https://github.com/lsegal/yard/pull/1718) on [lsegal/yard](https://github.com/lsegal/yard) (5 days ago) 
+- [Show method aliases in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/51) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
+- [“Also known as” lists to documented methods.](https://github.com/skatkov/rdoc-markdown/pull/127) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Upgrade SimpleCov and use per-test coverage maps for Mutant](https://github.com/skatkov/webhukhs/pull/23) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (5 days ago)
 
 #### 📓 Gists I wrote
  
