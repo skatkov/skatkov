@@ -2,33 +2,33 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 day ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 day ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
-- [ruby/rdoc](https://github.com/ruby/rdoc) - RDoc produces HTML and online documentation for Ruby projects. (4 days ago) 
-- [lsegal/yard](https://github.com/lsegal/yard) - YARD is a Ruby Documentation tool. The Y stands for &#34;Yay!&#34; (5 days ago)
+- [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. (today) 
+- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (today) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (2 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (2 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (3 days ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. 
 - [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. 
 - [skatkov/posh-bundler](https://github.com/skatkov/posh-bundler) - Automatically run  `posh sync` after  bundle install  and   bundle update 
 - [skatkov/posh-benchmark](https://github.com/skatkov/posh-benchmark) - Reproducible Ruby benchmarks of POSH documentation retrieval footprints, with raw captures and version-checked webfetch comparisons 
-- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. 
-- [skatkov/rdoc-pot-serialization-benchmark](https://github.com/skatkov/rdoc-pot-serialization-benchmark) - 
+- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer.
 
 
 #### 🔨 My recent Pull Requests
  
-- [Clarify ongoing workflow states in API documentation](https://github.com/julik/geneva_drive/pull/46) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (today) 
-- [Clarify ongoing workflow states in API documentation](https://github.com/skatkov/fork_geneva_drive/pull/2) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (today) 
-- [Reduce Aliki’s peak memory usage by streaming search-index generation](https://github.com/ruby/rdoc/pull/1874) on [ruby/rdoc](https://github.com/ruby/rdoc) (today) 
-- [ci: use ubuntu-slim runners](https://github.com/skatkov/yard-markdown/pull/54) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (2 days ago) 
-- [ci: use ubuntu-slim runners](https://github.com/skatkov/webhukhs/pull/24) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (2 days ago) 
-- [Preserve nested API lists with pinned converter fork](https://github.com/skatkov/rdoc-markdown/pull/128) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
-- [Fix dropped nested lists and paragraphs in list items](https://github.com/xijo/reverse_markdown/pull/117) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (2 days ago) 
-- [Show method aliases in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/53) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
-- [Prototype opt-in method source in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/52) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
-- [Correct NamespaceObject#aliases documentation](https://github.com/lsegal/yard/pull/1718) on [lsegal/yard](https://github.com/lsegal/yard) (5 days ago)
+- [Clarify ongoing workflow states in API documentation](https://github.com/julik/geneva_drive/pull/46) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (1 day ago) 
+- [Clarify ongoing workflow states in API documentation](https://github.com/skatkov/fork_geneva_drive/pull/2) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (1 day ago) 
+- [Reduce Aliki’s peak memory usage by streaming search-index generation](https://github.com/ruby/rdoc/pull/1874) on [ruby/rdoc](https://github.com/ruby/rdoc) (1 day ago) 
+- [ci: use ubuntu-slim runners](https://github.com/skatkov/yard-markdown/pull/54) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (3 days ago) 
+- [ci: use ubuntu-slim runners](https://github.com/skatkov/webhukhs/pull/24) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (3 days ago) 
+- [Preserve nested API lists with pinned converter fork](https://github.com/skatkov/rdoc-markdown/pull/128) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
+- [Fix dropped nested lists and paragraphs in list items](https://github.com/xijo/reverse_markdown/pull/117) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (3 days ago) 
+- [Show method aliases in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/53) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
+- [Prototype opt-in method source in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/52) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (6 days ago) 
+- [Correct NamespaceObject#aliases documentation](https://github.com/lsegal/yard/pull/1718) on [lsegal/yard](https://github.com/lsegal/yard) (6 days ago)
 
 #### 📓 Gists I wrote
  
