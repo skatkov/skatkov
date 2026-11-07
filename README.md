@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. (1 day ago) 
-- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (1 day ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (3 days ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (3 days ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (4 days ago)
+- [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. (2 days ago) 
+- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (2 days ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (4 days ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (4 days ago) 
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (5 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,13 +19,13 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Clarify ongoing workflow states in API documentation](https://github.com/julik/geneva_drive/pull/46) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (2 days ago) 
-- [Clarify ongoing workflow states in API documentation](https://github.com/skatkov/fork_geneva_drive/pull/2) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (2 days ago) 
-- [Reduce Aliki’s peak memory usage by streaming search-index generation](https://github.com/ruby/rdoc/pull/1874) on [ruby/rdoc](https://github.com/ruby/rdoc) (2 days ago) 
-- [ci: use ubuntu-slim runners](https://github.com/skatkov/yard-markdown/pull/54) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (4 days ago) 
-- [ci: use ubuntu-slim runners](https://github.com/skatkov/webhukhs/pull/24) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (4 days ago) 
-- [Preserve nested API lists with pinned converter fork](https://github.com/skatkov/rdoc-markdown/pull/128) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Fix dropped nested lists and paragraphs in list items](https://github.com/xijo/reverse_markdown/pull/117) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (4 days ago) 
+- [Clarify ongoing workflow states in API documentation](https://github.com/julik/geneva_drive/pull/46) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (3 days ago) 
+- [Clarify ongoing workflow states in API documentation](https://github.com/skatkov/fork_geneva_drive/pull/2) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (3 days ago) 
+- [Reduce Aliki’s peak memory usage by streaming search-index generation](https://github.com/ruby/rdoc/pull/1874) on [ruby/rdoc](https://github.com/ruby/rdoc) (3 days ago) 
+- [ci: use ubuntu-slim runners](https://github.com/skatkov/yard-markdown/pull/54) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (5 days ago) 
+- [ci: use ubuntu-slim runners](https://github.com/skatkov/webhukhs/pull/24) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (5 days ago) 
+- [Preserve nested API lists with pinned converter fork](https://github.com/skatkov/rdoc-markdown/pull/128) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (5 days ago) 
+- [Fix dropped nested lists and paragraphs in list items](https://github.com/xijo/reverse_markdown/pull/117) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (5 days ago) 
 - [Show method aliases in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/53) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Prototype opt-in method source in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/52) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
 - [Correct NamespaceObject#aliases documentation](https://github.com/lsegal/yard/pull/1718) on [lsegal/yard](https://github.com/lsegal/yard) (1 week ago)
