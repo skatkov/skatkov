@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Fix native main parity](https://github.com/skatkov/rdoc-markdown/pull/133) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Ditch reverse_markdown gem, use native .ToMarkdown method](https://github.com/skatkov/rdoc-markdown/pull/132) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
 - [Migrate comment rendering to a native Markdown visitor](https://github.com/skatkov/rdoc-markdown/pull/131) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Fix underscored identifiers split by RDoc links](https://github.com/skatkov/rdoc-markdown/pull/130) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
@@ -27,8 +28,7 @@
 - [Add agent plugins for Claude Code, Codex, and OpenCode](https://github.com/skatkov/posh-mcp/pull/1) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (2 days ago) 
 - [Clarify ongoing workflow states in API documentation](https://github.com/julik/geneva_drive/pull/46) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (6 days ago) 
 - [Clarify ongoing workflow states in API documentation](https://github.com/skatkov/fork_geneva_drive/pull/2) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (6 days ago) 
-- [Reduce Aliki’s peak memory usage by streaming search-index generation](https://github.com/ruby/rdoc/pull/1874) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
-- [ci: use ubuntu-slim runners](https://github.com/skatkov/yard-markdown/pull/54) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago)
+- [Reduce Aliki’s peak memory usage by streaming search-index generation](https://github.com/ruby/rdoc/pull/1874) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago)
 
 #### 📓 Gists I wrote
  
