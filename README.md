@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (today) 
-- [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. (4 days ago) 
-- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (4 days ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (6 days ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (6 days ago)
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (1 day ago) 
+- [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. (5 days ago) 
+- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (5 days ago) 
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
+- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 week ago)
 
 #### 🌱 My latest projects
  
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Add agent plugins for Claude Code, Codex, and OpenCode](https://github.com/skatkov/posh-mcp/pull/1) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
-- [Clarify ongoing workflow states in API documentation](https://github.com/julik/geneva_drive/pull/46) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (5 days ago) 
-- [Clarify ongoing workflow states in API documentation](https://github.com/skatkov/fork_geneva_drive/pull/2) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (5 days ago) 
-- [Reduce Aliki’s peak memory usage by streaming search-index generation](https://github.com/ruby/rdoc/pull/1874) on [ruby/rdoc](https://github.com/ruby/rdoc) (5 days ago) 
+- [Migrate comment rendering to a native Markdown visitor](https://github.com/skatkov/rdoc-markdown/pull/131) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Fix underscored identifiers split by RDoc links](https://github.com/skatkov/rdoc-markdown/pull/130) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Control safe entities](https://github.com/charmbracelet/glamour/pull/656) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago) 
+- [Build the Chroma style per render instead of registering it once](https://github.com/charmbracelet/glamour/pull/655) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago) 
+- [Add agent plugins for Claude Code, Codex, and OpenCode](https://github.com/skatkov/posh-mcp/pull/1) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (2 days ago) 
+- [Clarify ongoing workflow states in API documentation](https://github.com/julik/geneva_drive/pull/46) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (6 days ago) 
+- [Clarify ongoing workflow states in API documentation](https://github.com/skatkov/fork_geneva_drive/pull/2) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (6 days ago) 
+- [Reduce Aliki’s peak memory usage by streaming search-index generation](https://github.com/ruby/rdoc/pull/1874) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago) 
 - [ci: use ubuntu-slim runners](https://github.com/skatkov/yard-markdown/pull/54) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [ci: use ubuntu-slim runners](https://github.com/skatkov/webhukhs/pull/24) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago) 
-- [Preserve nested API lists with pinned converter fork](https://github.com/skatkov/rdoc-markdown/pull/128) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Fix dropped nested lists and paragraphs in list items](https://github.com/xijo/reverse_markdown/pull/117) on [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) (1 week ago) 
-- [Show method aliases in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/53) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago) 
-- [Prototype opt-in method source in Markdown documentation](https://github.com/skatkov/yard-markdown/pull/52) on [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) (1 week ago)
+- [ci: use ubuntu-slim runners](https://github.com/skatkov/webhukhs/pull/24) on [skatkov/webhukhs](https://github.com/skatkov/webhukhs) (1 week ago)
 
 #### 📓 Gists I wrote
  
