@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
 - [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (1 day ago) 
 - [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. (5 days ago) 
 - [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (5 days ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago) 
-- [skatkov/webhukhs](https://github.com/skatkov/webhukhs) - Webhook processing engine for Rails apps (1 week ago)
+- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago)
 
 #### 🌱 My latest projects
  
