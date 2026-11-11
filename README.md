@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (today) 
 - [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (today) 
 - [dqhieu/black-friday-deals](https://github.com/dqhieu/black-friday-deals) - Discounts and deals on Black Friday and Cyber Monday for apps, saas, books, courses,... (today) 
 - [tushargugnani/awesome-black-friday-for-developers](https://github.com/tushargugnani/awesome-black-friday-for-developers) - Awesome Black Friday and Cyber Monday deals for developers and designers. Curated, no AI slop. (today) 
-- [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2026 Deals Live - Black Friday &amp; Cyber Monday, Christmas &amp; Holidays Deals for Developers, Techies &amp; Entrepreneurs (today)
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today)
 
 #### 🌱 My latest projects
  
@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Add native polynomial retry backoff](https://github.com/julik/geneva_drive/pull/47) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (today) 
+- [`wait: :polynomially_longer`, please?](https://github.com/julik/geneva_drive/pull/47) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (today) 
 - [Add POSH to Development Software](https://github.com/mRs-/Black-Friday-Deals/pull/1108) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (1 day ago) 
 - [Add POSH to Developer Tools](https://github.com/danmindru/rare-big-deal/pull/806) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (1 day ago) 
 - [Add POSH to Dev Tools &amp; SaaS](https://github.com/Pimjo/black-friday-deals/pull/117) on [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) (1 day ago) 
