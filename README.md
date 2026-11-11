@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (1 day ago) 
-- [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. (5 days ago) 
-- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer. (5 days ago) 
-- [skatkov/yard-markdown](https://github.com/skatkov/yard-markdown) - yard plugin to generate markdown documentation (1 week ago)
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
+- [tushargugnani/awesome-black-friday-for-developers](https://github.com/tushargugnani/awesome-black-friday-for-developers) - Awesome Black Friday and Cyber Monday deals for developers and designers. Curated, no AI slop. (today) 
+- [dqhieu/black-friday-deals](https://github.com/dqhieu/black-friday-deals) - Discounts and deals on Black Friday and Cyber Monday for apps, saas, books, courses,... (today) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 day ago) 
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (2 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Fix native main parity](https://github.com/skatkov/rdoc-markdown/pull/133) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [Ditch reverse_markdown gem, use native .ToMarkdown method](https://github.com/skatkov/rdoc-markdown/pull/132) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (today) 
-- [Migrate comment rendering to a native Markdown visitor](https://github.com/skatkov/rdoc-markdown/pull/131) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [Fix underscored identifiers split by RDoc links](https://github.com/skatkov/rdoc-markdown/pull/130) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
-- [Control safe entities](https://github.com/charmbracelet/glamour/pull/656) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago) 
-- [Build the Chroma style per render instead of registering it once](https://github.com/charmbracelet/glamour/pull/655) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago) 
-- [Add agent plugins for Claude Code, Codex, and OpenCode](https://github.com/skatkov/posh-mcp/pull/1) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (2 days ago) 
-- [Clarify ongoing workflow states in API documentation](https://github.com/julik/geneva_drive/pull/46) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (6 days ago) 
-- [Clarify ongoing workflow states in API documentation](https://github.com/skatkov/fork_geneva_drive/pull/2) on [skatkov/fork_geneva_drive](https://github.com/skatkov/fork_geneva_drive) (6 days ago) 
-- [Reduce Aliki’s peak memory usage by streaming search-index generation](https://github.com/ruby/rdoc/pull/1874) on [ruby/rdoc](https://github.com/ruby/rdoc) (6 days ago)
+- [Add POSH to Development Software](https://github.com/mRs-/Black-Friday-Deals/pull/1108) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (1 day ago) 
+- [Add POSH to Developer Tools](https://github.com/danmindru/rare-big-deal/pull/806) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (1 day ago) 
+- [Add POSH to Dev Tools &amp; SaaS](https://github.com/Pimjo/black-friday-deals/pull/117) on [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) (1 day ago) 
+- [Add POSH to Developer Tools](https://github.com/onmyway133/blackfriday/pull/75) on [onmyway133/blackfriday](https://github.com/onmyway133/blackfriday) (1 day ago) 
+- [Add POSH](https://github.com/dqhieu/black-friday-deals/pull/123) on [dqhieu/black-friday-deals](https://github.com/dqhieu/black-friday-deals) (1 day ago) 
+- [Add POSH to Developer Tools](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/pull/543) on [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) (1 day ago) 
+- [Add POSH](https://github.com/tushargugnani/awesome-black-friday-for-developers/pull/22) on [tushargugnani/awesome-black-friday-for-developers](https://github.com/tushargugnani/awesome-black-friday-for-developers) (1 day ago) 
+- [Add POSH to Developer Tools › Tools &amp; Services](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/pull/2609) on [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) (1 day ago) 
+- [Ditch reverse_markdown gem, use native .ToMarkdown method](https://github.com/skatkov/rdoc-markdown/pull/133) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
+- [Ditch reverse_markdown gem, use native .ToMarkdown method](https://github.com/skatkov/rdoc-markdown/pull/132) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago)
 
 #### 📓 Gists I wrote
  
@@ -43,5 +43,5 @@
 - [Snooping on GitHits.com](https://skatkov.com/posts/2026-07-15-snooping-on-githits) (3 months ago)
 - [Mutation testing in the age of LLMs](https://skatkov.com/posts/2026-07-01-mutate-all-things) (4 months ago)
 - [Signing and notarizing a Mac app on Linux](https://skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (4 months ago)
-- [Let it rip](https://skatkov.com/posts/2026-02-14-let-it-rip) (8 months ago)
+- [Let it rip](https://skatkov.com/posts/2026-02-14-let-it-rip) (9 months ago)
 - [Warning about deprecations in Ruby](https://skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (1 year ago)
