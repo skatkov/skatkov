@@ -3,10 +3,10 @@
 #### 👷 Check out what I'm currently working on
  
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (today) 
-- [tushargugnani/awesome-black-friday-for-developers](https://github.com/tushargugnani/awesome-black-friday-for-developers) - Awesome Black Friday and Cyber Monday deals for developers and designers. Curated, no AI slop. (today) 
+- [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (today) 
 - [dqhieu/black-friday-deals](https://github.com/dqhieu/black-friday-deals) - Discounts and deals on Black Friday and Cyber Monday for apps, saas, books, courses,... (today) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 day ago) 
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (2 days ago)
+- [tushargugnani/awesome-black-friday-for-developers](https://github.com/tushargugnani/awesome-black-friday-for-developers) - Awesome Black Friday and Cyber Monday deals for developers and designers. Curated, no AI slop. (today) 
+- [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2026 Deals Live - Black Friday &amp; Cyber Monday, Christmas &amp; Holidays Deals for Developers, Techies &amp; Entrepreneurs (today)
 
 #### 🌱 My latest projects
  
