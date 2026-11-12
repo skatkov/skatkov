@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (1 day ago) 
-- [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (1 day ago) 
-- [dqhieu/black-friday-deals](https://github.com/dqhieu/black-friday-deals) - Discounts and deals on Black Friday and Cyber Monday for apps, saas, books, courses,... (1 day ago) 
-- [tushargugnani/awesome-black-friday-for-developers](https://github.com/tushargugnani/awesome-black-friday-for-developers) - Awesome Black Friday and Cyber Monday deals for developers and designers. Curated, no AI slop. (1 day ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (1 day ago)
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (today) 
+- [skatkov/isometric-tongelre](https://github.com/skatkov/isometric-tongelre) - An isometric pixel-art map of Tongelre, the old village east of Eindhoven, rendered from Dutch open data (today) 
+- [onmyway133/blackfriday](https://github.com/onmyway133/blackfriday) - Black Friday deals from indie makers. Submit yours with a pull request. (today) 
+- [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2026 Deals Live - Black Friday &amp; Cyber Monday, Christmas &amp; Holidays Deals for Developers, Techies &amp; Entrepreneurs (1 day ago) 
+- [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (1 day ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/isometric-tongelre](https://github.com/skatkov/isometric-tongelre) - An isometric pixel-art map of Tongelre, the old village east of Eindhoven, rendered from Dutch open data 
 - [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. 
 - [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. 
 - [skatkov/posh-bundler](https://github.com/skatkov/posh-bundler) - Automatically run  `posh sync` after  bundle install  and   bundle update 
-- [skatkov/posh-benchmark](https://github.com/skatkov/posh-benchmark) - Reproducible Ruby benchmarks of POSH documentation retrieval footprints, with raw captures and version-checked webfetch comparisons 
-- [skatkov/opencode-vitals-terminal](https://github.com/skatkov/opencode-vitals-terminal) - Turns, model steps, and token usage in OpenCode V2&#39;s terminal prompt footer.
+- [skatkov/posh-benchmark](https://github.com/skatkov/posh-benchmark) - Reproducible Ruby benchmarks of POSH documentation retrieval footprints, with raw captures and version-checked webfetch comparisons
 
 
 #### 🔨 My recent Pull Requests
