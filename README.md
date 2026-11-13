@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (today) 
-- [skatkov/isometric-tongelre](https://github.com/skatkov/isometric-tongelre) - An isometric pixel-art map of Tongelre, the old village east of Eindhoven, rendered from Dutch open data (today) 
-- [onmyway133/blackfriday](https://github.com/onmyway133/blackfriday) - Black Friday deals from indie makers. Submit yours with a pull request. (today) 
-- [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2026 Deals Live - Black Friday &amp; Cyber Monday, Christmas &amp; Holidays Deals for Developers, Techies &amp; Entrepreneurs (1 day ago) 
-- [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software &amp; Books (1 day ago)
+- [skatkov/isometric-tongelre](https://github.com/skatkov/isometric-tongelre) - An isometric pixel-art map of Tongelre, the old village east of Eindhoven, rendered from Dutch open data (1 day ago) 
+- [onmyway133/blackfriday](https://github.com/onmyway133/blackfriday) - Black Friday deals from indie makers. Submit yours with a pull request. (1 day ago) 
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (1 day ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 day ago) 
+- [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) - Black Friday 2026 deals for developers and designers covering SaaS tools, UI kits, templates, boilerplates, icon libraries, design resources, and AI tools. (2 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [`wait: :polynomially_longer`, please?](https://github.com/julik/geneva_drive/pull/47) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (1 day ago) 
-- [Add POSH to Development Software](https://github.com/mRs-/Black-Friday-Deals/pull/1108) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (2 days ago) 
-- [Add POSH to Developer Tools](https://github.com/danmindru/rare-big-deal/pull/806) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (2 days ago) 
-- [Add POSH to Dev Tools &amp; SaaS](https://github.com/Pimjo/black-friday-deals/pull/117) on [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) (2 days ago) 
-- [Add POSH to Developer Tools](https://github.com/onmyway133/blackfriday/pull/75) on [onmyway133/blackfriday](https://github.com/onmyway133/blackfriday) (2 days ago) 
-- [Add POSH](https://github.com/dqhieu/black-friday-deals/pull/123) on [dqhieu/black-friday-deals](https://github.com/dqhieu/black-friday-deals) (2 days ago) 
-- [Add POSH to Developer Tools](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/pull/543) on [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) (2 days ago) 
-- [Add POSH](https://github.com/tushargugnani/awesome-black-friday-for-developers/pull/22) on [tushargugnani/awesome-black-friday-for-developers](https://github.com/tushargugnani/awesome-black-friday-for-developers) (2 days ago) 
-- [Add POSH to Developer Tools › Tools &amp; Services](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/pull/2609) on [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) (2 days ago) 
-- [Ditch reverse_markdown gem, use native .ToMarkdown method](https://github.com/skatkov/rdoc-markdown/pull/133) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago)
+- [`wait: :polynomially_longer`, please?](https://github.com/julik/geneva_drive/pull/47) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (2 days ago) 
+- [Add POSH to Development Software](https://github.com/mRs-/Black-Friday-Deals/pull/1108) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (3 days ago) 
+- [Add POSH to Developer Tools](https://github.com/danmindru/rare-big-deal/pull/806) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (3 days ago) 
+- [Add POSH to Dev Tools &amp; SaaS](https://github.com/Pimjo/black-friday-deals/pull/117) on [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) (3 days ago) 
+- [Add POSH to Developer Tools](https://github.com/onmyway133/blackfriday/pull/75) on [onmyway133/blackfriday](https://github.com/onmyway133/blackfriday) (3 days ago) 
+- [Add POSH](https://github.com/dqhieu/black-friday-deals/pull/123) on [dqhieu/black-friday-deals](https://github.com/dqhieu/black-friday-deals) (3 days ago) 
+- [Add POSH to Developer Tools](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/pull/543) on [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) (3 days ago) 
+- [Add POSH](https://github.com/tushargugnani/awesome-black-friday-for-developers/pull/22) on [tushargugnani/awesome-black-friday-for-developers](https://github.com/tushargugnani/awesome-black-friday-for-developers) (3 days ago) 
+- [Add POSH to Developer Tools › Tools &amp; Services](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/pull/2609) on [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) (3 days ago) 
+- [Ditch reverse_markdown gem, use native .ToMarkdown method](https://github.com/skatkov/rdoc-markdown/pull/133) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago)
 
 #### 📓 Gists I wrote
  
@@ -36,7 +36,7 @@
 - [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (2 months ago) 
 - [RDoc lazy colored tokens benchmark](https://gist.github.com/7e509742651586c1b993a8b15b10a8da) (2 months ago) 
 - [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (4 months ago) 
-- [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (5 months ago)
+- [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (6 months ago)
 
 #### 📜 My blog posts
 
