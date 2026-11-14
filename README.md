@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [[ci skip] Clarify create_table block behavior with as:](https://github.com/rails/rails/pull/59806) on [rails/rails](https://github.com/rails/rails) (today) 
+- [Sqlite support](https://github.com/ankane/strong_migrations/pull/324) on [ankane/strong_migrations](https://github.com/ankane/strong_migrations) (today) 
 - [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/135) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/134) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 day ago) 
 - [Add shared POSH adoption policy for Claude Code, Codex, and OpenCode](https://github.com/skatkov/posh-mcp/pull/4) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
@@ -26,9 +28,7 @@
 - [Add POSH to Development Software](https://github.com/mRs-/Black-Friday-Deals/pull/1108) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (4 days ago) 
 - [Add POSH to Developer Tools](https://github.com/danmindru/rare-big-deal/pull/806) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (4 days ago) 
 - [Add POSH to Dev Tools &amp; SaaS](https://github.com/Pimjo/black-friday-deals/pull/117) on [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) (4 days ago) 
-- [Add POSH to Developer Tools](https://github.com/onmyway133/blackfriday/pull/75) on [onmyway133/blackfriday](https://github.com/onmyway133/blackfriday) (4 days ago) 
-- [Add POSH](https://github.com/dqhieu/black-friday-deals/pull/123) on [dqhieu/black-friday-deals](https://github.com/dqhieu/black-friday-deals) (4 days ago) 
-- [Add POSH to Developer Tools](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/pull/543) on [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) (4 days ago)
+- [Add POSH to Developer Tools](https://github.com/onmyway133/blackfriday/pull/75) on [onmyway133/blackfriday](https://github.com/onmyway133/blackfriday) (4 days ago)
 
 #### 📓 Gists I wrote
  
