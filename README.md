@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (today) 
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails (1 day ago) 
 - [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (3 days ago) 
 - [skatkov/isometric-tongelre](https://github.com/skatkov/isometric-tongelre) - An isometric pixel-art map of Tongelre, the old village east of Eindhoven, rendered from Dutch open data (3 days ago) 
 - [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (3 days ago)
 
