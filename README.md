@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
+- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (today) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (today) 
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails (1 day ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago) 
-- [skatkov/isometric-tongelre](https://github.com/skatkov/isometric-tongelre) - An isometric pixel-art map of Tongelre, the old village east of Eindhoven, rendered from Dutch open data (3 days ago) 
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (3 days ago)
+- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [fix(jsonfmt): avoid adding an extra output newline](https://github.com/skatkov/devtui/pull/250) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [[ci skip] Clarify create_table block behavior with as:](https://github.com/rails/rails/pull/59806) on [rails/rails](https://github.com/rails/rails) (1 day ago) 
 - [Sqlite support](https://github.com/ankane/strong_migrations/pull/324) on [ankane/strong_migrations](https://github.com/ankane/strong_migrations) (1 day ago) 
 - [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/135) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
@@ -27,8 +28,7 @@
 - [`wait: :polynomially_longer`, please?](https://github.com/julik/geneva_drive/pull/47) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (4 days ago) 
 - [Add POSH to Development Software](https://github.com/mRs-/Black-Friday-Deals/pull/1108) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (5 days ago) 
 - [Add POSH to Developer Tools](https://github.com/danmindru/rare-big-deal/pull/806) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (5 days ago) 
-- [Add POSH to Dev Tools &amp; SaaS](https://github.com/Pimjo/black-friday-deals/pull/117) on [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) (5 days ago) 
-- [Add POSH to Developer Tools](https://github.com/onmyway133/blackfriday/pull/75) on [onmyway133/blackfriday](https://github.com/onmyway133/blackfriday) (5 days ago)
+- [Add POSH to Dev Tools &amp; SaaS](https://github.com/Pimjo/black-friday-deals/pull/117) on [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) (5 days ago)
 
 #### 📓 Gists I wrote
  
