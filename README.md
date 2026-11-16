@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
-- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (today) 
-- [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (today) 
-- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (1 day ago) 
-- [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) - RDoc plugin to output markdown documentation (2 days ago)
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (today) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 day ago) 
+- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (1 day ago) 
+- [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (1 day ago) 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (2 days ago)
 
 #### 🌱 My latest projects
  
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [fix(jsonfmt): avoid adding an extra output newline](https://github.com/skatkov/devtui/pull/250) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
-- [[ci skip] Clarify create_table block behavior with as:](https://github.com/rails/rails/pull/59806) on [rails/rails](https://github.com/rails/rails) (1 day ago) 
-- [Sqlite support](https://github.com/ankane/strong_migrations/pull/324) on [ankane/strong_migrations](https://github.com/ankane/strong_migrations) (1 day ago) 
-- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/135) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
-- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/134) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (2 days ago) 
-- [Add shared POSH adoption policy for Claude Code, Codex, and OpenCode](https://github.com/skatkov/posh-mcp/pull/4) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (2 days ago) 
-- [`wait: :polynomially_longer`, please?](https://github.com/julik/geneva_drive/pull/47) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (4 days ago) 
-- [Add POSH to Development Software](https://github.com/mRs-/Black-Friday-Deals/pull/1108) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (5 days ago) 
-- [Add POSH to Developer Tools](https://github.com/danmindru/rare-big-deal/pull/806) on [danmindru/rare-big-deal](https://github.com/danmindru/rare-big-deal) (5 days ago) 
-- [Add POSH to Dev Tools &amp; SaaS](https://github.com/Pimjo/black-friday-deals/pull/117) on [Pimjo/black-friday-deals](https://github.com/Pimjo/black-friday-deals) (5 days ago)
+- [Claude code posh adoption](https://github.com/skatkov/posh-mcp/pull/6) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
+- [Plugin descriptions](https://github.com/skatkov/posh-mcp/pull/5) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
+- [fix(jsonfmt): avoid adding an extra output newline](https://github.com/skatkov/devtui/pull/250) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
+- [[ci skip] Clarify create_table block behavior with as:](https://github.com/rails/rails/pull/59806) on [rails/rails](https://github.com/rails/rails) (2 days ago) 
+- [Sqlite support](https://github.com/ankane/strong_migrations/pull/324) on [ankane/strong_migrations](https://github.com/ankane/strong_migrations) (2 days ago) 
+- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/135) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
+- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/134) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (3 days ago) 
+- [Add shared POSH adoption policy for Claude Code, Codex, and OpenCode](https://github.com/skatkov/posh-mcp/pull/4) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (3 days ago) 
+- [`wait: :polynomially_longer`, please?](https://github.com/julik/geneva_drive/pull/47) on [julik/geneva_drive](https://github.com/julik/geneva_drive) (5 days ago) 
+- [Add POSH to Development Software](https://github.com/mRs-/Black-Friday-Deals/pull/1108) on [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) (6 days ago)
 
 #### 📓 Gists I wrote
  
