@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Use Vitest for incremental mutation testing](https://github.com/skatkov/posh-mcp/pull/10) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (today) 
 - [Feat/copilot cli plugin](https://github.com/skatkov/posh-mcp/pull/9) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (today) 
 - [Add mutation testing, strengthen plugin tests, and run it in CI](https://github.com/skatkov/posh-mcp/pull/8) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
 - [Claude code posh adoption](https://github.com/skatkov/posh-mcp/pull/6) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (2 days ago) 
@@ -27,8 +28,7 @@
 - [[ci skip] Clarify create_table block behavior with as:](https://github.com/rails/rails/pull/59806) on [rails/rails](https://github.com/rails/rails) (3 days ago) 
 - [Sqlite support](https://github.com/ankane/strong_migrations/pull/324) on [ankane/strong_migrations](https://github.com/ankane/strong_migrations) (3 days ago) 
 - [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/135) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/134) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago) 
-- [Add shared POSH adoption policy for Claude Code, Codex, and OpenCode](https://github.com/skatkov/posh-mcp/pull/4) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (4 days ago)
+- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/134) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (4 days ago)
 
 #### 📓 Gists I wrote
  
