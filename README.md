@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (2 days ago) 
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (today) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 days ago) 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (4 days ago) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (4 days ago) 
