@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [fix(toml2yaml): preserve scalar types without a JSON round trip](https://github.com/skatkov/devtui/pull/254) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [Use Vitest for incremental mutation testing](https://github.com/skatkov/posh-mcp/pull/10) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (3 days ago) 
 - [Feat/copilot cli plugin](https://github.com/skatkov/posh-mcp/pull/9) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (3 days ago) 
 - [Add mutation testing, strengthen plugin tests, and run it in CI](https://github.com/skatkov/posh-mcp/pull/8) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (4 days ago) 
@@ -27,8 +28,7 @@
 - [fix(jsonfmt): avoid adding an extra output newline](https://github.com/skatkov/devtui/pull/250) on [skatkov/devtui](https://github.com/skatkov/devtui) (5 days ago) 
 - [[ci skip] Clarify create_table block behavior with as:](https://github.com/rails/rails/pull/59806) on [rails/rails](https://github.com/rails/rails) (6 days ago) 
 - [Sqlite support](https://github.com/ankane/strong_migrations/pull/324) on [ankane/strong_migrations](https://github.com/ankane/strong_migrations) (6 days ago) 
-- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/135) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago) 
-- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/134) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
+- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/135) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
 
 #### 📓 Gists I wrote
  
