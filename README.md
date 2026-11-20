@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today) 
 - [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (1 day ago) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (5 days ago) 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (5 days ago) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (5 days ago) 
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails (6 days ago)
@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Add DevTUI preview GIF](https://github.com/skatkov/devtui/pull/255) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [fix(toml2yaml): preserve scalar types without a JSON round trip](https://github.com/skatkov/devtui/pull/254) on [skatkov/devtui](https://github.com/skatkov/devtui) (today) 
 - [Use Vitest for incremental mutation testing](https://github.com/skatkov/posh-mcp/pull/10) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (3 days ago) 
 - [Feat/copilot cli plugin](https://github.com/skatkov/posh-mcp/pull/9) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (3 days ago) 
@@ -27,8 +28,7 @@
 - [Plugin descriptions](https://github.com/skatkov/posh-mcp/pull/5) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
 - [fix(jsonfmt): avoid adding an extra output newline](https://github.com/skatkov/devtui/pull/250) on [skatkov/devtui](https://github.com/skatkov/devtui) (5 days ago) 
 - [[ci skip] Clarify create_table block behavior with as:](https://github.com/rails/rails/pull/59806) on [rails/rails](https://github.com/rails/rails) (6 days ago) 
-- [Sqlite support](https://github.com/ankane/strong_migrations/pull/324) on [ankane/strong_migrations](https://github.com/ankane/strong_migrations) (6 days ago) 
-- [Optional attributes](https://github.com/skatkov/rdoc-markdown/pull/135) on [skatkov/rdoc-markdown](https://github.com/skatkov/rdoc-markdown) (1 week ago)
+- [Sqlite support](https://github.com/ankane/strong_migrations/pull/324) on [ankane/strong_migrations](https://github.com/ankane/strong_migrations) (6 days ago)
 
 #### 📓 Gists I wrote
  
