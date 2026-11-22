@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Enable POSH by default in all projects](https://github.com/skatkov/posh-mcp/pull/15) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (today) 
 - [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/14) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
 - [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/13) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
 - [Batch exact-match POSH lookups in Codex](https://github.com/skatkov/posh-mcp/pull/12) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
@@ -27,8 +28,7 @@
 - [fix(toml2yaml): preserve scalar types without a JSON round trip](https://github.com/skatkov/devtui/pull/254) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
 - [Use Vitest for incremental mutation testing](https://github.com/skatkov/posh-mcp/pull/10) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
 - [Feat/copilot cli plugin](https://github.com/skatkov/posh-mcp/pull/9) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
-- [Add mutation testing, strengthen plugin tests, and run it in CI](https://github.com/skatkov/posh-mcp/pull/8) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
-- [Claude code posh adoption](https://github.com/skatkov/posh-mcp/pull/6) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 week ago)
+- [Add mutation testing, strengthen plugin tests, and run it in CI](https://github.com/skatkov/posh-mcp/pull/8) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago)
 
 #### 📓 Gists I wrote
  
