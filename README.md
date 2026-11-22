@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (today) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 day ago) 
-- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (6 days ago) 
-- [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (6 days ago) 
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (1 day ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (2 days ago) 
+- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (1 week ago) 
+- [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (1 week ago) 
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails (1 week ago)
 
 #### 🌱 My latest projects
@@ -19,16 +19,16 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/13) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (today) 
-- [Batch exact-match POSH lookups in Codex](https://github.com/skatkov/posh-mcp/pull/12) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (today) 
-- [Benchmark POSH adoption in Codex and trim tool discovery](https://github.com/skatkov/posh-mcp/pull/11) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
-- [Add DevTUI preview GIF](https://github.com/skatkov/devtui/pull/255) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
-- [fix(toml2yaml): preserve scalar types without a JSON round trip](https://github.com/skatkov/devtui/pull/254) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 day ago) 
-- [Use Vitest for incremental mutation testing](https://github.com/skatkov/posh-mcp/pull/10) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (4 days ago) 
-- [Feat/copilot cli plugin](https://github.com/skatkov/posh-mcp/pull/9) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (4 days ago) 
-- [Add mutation testing, strengthen plugin tests, and run it in CI](https://github.com/skatkov/posh-mcp/pull/8) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
-- [Claude code posh adoption](https://github.com/skatkov/posh-mcp/pull/6) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
-- [Plugin descriptions](https://github.com/skatkov/posh-mcp/pull/5) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago)
+- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/14) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
+- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/13) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
+- [Batch exact-match POSH lookups in Codex](https://github.com/skatkov/posh-mcp/pull/12) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
+- [Benchmark POSH adoption in Codex and trim tool discovery](https://github.com/skatkov/posh-mcp/pull/11) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (2 days ago) 
+- [Add DevTUI preview GIF](https://github.com/skatkov/devtui/pull/255) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
+- [fix(toml2yaml): preserve scalar types without a JSON round trip](https://github.com/skatkov/devtui/pull/254) on [skatkov/devtui](https://github.com/skatkov/devtui) (2 days ago) 
+- [Use Vitest for incremental mutation testing](https://github.com/skatkov/posh-mcp/pull/10) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
+- [Feat/copilot cli plugin](https://github.com/skatkov/posh-mcp/pull/9) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
+- [Add mutation testing, strengthen plugin tests, and run it in CI](https://github.com/skatkov/posh-mcp/pull/8) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
+- [Claude code posh adoption](https://github.com/skatkov/posh-mcp/pull/6) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 week ago)
 
 #### 📓 Gists I wrote
  
@@ -42,6 +42,6 @@
 
 - [Snooping on GitHits.com](https://skatkov.com/posts/2026-07-15-snooping-on-githits) (4 months ago)
 - [Mutation testing in the age of LLMs](https://skatkov.com/posts/2026-07-01-mutate-all-things) (4 months ago)
-- [Signing and notarizing a Mac app on Linux](https://skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (4 months ago)
+- [Signing and notarizing a Mac app on Linux](https://skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (5 months ago)
 - [Let it rip](https://skatkov.com/posts/2026-02-14-let-it-rip) (9 months ago)
 - [Warning about deprecations in Ruby](https://skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (1 year ago)
