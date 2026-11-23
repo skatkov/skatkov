@@ -19,6 +19,8 @@
 
 #### 🔨 My recent Pull Requests
  
+- [Default SerpApi tool results to Markdown](https://github.com/serpapi/opencode-serpapi/pull/6) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (today) 
+- [Default OpenCode web search to SerpApi when unconfigured](https://github.com/serpapi/opencode-serpapi/pull/5) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (today) 
 - [Enable POSH by default in all projects](https://github.com/skatkov/posh-mcp/pull/15) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 day ago) 
 - [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/14) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (2 days ago) 
 - [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/13) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (2 days ago) 
@@ -26,9 +28,7 @@
 - [Benchmark POSH adoption in Codex and trim tool discovery](https://github.com/skatkov/posh-mcp/pull/11) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (3 days ago) 
 - [Add DevTUI preview GIF](https://github.com/skatkov/devtui/pull/255) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 days ago) 
 - [fix(toml2yaml): preserve scalar types without a JSON round trip](https://github.com/skatkov/devtui/pull/254) on [skatkov/devtui](https://github.com/skatkov/devtui) (3 days ago) 
-- [Use Vitest for incremental mutation testing](https://github.com/skatkov/posh-mcp/pull/10) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
-- [Feat/copilot cli plugin](https://github.com/skatkov/posh-mcp/pull/9) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
-- [Add mutation testing, strengthen plugin tests, and run it in CI](https://github.com/skatkov/posh-mcp/pull/8) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 week ago)
+- [Use Vitest for incremental mutation testing](https://github.com/skatkov/posh-mcp/pull/10) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago)
 
 #### 📓 Gists I wrote
  
