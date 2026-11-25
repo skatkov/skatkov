@@ -2,19 +2,19 @@
 
 #### 👷 Check out what I'm currently working on
  
+- [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) -  (today) 
 - [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (3 days ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (5 days ago) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (1 week ago) 
-- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (1 week ago) 
-- [rails/rails](https://github.com/rails/rails) - Ruby on Rails (1 week ago)
+- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (1 week ago)
 
 #### 🌱 My latest projects
  
+- [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) -  
 - [skatkov/isometric-tongelre](https://github.com/skatkov/isometric-tongelre) - An isometric pixel-art map of Tongelre, the old village east of Eindhoven, rendered from Dutch open data 
 - [skatkov/session-vitals-plugin](https://github.com/skatkov/session-vitals-plugin) - Session usage in the prompt footer and sidebar of your terminal coding agent: OpenCode and Claude Code plugins for turns, steps, context, tokens, cost and tool-call stats. 
 - [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. 
-- [skatkov/posh-bundler](https://github.com/skatkov/posh-bundler) - Automatically run  `posh sync` after  bundle install  and   bundle update 
-- [skatkov/posh-benchmark](https://github.com/skatkov/posh-benchmark) - Reproducible Ruby benchmarks of POSH documentation retrieval footprints, with raw captures and version-checked webfetch comparisons
+- [skatkov/posh-bundler](https://github.com/skatkov/posh-bundler) - Automatically run  `posh sync` after  bundle install  and   bundle update
 
 
 #### 🔨 My recent Pull Requests
