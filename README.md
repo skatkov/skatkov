@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) -  (1 day ago) 
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (4 days ago) 
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (6 days ago) 
+- [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) -  (2 days ago) 
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (5 days ago) 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (1 week ago) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (1 week ago)
 
@@ -19,21 +19,21 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Quality checks](https://github.com/skatkov/aimusictube.com/pull/1) on [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) (1 day ago) 
-- [Default SerpApi tool results to Markdown](https://github.com/serpapi/opencode-serpapi/pull/6) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (3 days ago) 
-- [Default OpenCode web search to SerpApi when unconfigured](https://github.com/serpapi/opencode-serpapi/pull/5) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (3 days ago) 
-- [Enable POSH by default in all projects](https://github.com/skatkov/posh-mcp/pull/15) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (4 days ago) 
-- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/14) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
-- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/13) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
-- [Batch exact-match POSH lookups in Codex](https://github.com/skatkov/posh-mcp/pull/12) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
-- [Benchmark POSH adoption in Codex and trim tool discovery](https://github.com/skatkov/posh-mcp/pull/11) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
-- [Add DevTUI preview GIF](https://github.com/skatkov/devtui/pull/255) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago) 
-- [fix(toml2yaml): preserve scalar types without a JSON round trip](https://github.com/skatkov/devtui/pull/254) on [skatkov/devtui](https://github.com/skatkov/devtui) (6 days ago)
+- [Quality checks](https://github.com/skatkov/aimusictube.com/pull/1) on [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) (2 days ago) 
+- [Default SerpApi tool results to Markdown](https://github.com/serpapi/opencode-serpapi/pull/6) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (4 days ago) 
+- [Default OpenCode web search to SerpApi when unconfigured](https://github.com/serpapi/opencode-serpapi/pull/5) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (4 days ago) 
+- [Enable POSH by default in all projects](https://github.com/skatkov/posh-mcp/pull/15) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
+- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/14) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
+- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/13) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
+- [Batch exact-match POSH lookups in Codex](https://github.com/skatkov/posh-mcp/pull/12) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
+- [Benchmark POSH adoption in Codex and trim tool discovery](https://github.com/skatkov/posh-mcp/pull/11) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 week ago) 
+- [Add DevTUI preview GIF](https://github.com/skatkov/devtui/pull/255) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
+- [fix(toml2yaml): preserve scalar types without a JSON round trip](https://github.com/skatkov/devtui/pull/254) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago)
 
 #### 📓 Gists I wrote
  
-- [RDoc RBS member lookup benchmark](https://gist.github.com/82f89eaf2269286a42a4adf966d2fd12) (2 months ago) 
-- [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (2 months ago) 
+- [RDoc RBS member lookup benchmark](https://gist.github.com/82f89eaf2269286a42a4adf966d2fd12) (3 months ago) 
+- [RDoc Store Page Lookup Benchmark](https://gist.github.com/4acf6230fc6fbc99c69583c023390d72) (3 months ago) 
 - [RDoc lazy colored tokens benchmark](https://gist.github.com/7e509742651586c1b993a8b15b10a8da) (3 months ago) 
 - [GitHits session](https://gist.github.com/6430deb29aa17c068e15f72a12d6c25d) (4 months ago) 
 - [5000 top downloads from rubygems](https://gist.github.com/ee1a1876b936abf710baee364cd06e8b) (6 months ago)
