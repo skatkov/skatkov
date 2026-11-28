@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
  
-- [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) -  (2 days ago) 
-- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (5 days ago) 
+- [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) -  (3 days ago) 
+- [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) - Local Ruby documentation MCP server. Public install metadata for proprietary POSH binaries. (6 days ago) 
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago) 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday. (1 week ago) 
 - [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (1 week ago)
@@ -19,13 +19,13 @@
 
 #### 🔨 My recent Pull Requests
  
-- [Quality checks](https://github.com/skatkov/aimusictube.com/pull/1) on [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) (2 days ago) 
-- [Default SerpApi tool results to Markdown](https://github.com/serpapi/opencode-serpapi/pull/6) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (4 days ago) 
-- [Default OpenCode web search to SerpApi when unconfigured](https://github.com/serpapi/opencode-serpapi/pull/5) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (4 days ago) 
-- [Enable POSH by default in all projects](https://github.com/skatkov/posh-mcp/pull/15) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (5 days ago) 
-- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/14) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
-- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/13) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
-- [Batch exact-match POSH lookups in Codex](https://github.com/skatkov/posh-mcp/pull/12) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
+- [Quality checks](https://github.com/skatkov/aimusictube.com/pull/1) on [skatkov/aimusictube.com](https://github.com/skatkov/aimusictube.com) (3 days ago) 
+- [Default SerpApi tool results to Markdown](https://github.com/serpapi/opencode-serpapi/pull/6) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (5 days ago) 
+- [Default OpenCode web search to SerpApi when unconfigured](https://github.com/serpapi/opencode-serpapi/pull/5) on [serpapi/opencode-serpapi](https://github.com/serpapi/opencode-serpapi) (5 days ago) 
+- [Enable POSH by default in all projects](https://github.com/skatkov/posh-mcp/pull/15) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (6 days ago) 
+- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/14) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 week ago) 
+- [Reuse POSH context and print compact tool results](https://github.com/skatkov/posh-mcp/pull/13) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 week ago) 
+- [Batch exact-match POSH lookups in Codex](https://github.com/skatkov/posh-mcp/pull/12) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 week ago) 
 - [Benchmark POSH adoption in Codex and trim tool discovery](https://github.com/skatkov/posh-mcp/pull/11) on [skatkov/posh-mcp](https://github.com/skatkov/posh-mcp) (1 week ago) 
 - [Add DevTUI preview GIF](https://github.com/skatkov/devtui/pull/255) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago) 
 - [fix(toml2yaml): preserve scalar types without a JSON round trip](https://github.com/skatkov/devtui/pull/254) on [skatkov/devtui](https://github.com/skatkov/devtui) (1 week ago)
@@ -41,7 +41,7 @@
 #### 📜 My blog posts
 
 - [Snooping on GitHits.com](https://skatkov.com/posts/2026-07-15-snooping-on-githits) (4 months ago)
-- [Mutation testing in the age of LLMs](https://skatkov.com/posts/2026-07-01-mutate-all-things) (4 months ago)
+- [Mutation testing in the age of LLMs](https://skatkov.com/posts/2026-07-01-mutate-all-things) (5 months ago)
 - [Signing and notarizing a Mac app on Linux](https://skatkov.com/posts/2026-06-25-signing-and-notarizing-mac-app-on-linux) (5 months ago)
 - [Let it rip](https://skatkov.com/posts/2026-02-14-let-it-rip) (9 months ago)
 - [Warning about deprecations in Ruby](https://skatkov.com/posts/2025-10-18-warning-about-deprecations-in-ruby) (1 year ago)
